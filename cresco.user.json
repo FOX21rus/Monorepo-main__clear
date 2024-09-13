@@ -1,0 +1,2202 @@
+[{
+  "_id": {
+    "$oid": "6372a23378500a3dc06e5b3f"
+  },
+  "phones": [],
+  "email": "info@cresco.capital",
+  "emails": [],
+  "rolesJwt": [],
+  "roles": [
+    "admin",
+    "super_admin"
+  ],
+  "passwordHash": "$2b$10$AhMrO66lVZWVeP4kitk7nOjrxPuDAOHV1xe5Dbjmoz.Kdwv52uy0a",
+  "__v": 0,
+  "verificationCode": "246044",
+  "agreementName": "DD-01/2024/815 от 30.01.2024",
+  "agreementNames": [
+    "undefined",
+    "Данные договора",
+    "1",
+    "Отчет о движении средств по счету за отчетный период ",
+    "с 26 февраля 2024 г.по 26 февраля 2024 г.",
+    "DD-01/2023/752 от 23.07.2023",
+    "DD-01/2023/753 от 19.08.2022",
+    "DD-01/2023/725 от 25.05.2023",
+    "DD-01/2023/727 от 29.06.2023",
+    "DD-01/2023/790 от 12.12.2023",
+    "DD-01/2024/816 от 31.01.2024",
+    "DD-01/2023/765 от 28.12.2023",
+    "DD-01/2023/761 от 20.09.2023",
+    "DD-01/2023/792 от 15.12.2023",
+    "DD-01/2024/815 от 30.01.2024",
+    "DD-01/2023/729 от 07.06.2023",
+    "DD-01/2023/709 от 27.04.2023",
+    "DD-01/2023/793 от 11.12.2023"
+  ]
+},
+{
+  "_id": {
+    "$oid": "64a69147216abcd404e60210"
+  },
+  "phones": [],
+  "email": "mgogolev1991@gmail.com",
+  "emails": [],
+  "rolesJwt": [],
+  "roles": [
+    "customer"
+  ],
+  "passwordHash": "$2b$10$HxFMhc4ZTsZGpbQs1WZKP..fIk4Hl8U4OqfLOTtjqHKj32WeSXzmW",
+  "__v": 0,
+  "otp": "7670498",
+  "otpExpiresAt": {
+    "$date": "2024-07-19T13:31:14.689Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "64a808efc3905b5e68887f67"
+  },
+  "phones": [],
+  "email": "maxgogolevcap@gmail.com",
+  "emails": [],
+  "rolesJwt": [],
+  "roles": [
+    "customer"
+  ],
+  "passwordHash": "$2b$10$KLj6GaT54rbcPsVdsMucxuTA6WsY6s0utlFAm.dMOKu10xYUO1nTC",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a8140fc3905b5e68888aed"
+  },
+  "phones": [],
+  "email": "k.efizov@crescofinance.ru",
+  "emails": [],
+  "rolesJwt": [],
+  "roles": [
+    "customer"
+  ],
+  "passwordHash": "$2b$10$EufFz7caxtrIIVf43DIh5.XnnNdBdcfRqlrlMuxQfQepumFf6yD6G",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a815c9c3905b5e68888de4"
+  },
+  "phones": [],
+  "email": "i.zakharova@crescofinance.ru",
+  "emails": [],
+  "rolesJwt": [],
+  "roles": [
+    "customer"
+  ],
+  "passwordHash": "$2b$10$zYmqPkTR794XuWlRNUyeoOGO6GpPEKJ9QgMrQyywdHiM1yT9k71Xe",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b57b4871ad4585f31d3d98"
+  },
+  "phones": [],
+  "email": "nickerlan0@gmail.com",
+  "emails": [],
+  "rolesJwt": [],
+  "roles": [
+    "customer"
+  ],
+  "passwordHash": "$2b$10$qWnWOlg9FpvvWzD8P/Ce.uRsPJqPVNhXwXsGNzx4xdsEBSuR1INki",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b9913e5b29c6cb85f1cf37"
+  },
+  "phones": [],
+  "email": "syrand.2023@gmail.com",
+  "emails": [],
+  "rolesJwt": [],
+  "roles": [
+    "customer"
+  ],
+  "passwordHash": "$2b$10$XZIF944l5m24HIO2d.CBbuxF.ET6PKnRUHu8xdRmdFUvyS7176do.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64bd3773b6a8323980b0d44f"
+  },
+  "phones": [],
+  "email": "metroy@mail.ru",
+  "emails": [],
+  "rolesJwt": [],
+  "roles": [
+    "customer"
+  ],
+  "passwordHash": "$2b$10$19wfUynA98CXj1fhb2lLmewyCz0SPtaCv3tf3q4NTFv8fwKTveQXy",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64bf7ccc7a0b201df85fd9f5"
+  },
+  "phones": [],
+  "email": "yaneona88@gmail.com",
+  "emails": [],
+  "rolesJwt": [],
+  "roles": [
+    "customer"
+  ],
+  "passwordHash": "$2b$10$ZFcRktAl/0p7kuUdw8bpHOW.OJgpog1KKlc0hSk6WZG9jdCAxCaKy",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651fd2df0f9e904921123a49"
+  },
+  "phones": [],
+  "email": "k.efizov@crescofinance.pro",
+  "emails": [],
+  "rolesJwt": [],
+  "roles": [
+    "customer"
+  ],
+  "passwordHash": "$2b$10$6JKcPck3/KyZorIOQK3Ij.GBbla3wbMtnK/VKewgrlYHsxr55wzV6",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "654b9a164e6af8a2db9e80af"
+  },
+  "phones": [],
+  "email": "chevnev58@gmail.com",
+  "emails": [],
+  "rolesJwt": [],
+  "roles": [
+    "customer"
+  ],
+  "passwordHash": "$2b$10$5vowEcQ4dwxVtXL3Z/xHpOKJF9fj1BPOWc.CxABYTGAiyYytRVTv6",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "654b9b004e6af8a2db9e811b"
+  },
+  "phones": [],
+  "email": "Smehovaa@mail.ru",
+  "emails": [],
+  "rolesJwt": [],
+  "roles": [
+    "customer"
+  ],
+  "passwordHash": "$2b$10$0yiLMB02uKdgiJlyY90PCu/ypf4q6MIds8foR3J7/k/HnmE5jNcy.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "654b9b684e6af8a2db9e8154"
+  },
+  "phones": [],
+  "email": "Leo-y@yandex.ru",
+  "emails": [],
+  "rolesJwt": [],
+  "roles": [
+    "customer"
+  ],
+  "passwordHash": "$2b$10$bvpF0Plo5HV6dscUmKty8ey46Gjz.dKCcmxGaHqHya0fhq8wW.vt.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "654b9bf24e6af8a2db9e8194"
+  },
+  "phones": [],
+  "email": "pavel.a.orlov@gmail.com",
+  "emails": [],
+  "rolesJwt": [],
+  "roles": [
+    "customer"
+  ],
+  "passwordHash": "$2b$10$F85MBWIV/fYOMpjAfn2W0.wvGd2A39RFQaeieGUxqG1f7CWaZkHku",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d71ab97f9e3605534f2918"
+  },
+  "phones": [],
+  "email": "test@asdhajsdkjhasd.ru",
+  "emails": [],
+  "rolesJwt": [],
+  "roles": [
+    "customer"
+  ],
+  "otp": "123456",
+  "passwordHash": "$2b$10$/mcIq7.FRxxeuE51IJ2DRugGIEn7MR78FQhf5YPUrQNvhifIlGUry",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dc3ad2f07e721be35ccc6b"
+  },
+  "phone": "79778752110",
+  "phones": [],
+  "email": "nnstrahov@yandex.ru",
+  "emails": [],
+  "rolesJwt": [],
+  "roles": [
+    "customer"
+  ],
+  "passwordHash": "$2b$10$zK130GvfQZw/GNS2OXy12.gMwXyiSVgOy5.hGrujc2DJRdPUke5Du",
+  "otp": "1927192",
+  "__v": 0,
+  "otpExpiresAt": {
+    "$date": "2024-04-26T21:24:22.471Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65dc49e1c9390fd53bedd31d"
+  },
+  "phone": "971555402206",
+  "phones": [],
+  "email": "tadaaa@lalaaaaa.ru",
+  "emails": [],
+  "rolesJwt": [],
+  "roles": [
+    "customer"
+  ],
+  "passwordHash": "$2b$10$vWicjioC30G4iCR6dklKi.tLsEF/lqBgeykQXtfeXl91U5prByv2u",
+  "__v": 0,
+  "otp": "3972297",
+  "otpExpiresAt": {
+    "$date": "2024-02-26T23:35:56.001Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65dda704fa69b05a02877591"
+  },
+  "phone": "",
+  "__v": 0,
+  "agreementName": "Данные договора",
+  "agreementNames": [
+    "Данные договора"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": []
+},
+{
+  "_id": {
+    "$oid": "65dda704fa69b05a02877596"
+  },
+  "phone": "21",
+  "__v": 0,
+  "agreementName": "1",
+  "agreementNames": [
+    "1"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": []
+},
+{
+  "_id": {
+    "$oid": "65dda704fa69b05a02877599"
+  },
+  "phone": "79165309784",
+  "__v": 0,
+  "agreementName": "DD-01/2024/864 от 19.08.2024",
+  "agreementNames": [
+    "DD-01/2023/752 от 23.07.2023",
+    "DD-01/2023/753 от 19.08.2022",
+    "DD-01/2024/864 от 19.08.2024"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "email": "79165309784@customer.cresco.capital",
+  "signature": "mjQkoAWDzQXFCrrA2XH2tX45kj2USS6S",
+  "otp": " OTP: 3684850",
+  "otpExpiresAt": {
+    "$date": "2024-02-27T11:21:07.697Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65dda704fa69b05a0287759c"
+  },
+  "phone": "79104672555",
+  "__v": 0,
+  "agreementName": "DD-01/2024/844 от 25.05.2024",
+  "agreementNames": [
+    "DD-01/2023/725 от 25.05.2023",
+    "DD-01/2024/844 от 25.05.2024"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "email": "79104672555@customer.cresco.capital",
+  "signature": "7Cq3qJFzj9oyVTbmNSrCNofy1rdVRNKL",
+  "otp": "4869731",
+  "otpExpiresAt": {
+    "$date": "2024-08-15T10:45:06.956Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65dda704fa69b05a028775a9"
+  },
+  "phone": "79169910208",
+  "__v": 0,
+  "agreementName": "DD-01/2024/866 от 02.09.2024",
+  "agreementNames": [
+    "DD-01/2023/729 от 07.06.2023",
+    "DD-01/2024/848 от 07.06.2024",
+    "DD-01/2024/866 от 02.09.2024"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "email": "79169910208@customer.cresco.capital",
+  "signature": "nNtdEaJzO3r3KlQMSqRHQfGvmLEESlYj"
+},
+{
+  "_id": {
+    "$oid": "65dda705fa69b05a028775bb"
+  },
+  "phone": "79037961766",
+  "__v": 0,
+  "agreementName": "DD-01/2024/836 от 27.04.2024",
+  "agreementNames": [
+    "DD-01/2023/709 от 27.04.2023",
+    "DD-01/2023/793 от 11.12.2023",
+    "DD-01/2024/836 от 27.04.2024"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "email": "79037961766@customer.cresco.capital",
+  "signature": "eYmBN6aVrlIp4abueK9fO4e9eKxPRGmp"
+},
+{
+  "_id": {
+    "$oid": "65e04b62bb89ac9bda24e713"
+  },
+  "phone": "79265830790",
+  "__v": 0,
+  "agreementName": "DD-01/2024/814 от 15.02.2024",
+  "agreementNames": [
+    "DD-01/2024/814 от 15.02.2024"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "5Ku0YFoVSeWjmu0fHyCSXGxt4qrH8tNh",
+  "email": "79265830790@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "65e04b62bb89ac9bda24e716"
+  },
+  "phone": "79163753194",
+  "__v": 0,
+  "agreementName": "DD-01/2024/822 от 21.01.2024",
+  "agreementNames": [
+    "DD-01/2023/711 от 15.04.2023",
+    "DD-01/2023/710 от 15.04.2023",
+    "DD-01/2024/822 от 21.01.2024",
+    "DD-01/2024/832 от 15.04.2024",
+    "DD-01/2024/833 от 15.04.2024"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "ppNMdDICI2jTx6qYbbF553JyuNFuWAhM",
+  "email": "79163753194@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "65e04b62bb89ac9bda24e71d"
+  },
+  "phone": "79857607880",
+  "__v": 0,
+  "agreementName": "DD-01/2024/815 от 30.01.2024",
+  "agreementNames": [
+    "DD-01/2023/792 от 15.12.2023",
+    "DD-01/2024/815 от 30.01.2024"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "NGGp7k78fiNuA8C0eeHPAY1uLTTgwAA1",
+  "email": "79857607880@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "65e04b62bb89ac9bda24e720"
+  },
+  "phone": "79104028774",
+  "__v": 0,
+  "agreementName": "DD-01/2023/762 от 04.10.2023",
+  "agreementNames": [
+    "DD-01/2023/762 от 04.10.2023"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "3cUESUcQsPIM9wyJ70fW4zKSzHHXkd5C",
+  "email": "79104028774@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "65e04b62bb89ac9bda24e722"
+  },
+  "phone": "79037996561",
+  "__v": 0,
+  "agreementName": "DD-01/2023/750 от 13.07.2023",
+  "agreementNames": [
+    "DD-01/2023/750 от 13.07.2023",
+    "DD-01/2023/751 от 13.07.2023",
+    "DD-01/2023/704 от 01.04.2023",
+    "DD-01/2023/718 от 27.04.2023",
+    "DD-01/2023/757 от 17.09.2023",
+    "DD-01/2023/728 от 01.06.2023",
+    "DD-01/2023/730 от 10.08.2023"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "PSchgcUjSBGPog3wFeBbtXVpgOUbWURM",
+  "email": "79037996561@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "65e04b62bb89ac9bda24e725"
+  },
+  "phone": "79151141982",
+  "__v": 0,
+  "agreementName": "DD-01/2023/783 от 17.12.2023",
+  "agreementNames": [
+    "DD-01/2023/783 от 17.12.2023"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "siEbi8eiGVKXqBOHzZ68K7ogXdtQnsUn",
+  "email": "79151141982@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "65e04b62bb89ac9bda24e727"
+  },
+  "phone": "79629821565",
+  "__v": 0,
+  "agreementName": "DD-01/2024/812 от 01.03.2024",
+  "agreementNames": [
+    "DD-01/2023/691 от 01.03.2023",
+    "DD-01/2024/812 от 01.03.2024"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "WUK81uKay7ZRdPtu0VrBEo2xjLymFxgB",
+  "email": "79629821565@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "65e04b62bb89ac9bda24e729"
+  },
+  "phone": "89160015738",
+  "__v": 0,
+  "agreementName": "DD-01/2023/769 от 26.10.2023",
+  "agreementNames": [
+    "DD-01/2023/769 от 26.10.2023"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "vWlpLuOyama4Lo9OIbsYtAnqdx7Xwv3U",
+  "email": "89160015738@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "65e04b62bb89ac9bda24e72b"
+  },
+  "phone": "79150401255",
+  "__v": 0,
+  "agreementName": "DD-01/2024/853 от 29.06.2024",
+  "agreementNames": [
+    "DD-01/2023/732 от 29.06.2023",
+    "DD-01/2023/731 от 29.06.2023",
+    "DD-01/2023/784 от 13.12.2023",
+    "DD-01/2019/286 от 29.06.2019 USD от 29.06.2019",
+    "DD-01/2024/853 от 29.06.2024",
+    "DD-01/2024/854 от 29.06.2024"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "ZYumV0iR5325lO3djkP79SQDzs2tDBin",
+  "email": "79150401255@customer.cresco.capital",
+  "otp": "1886149",
+  "otpExpiresAt": {
+    "$date": "2024-09-04T14:43:45.347Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65e04b62bb89ac9bda24e72f"
+  },
+  "phone": "79193434888",
+  "__v": 0,
+  "agreementName": "DD-01/2024/796 от 01.01.2024",
+  "agreementNames": [
+    "DD-01/2024/796 от 01.01.2024",
+    "DD-01/2023/673 от 01.01.2023"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "BOZCD0rTLrvRykqUKc8wHQKe5iNxEGLu",
+  "email": "79193434888@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "65e04b62bb89ac9bda24e731"
+  },
+  "phone": "89852106164",
+  "__v": 0,
+  "agreementName": "DD-01/2023/771 от 11.10.2023",
+  "agreementNames": [
+    "DD-01/2023/772 от 11.10.2023",
+    "DD-01/2023/771 от 11.10.2023",
+    "DD-01/2023/882 от 11.10.2023",
+    "DD-01/2023/881 от 11.10.2023"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "xehhXYJuxK9QpmlrAZRZ3TixefgmJlwy",
+  "email": "89852106164@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "65e04b62bb89ac9bda24e734"
+  },
+  "phone": "79857678428",
+  "__v": 0,
+  "agreementName": "DD-01/2024/846 от 01.06.2024",
+  "agreementNames": [
+    "DD-01/2023/726 от 01.06.2023",
+    "DD-01/2024/846 от 01.06.2024"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "Fi1xzcqPHdLo6KuWY0pKgYo2vM6P1RxV",
+  "email": "79857678428@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "65e04b62bb89ac9bda24e736"
+  },
+  "phone": "79859280068",
+  "__v": 0,
+  "agreementName": "DD-01/2024/834 от 12.04.2024",
+  "agreementNames": [
+    "DD-01/2023/714 от 12.04.2023",
+    "DD-01/2024/834 от 12.04.2024"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "xJS3q94hodZWZkgPm9YKRnwCQjzLFtq5",
+  "email": "79859280068@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "65e04b62bb89ac9bda24e738"
+  },
+  "phone": "79166887828",
+  "__v": 0,
+  "agreementName": "DD-01/2024/810 от 01.03.2024",
+  "agreementNames": [
+    "DD-01/2023/697 от 01.03.2023",
+    "DD-01/2023/698 от 01.03.2023",
+    "DD-01/2024/811 от 01.03.2024",
+    "DD-01/2024/810 от 01.03.2024"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "RSUgIZ2IGTFK3LPNa8ijayccoWYn04g3",
+  "email": "79166887828@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "65e04b62bb89ac9bda24e73b"
+  },
+  "phone": "79257555557",
+  "__v": 0,
+  "agreementName": "DD-01/2022/578 от 01.01.2022",
+  "agreementNames": [
+    "DD-01/2022/578 от 01.01.2022"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "rl1ffIWYKuYdg16da50a7mCjlUwJ2dbt",
+  "email": "79257555557@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "65e04b62bb89ac9bda24e73d"
+  },
+  "phone": "79265890054",
+  "__v": 0,
+  "agreementName": "DD-01/2024/838 от 27.04.2024",
+  "agreementNames": [
+    "DD-01/2023/770 от 06.10.2023",
+    "DD-01/2023/773 от 18.10.2023",
+    "DD-01/2023/775 от 18.10.2023",
+    "DD-01/2023/774 от 23.11.2023",
+    "DD-01/2023/712 от 27.04.2023",
+    "DD-01/2024/808 от 15.02.2024",
+    "DD-01/2024/838 от 27.04.2024"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "cX5EGuALtjSQEEeESGV7mbAdyVPLw920",
+  "email": "79265890054@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "65e04b62bb89ac9bda24e74a"
+  },
+  "phone": "79852334343",
+  "__v": 0,
+  "agreementName": "DD-01/2024/803 от 11.01.2024",
+  "agreementNames": [
+    "DD-01/2024/803 от 11.01.2024"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "cGUDY2k2lKklSxN2X1P3JhJcVM1YvTAp",
+  "email": "79852334343@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "65e04b62bb89ac9bda24e74d"
+  },
+  "phone": "79857619402",
+  "__v": 0,
+  "agreementName": "DD-01/2023/744 от 17.07.2023",
+  "agreementNames": [
+    "DD-01/2023/744 от 17.07.2023"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "os2jsts6L9Di6laqyeCnDiAiPTwliWkT",
+  "email": "79857619402@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "65e04b62bb89ac9bda24e74f"
+  },
+  "phone": "79299764805",
+  "__v": 0,
+  "agreementName": "DD-01/2024/839 от 10.04.2024",
+  "agreementNames": [
+    "DD-01/2023/723 от 10.04.2023",
+    "DD-01/2024/839 от 10.04.2024"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "zalmTnv5I0NmtmvS0F5Ix5F1CNfHm8ZE",
+  "email": "79299764805@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "65e04b62bb89ac9bda24e751"
+  },
+  "phone": "79265256671",
+  "__v": 0,
+  "agreementName": "DD-01/2024/842 от 12.05.2024",
+  "agreementNames": [
+    "DD-01/2023/722 от 12.05.2023",
+    "DD-01/2024/806 от 06.02.2024",
+    "DD-01/2024/842 от 12.05.2024"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "VvFr4badfCHcppOy2SYrEqGEAE1Siwvo",
+  "email": "79265256671@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "65e04b62bb89ac9bda24e754"
+  },
+  "phone": "79032531269",
+  "__v": 0,
+  "agreementName": "DD-01/2023/759 от 14.10.2023",
+  "agreementNames": [
+    "DD-01/2023/758 от 05.09.2023",
+    "DD-01/2023/759 от 14.10.2023"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "PC9UW5er666RMnakxiCQ0x6MkjWshowC",
+  "email": "79032531269@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "65e04b62bb89ac9bda24e758"
+  },
+  "phone": "79169286164",
+  "__v": 0,
+  "agreementName": "DD-01/2023/787 от 17.12.2023",
+  "agreementNames": [
+    "DD-01/2023/787 от 17.12.2023"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "j286VuzHsLCQvS96cQO3OvHDr25iiQ8V",
+  "email": "79169286164@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "65e04b62bb89ac9bda24e75a"
+  },
+  "phone": "79037643952",
+  "__v": 0,
+  "agreementName": "DD-01/2020/353 от 27.01.2020 от 27.01.2020",
+  "agreementNames": [
+    "DD-01/2020/353 от 27.01.2020 от 27.01.2020"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "l5NjKPn2C1J5cgolJcXRl9PtgP7kjUKK",
+  "email": "79037643952@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "65e89936bb89ac9bda348610"
+  },
+  "phone": "79202117674",
+  "__v": 0,
+  "agreementName": "DD-01/2023/802 от 13.11.2023",
+  "agreementNames": [
+    "DD-01/2023/768 от 04.10.2023",
+    "DD-01/2023/802 от 13.11.2023"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "C56lFTyNNJKK7pNkSwSzUCL1m5DTpOfc",
+  "email": "79202117674@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "65e89936bb89ac9bda348615"
+  },
+  "phone": "79263836899",
+  "__v": 0,
+  "agreementName": "DD-01/2023/778 от 28.11.2023",
+  "agreementNames": [
+    "DD-01/2024/799 от 28.01.2024",
+    "DD-01/2024/798 от 28.01.2024",
+    "DD-01/2024/800 от 28.01.2024",
+    "DD-01/2023/778 от 28.11.2023",
+    "DD-01/2023/779 от 28.11.2023",
+    "DD-01/2023/777 от 28.11.2023"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "wqW2XbzbgKYszWEHIyrQErXNrQo3Er5Y",
+  "email": "79263836899@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "65e89937bb89ac9bda34862b"
+  },
+  "phone": "79060713947",
+  "__v": 0,
+  "agreementName": "DD-01/2023/780 от 12.11.2023",
+  "agreementNames": [
+    "DD-01/2023/780 от 12.11.2023"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "u1xi33JLnmQA8ju2rtxF9cMrJrX6ikZe",
+  "email": "79060713947@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "65e89937bb89ac9bda34862e"
+  },
+  "phone": "79160806350",
+  "__v": 0,
+  "agreementName": "DD-01/2023/760 от 13.09.2023",
+  "agreementNames": [
+    "DD-01/2023/760 от 13.09.2023"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "1YWHticJwU8ThIQ7ox2chBZ0AFtH1H2V",
+  "email": "79160806350@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "65e89937bb89ac9bda348630"
+  },
+  "phone": "79152756355",
+  "__v": 0,
+  "agreementName": "DD-01/2024/827 от 15.03.2024",
+  "agreementNames": [
+    "DD-01/2023/716 от 15.03.2023",
+    "DD-01/2023/705 от 15.03.2023",
+    "DD-01/2024/827 от 15.03.2024",
+    "DD-01/2024/828 от 15.03.2024"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "09E1xKoqx2vbFzbzy7CyqqxTZ7V1cOu4",
+  "email": "79152756355@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "65e89937bb89ac9bda348633"
+  },
+  "phone": "79152756051",
+  "__v": 0,
+  "agreementName": "DD-01/2024/857 RUB от 28.06.2024",
+  "agreementNames": [
+    "DD-01/2023/736 RUB от 28.06.2023",
+    "DD-01/2023/780 USD от 17.11.2023",
+    "DD-01/2024/857 RUB от 28.06.2024"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "wUBvpgzhBfjOPom1NFHcykPc1tDGxGBV",
+  "email": "79152756051@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "65e89937bb89ac9bda34863c"
+  },
+  "phone": "79774254899",
+  "__v": 0,
+  "agreementName": "DD-01/2024/831 от 27.04.2024",
+  "agreementNames": [
+    "DD-01/2023/704 от 01.04.2023",
+    "DD-01/2023/718 от 27.04.2023",
+    "DD-01/2023/757 от 17.09.2023",
+    "DD-01/2024/818 от 01.04.2024",
+    "DD-01/2024/831 от 27.04.2024"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "p5EkDND1OviM3e66sh1bsT60CKquxLuU",
+  "email": "79774254899@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "65e89937bb89ac9bda348642"
+  },
+  "phone": "79104764474",
+  "__v": 0,
+  "agreementName": "DD-01/2024/845 от 01.06.2024",
+  "agreementNames": [
+    "DD-01/2023/728 от 01.06.2023",
+    "DD-01/2024/845 от 01.06.2024"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "8wHBOQl4xFPBmKA6cMNhWUl0lHJsBWmr",
+  "email": "79104764474@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "65e89937bb89ac9bda348644"
+  },
+  "phone": "79312783802",
+  "__v": 0,
+  "agreementName": "DD-01/2024/852 от 28.06.2024",
+  "agreementNames": [
+    "DD-01/2023/735 от 28.06.2023",
+    "DD-01/2023/740 от 28.07.2023",
+    "DD-01/2023/788 от 28.12.2022",
+    "DD-01/2024/852 от 28.06.2024"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "txOlNpp0LAikQMZX3x9WK8xrKybY4YTW",
+  "email": "79312783802@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "65e89937bb89ac9bda348649"
+  },
+  "phone": "79255066574",
+  "__v": 0,
+  "agreementName": "DD-01/2024/862 от 10.08.2024",
+  "agreementNames": [
+    "DD-01/2023/730 от 10.08.2023",
+    "DD-01/2024/862 от 10.08.2024"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "u1Q2HQ56YDYCOJ4GwON6fNRLkcaL74jF",
+  "email": "79255066574@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "65e89937bb89ac9bda34864b"
+  },
+  "phone": "79645843883",
+  "__v": 0,
+  "agreementName": "DD-01/2024/850 от 21.06.2024",
+  "agreementNames": [
+    "DD-01/2023/734 от 21.06.2023",
+    "DD-01/2024/850 от 21.06.2024"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "1J99eV6y3lVth2PxP3CFCBA75qvBP3UH",
+  "email": "79645843883@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "65e89937bb89ac9bda34864f"
+  },
+  "phone": "79857601042",
+  "__v": 0,
+  "agreementName": "DD-01/2023/743 от 13.07.2023",
+  "agreementNames": [
+    "DD-01/2023/703 от 14.03.2023",
+    "DD-01/2023/747 от 03.07.2023",
+    "DD-01/2023/743 от 13.07.2023",
+    "DD-01/2024/817 от 14.03.2024"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "Kz9X5DNbbItgdyEUVaJZ3cOmdbTRNafi",
+  "email": "79857601042@customer.cresco.capital",
+  "otp": "3274172",
+  "otpExpiresAt": {
+    "$date": "2024-08-26T13:48:06.123Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65e89937bb89ac9bda348653"
+  },
+  "phone": "79166940846",
+  "__v": 0,
+  "agreementName": "DD-01/2023/797 от 21.12.2023",
+  "agreementNames": [
+    "DD-01/2023/797 от 21.12.2023"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "DExNCY8hBv8uEY8QZmuByeHrki3J41pC",
+  "email": "79166940846@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "66422f004d1dad251e051e47"
+  },
+  "phone": "+79175755915",
+  "phones": [],
+  "email": "mmmm@test.com",
+  "emails": [],
+  "agreementNames": [],
+  "rolesJwt": [],
+  "roles": [
+    "customer"
+  ],
+  "passwordHash": "$2b$10$ktP/F9HQ7xIS92wF/8WEnuvZd.A.k4aORel6gQvrR7jP4uS0/fv8O",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664230ab4d1dad251e051ec4"
+  },
+  "phone": "+971555402206",
+  "phones": [],
+  "email": "mmmmm@test.com",
+  "emails": [],
+  "agreementNames": [],
+  "rolesJwt": [],
+  "roles": [
+    "customer"
+  ],
+  "passwordHash": "$2b$10$1Ab2B.i6lWW14CcOzxNBKuNWU5Wd.2ujbWknVqZX9eM6GlctpgVku",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664239404d1dad251e052156"
+  },
+  "phone": "79060972680",
+  "phones": [],
+  "email": "nick@olai.pro",
+  "emails": [],
+  "agreementNames": [],
+  "rolesJwt": [],
+  "roles": [
+    "customer"
+  ],
+  "passwordHash": "$2b$10$GYx4W4zVa9tplZNofUeMeeP3IeObAGlwH4/cD/WanD/UbmhTe3Hqy",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664239744d1dad251e052168"
+  },
+  "phone": "1111333222444",
+  "phones": [],
+  "email": "nick1@olai.pro",
+  "emails": [],
+  "agreementNames": [],
+  "rolesJwt": [],
+  "roles": [
+    "customer"
+  ],
+  "passwordHash": "$2b$10$oLcKgPap/EuMWLAI6G8RRuKwM7K74rEnAi.AM1N15SxNDGyuTmhSq",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66423ab24d1dad251e0521da"
+  },
+  "phone": "123123123123",
+  "phones": [],
+  "email": "nick3@olai.pro",
+  "emails": [],
+  "agreementNames": [],
+  "rolesJwt": [],
+  "roles": [
+    "customer"
+  ],
+  "passwordHash": "$2b$10$ct0lNvl7lhzMEbMXv2NPgOAgnEANGghYKT0dO4uE/vd0I.66xPCD.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6644eef0bb89ac9bdadab677"
+  },
+  "phone": "89038961866",
+  "__v": 0,
+  "agreementName": "DD-01/2024/836 от 28.04.2024",
+  "agreementNames": [
+    "DD-01/2023/893 от 11.12.2023",
+    "DD-01/2024/836 от 28.04.2024"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "CsZpOICCFZBHjc92k4rVg24OrWTr4vag",
+  "email": "89038961866@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "6644eef0bb89ac9bdadab67a"
+  },
+  "phone": "89163853194",
+  "__v": 0,
+  "agreementName": "DD-01/2024/832 от 15.04.2024",
+  "agreementNames": [
+    "DD-01/2024/822 от 21.01.2024",
+    "DD-01/2024/833 от 15.04.2024",
+    "DD-01/2024/832 от 15.04.2024"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "g7f2ztcGiQnUFTmKPy3bsolSsTG22Cjr",
+  "email": "89163853194@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "6644eef0bb89ac9bdadab67b"
+  },
+  "phone": "89265830890",
+  "__v": 0,
+  "agreementName": "DD-01/2024/814 от 15.02.2024",
+  "agreementNames": [
+    "DD-01/2024/814 от 15.02.2024"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "5Ku0YFoVSeWjmu0fHyCSXGxt4qrH8tNh",
+  "email": "89265830890@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "6644eef0bb89ac9bdadab67f"
+  },
+  "phone": "89165309884",
+  "__v": 0,
+  "agreementName": "DD-01/2023/852 от 23.08.2023",
+  "agreementNames": [
+    "DD-01/2023/853 от 19.08.2022",
+    "DD-01/2023/852 от 23.08.2023"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "Cit4sggR1zFAbG0tuAFt0gfNEos6dNpv",
+  "email": "89165309884@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "6644eef0bb89ac9bdadab681"
+  },
+  "phone": "89104682555",
+  "__v": 0,
+  "agreementName": "DD-01/2023/825 от 25.05.2023",
+  "agreementNames": [
+    "DD-01/2023/825 от 25.05.2023"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "Xpliof96PSHZHFr9eItaEa1l8CDdgEAw",
+  "email": "89104682555@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "6644eef0bb89ac9bdadab683"
+  },
+  "phone": "89858608880",
+  "__v": 0,
+  "agreementName": "DD-01/2024/815 от 30.01.2024",
+  "agreementNames": [
+    "DD-01/2023/892 от 15.12.2023",
+    "DD-01/2024/815 от 30.01.2024"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "NGGp7k78fiNuA8C0eeHPAY1uLTTgwAA1",
+  "email": "89858608880@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "6644eef0bb89ac9bdadab687"
+  },
+  "phone": "89169910208",
+  "__v": 0,
+  "agreementName": "DD-01/2023/829 от 08.06.2023",
+  "agreementNames": [
+    "DD-01/2023/829 от 08.06.2023"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "sxPyDSQygRUu3amYIdwgguXUt9x8nep7",
+  "email": "89169910208@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "6644eef0bb89ac9bdadab68a"
+  },
+  "phone": "89104028884",
+  "__v": 0,
+  "agreementName": "DD-01/2023/862 от 04.10.2023",
+  "agreementNames": [
+    "DD-01/2023/862 от 04.10.2023"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "FxC6x7jLm1wxYxSyVU0j4ev7PCIEWiDM",
+  "email": "89104028884@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "6644eef0bb89ac9bdadab68c"
+  },
+  "phone": "89038996561",
+  "__v": 0,
+  "agreementName": "DD-01/2023/850 от 13.08.2023",
+  "agreementNames": [
+    "DD-01/2023/851 от 13.08.2023",
+    "DD-01/2023/850 от 13.08.2023"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "j8jGazzzDVRjqlfWHQ8xtJFDeDXlehYH",
+  "email": "89038996561@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "6644eef0bb89ac9bdadab690"
+  },
+  "phone": "89151141982",
+  "__v": 0,
+  "agreementName": "DD-01/2023/883 от 18.12.2023",
+  "agreementNames": [
+    "DD-01/2023/883 от 18.12.2023"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "gOAl4BU1X5u7WsiI6CnU2HNcBeZ3cS2c",
+  "email": "89151141982@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "6644eef0bb89ac9bdadab692"
+  },
+  "phone": "89629821565",
+  "__v": 0,
+  "agreementName": "DD-01/2024/812 от 01.03.2024",
+  "agreementNames": [
+    "DD-01/2024/812 от 01.03.2024"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "WUK81uKay7ZRdPtu0VrBEo2xjLymFxgB",
+  "email": "89629821565@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "6644eef0bb89ac9bdadab695"
+  },
+  "phone": "89160015838",
+  "__v": 0,
+  "agreementName": "DD-01/2023/869 от 26.10.2023",
+  "agreementNames": [
+    "DD-01/2023/869 от 26.10.2023"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "MkEtLZTcMhAE3brRFsbvQW7PC5OEjlhw",
+  "email": "89160015838@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "6644eef0bb89ac9bdadab697"
+  },
+  "phone": "89150401255",
+  "__v": 0,
+  "agreementName": "DD-01/2023/884 от 13.12.2023",
+  "agreementNames": [
+    "DD-01/2023/831 от 29.06.2023",
+    "DD-01/2023/832 от 29.06.2023",
+    "DD-01/2023/884 от 13.12.2023"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "5FKoPlTQGProQCAYSD5nd6l4HhezjnJr",
+  "email": "89150401255@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "6644eef0bb89ac9bdadab69d"
+  },
+  "phone": "89193434888",
+  "__v": 0,
+  "agreementName": "DD-01/2024/896 от 01.01.2024",
+  "agreementNames": [
+    "DD-01/2024/896 от 01.01.2024"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "NbiKvwLaKb32SdlEAO6KhnbExY9oylcs",
+  "email": "89193434888@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "6644eef0bb89ac9bdadab69f"
+  },
+  "phone": "89202118684",
+  "__v": 0,
+  "agreementName": "DD-01/2023/802 от 13.11.2023",
+  "agreementNames": [
+    "DD-01/2023/868 от 04.10.2023",
+    "DD-01/2023/802 от 13.11.2023"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "C56lFTyNNJKK7pNkSwSzUCL1m5DTpOfc",
+  "email": "89202118684@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "6644eef0bb89ac9bdadab6a6"
+  },
+  "phone": "89263836899",
+  "__v": 0,
+  "agreementName": "DD-01/2023/888 от 28.11.2023",
+  "agreementNames": [
+    "DD-01/2024/899 от 28.01.2024",
+    "DD-01/2024/898 от 28.01.2024",
+    "DD-01/2024/800 от 28.01.2024",
+    "DD-01/2023/889 от 28.11.2023",
+    "DD-01/2023/888 от 28.11.2023"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "dSrfRzdKxxAhrCAJDUC00HPnQT68qqIJ",
+  "email": "89263836899@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "6644eef0bb89ac9bdadab6ac"
+  },
+  "phone": "89858688428",
+  "__v": 0,
+  "agreementName": "DD-01/2023/826 от 01.06.2023",
+  "agreementNames": [
+    "DD-01/2023/826 от 01.06.2023"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "vcUCFf5LzY09Hzr1brM0i6srtJzib5ne",
+  "email": "89858688428@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "6644eef0bb89ac9bdadab6af"
+  },
+  "phone": "89166888828",
+  "__v": 0,
+  "agreementName": "DD-01/2024/810 от 01.03.2024",
+  "agreementNames": [
+    "DD-01/2024/811 от 01.03.2024",
+    "DD-01/2024/810 от 01.03.2024"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "RSUgIZ2IGTFK3LPNa8ijayccoWYn04g3",
+  "email": "89166888828@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "6644eef1bb89ac9bdadab6b2"
+  },
+  "phone": "89060813948",
+  "__v": 0,
+  "agreementName": "DD-01/2023/880 от 12.11.2023",
+  "agreementNames": [
+    "DD-01/2023/880 от 12.11.2023"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "Z80GAG9r6HkKgtiDr0uYzO1UquChHSxD",
+  "email": "89060813948@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "6644eef1bb89ac9bdadab6b4"
+  },
+  "phone": "89258555558",
+  "__v": 0,
+  "agreementName": "DD-01/2022/588 от 01.01.2022",
+  "agreementNames": [
+    "DD-01/2022/588 от 01.01.2022"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "3tXw78OKrGTutz20eIVnJW5ll8f3IEs1",
+  "email": "89258555558@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "6644eef1bb89ac9bdadab6b6"
+  },
+  "phone": "89160806350",
+  "__v": 0,
+  "agreementName": "DD-01/2023/860 от 13.09.2023",
+  "agreementNames": [
+    "DD-01/2023/860 от 13.09.2023"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "VeTeDjfqRCIFEIlyauXRQIv1iG5k8dBT",
+  "email": "89160806350@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "6644eef1bb89ac9bdadab6b9"
+  },
+  "phone": "89152856355",
+  "__v": 0,
+  "agreementName": "DD-01/2024/828 от 15.03.2024",
+  "agreementNames": [
+    "DD-01/2024/828 от 15.03.2024"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "aIHzqmQTFUwO6TGMfbGLMDqOPYD8imNL",
+  "email": "89152856355@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "6644eef1bb89ac9bdadab6bb"
+  },
+  "phone": "89152856051",
+  "__v": 0,
+  "agreementName": "DD-01/2023/880 USD от 18.11.2023",
+  "agreementNames": [
+    "DD-01/2023/836 RUB от 28.06.2023",
+    "DD-01/2023/880 USD от 18.11.2023"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "eczhnNfmw2eJaphl9XwQNHoYyN7Umgv4",
+  "email": "89152856051@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "6644eef1bb89ac9bdadab6bf"
+  },
+  "phone": "89265890054",
+  "__v": 0,
+  "agreementName": "DD-01/2024/838 от 28.04.2024",
+  "agreementNames": [
+    "DD-01/2023/880 от 06.10.2023",
+    "DD-01/2023/883 от 18.10.2023",
+    "DD-01/2023/885 от 18.10.2023",
+    "DD-01/2023/884 от 23.11.2023",
+    "DD-01/2024/808 от 15.02.2024",
+    "DD-01/2024/838 от 28.04.2024"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "zQsK4ml89cFdSBdYZFATSfbipqj4Gfv7",
+  "email": "89265890054@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "6644eef1bb89ac9bdadab6c8"
+  },
+  "phone": "89884254899",
+  "__v": 0,
+  "agreementName": "DD-01/2024/831 от 28.04.2024",
+  "agreementNames": [
+    "DD-01/2023/858 от 18.09.2023",
+    "DD-01/2024/818 от 01.04.2024",
+    "DD-01/2024/831 от 28.04.2024"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "reAZyK5KrkNPk0TvHs6jrShAmcLxd660",
+  "email": "89884254899@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "6644eef1bb89ac9bdadab6cc"
+  },
+  "phone": "89104864484",
+  "__v": 0,
+  "agreementName": "DD-01/2023/828 от 01.06.2023",
+  "agreementNames": [
+    "DD-01/2023/828 от 01.06.2023"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "QFBNxyt5LirWByKpVL9xysbEd519VOwp",
+  "email": "89104864484@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "6644eef1bb89ac9bdadab6ce"
+  },
+  "phone": "89312883802",
+  "__v": 0,
+  "agreementName": "DD-01/2023/888 от 28.12.2022",
+  "agreementNames": [
+    "DD-01/2023/835 от 28.06.2023",
+    "DD-01/2023/840 от 28.08.2023",
+    "DD-01/2023/888 от 28.12.2022"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "JEkGhid0khTw6a3PMOtxaaVK0eGrE4fO",
+  "email": "89312883802@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "6644eef1bb89ac9bdadab6d4"
+  },
+  "phone": "89852334343",
+  "__v": 0,
+  "agreementName": "DD-01/2024/803 от 11.01.2024",
+  "agreementNames": [
+    "DD-01/2024/803 от 11.01.2024"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "cGUDY2k2lKklSxN2X1P3JhJcVM1YvTAp",
+  "email": "89852334343@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "6644eef1bb89ac9bdadab6d6"
+  },
+  "phone": "89255066584",
+  "__v": 0,
+  "agreementName": "DD-01/2023/830 от 10.08.2023",
+  "agreementNames": [
+    "DD-01/2023/830 от 10.08.2023"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "PPYYBIavxdHelQyAZNEwC1eovmWvsS3k",
+  "email": "89255066584@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "6644eef1bb89ac9bdadab6d8"
+  },
+  "phone": "89858619402",
+  "__v": 0,
+  "agreementName": "DD-01/2023/844 от 18.08.2023",
+  "agreementNames": [
+    "DD-01/2023/844 от 18.08.2023"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "A3CaV3SBhLzIHlsc9WoPlL2Za1dwywnu",
+  "email": "89858619402@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "6644eef1bb89ac9bdadab6da"
+  },
+  "phone": "89645843883",
+  "__v": 0,
+  "agreementName": "DD-01/2023/834 от 21.06.2023",
+  "agreementNames": [
+    "DD-01/2023/834 от 21.06.2023"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "RFdyRw1wmj48oyYbzWxOnGmg6Z6SxqiQ",
+  "email": "89645843883@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "6644eef1bb89ac9bdadab6dd"
+  },
+  "phone": "89299864805",
+  "__v": 0,
+  "agreementName": "DD-01/2024/839 от 10.04.2024",
+  "agreementNames": [
+    "DD-01/2024/839 от 10.04.2024"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "zalmTnv5I0NmtmvS0F5Ix5F1CNfHm8ZE",
+  "email": "89299864805@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "6644eef1bb89ac9bdadab6de"
+  },
+  "phone": "89858601042",
+  "__v": 0,
+  "agreementName": "DD-01/2024/818 от 14.03.2024",
+  "agreementNames": [
+    "DD-01/2023/848 от 03.08.2023",
+    "DD-01/2023/843 от 13.08.2023",
+    "DD-01/2024/818 от 14.03.2024"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "c4MYdqF0Trb6xvvXp6PITCvIiVmXXI3F",
+  "email": "89858601042@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "6644eef1bb89ac9bdadab6e4"
+  },
+  "phone": "89265256681",
+  "__v": 0,
+  "agreementName": "DD-01/2023/822 от 12.05.2023",
+  "agreementNames": [
+    "DD-01/2024/806 от 06.02.2024",
+    "DD-01/2023/822 от 12.05.2023"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "bg68R0nTo85N71UYdY4r7n5po35ImeD0",
+  "email": "89265256681@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "6644eef1bb89ac9bdadab6e6"
+  },
+  "phone": "89166940846",
+  "__v": 0,
+  "agreementName": "DD-01/2023/898 от 21.12.2023",
+  "agreementNames": [
+    "DD-01/2023/898 от 21.12.2023"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "VAamXxNPJv8ewpgmJwaF0FZp8zpV52MC",
+  "email": "89166940846@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "6644eef1bb89ac9bdadab6e9"
+  },
+  "phone": "89169286164",
+  "__v": 0,
+  "agreementName": "DD-01/2023/888 от 18.12.2023",
+  "agreementNames": [
+    "DD-01/2023/888 от 18.12.2023"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "H5tteOtavUsvWeRQHNkWpJD3KIHORIyA",
+  "email": "89169286164@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "6644eef1bb89ac9bdadab6ec"
+  },
+  "phone": "89032531269",
+  "__v": 0,
+  "agreementName": "DD-01/2023/858 от 05.09.2023",
+  "agreementNames": [
+    "DD-01/2023/859 от 14.10.2023",
+    "DD-01/2023/858 от 05.09.2023"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "3gQmuoNwK5EhTgXHbWSEn88Ur0VtFfL1",
+  "email": "89032531269@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "6644eef1bb89ac9bdadab6ee"
+  },
+  "phone": "89175755915",
+  "__v": 0,
+  "agreementName": "DD-01/2020/353 от 28.01.2020 от 28.01.2020",
+  "agreementNames": [
+    "DD-01/2020/353 от 28.01.2020 от 28.01.2020"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "XPa2r08l2MblTHoB1bJbrL79OpuNkLmc",
+  "email": "89175755915@customer.cresco.capital",
+  "otp": "9860897",
+  "otpExpiresAt": {
+    "$date": "2024-05-16T06:13:45.863Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6644eef1bb89ac9bdadab6f0"
+  },
+  "phone": "89859280068",
+  "__v": 0,
+  "agreementName": "DD-01/2024/834 от 12.04.2024",
+  "agreementNames": [
+    "DD-01/2024/834 от 12.04.2024"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "xJS3q94hodZWZkgPm9YKRnwCQjzLFtq5",
+  "email": "89859280068@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "6645b1c9bb89ac9bdadc1d56"
+  },
+  "phone": "79263843808",
+  "__v": 0,
+  "agreementName": "DD-01/2024/900 от 04.04.2024",
+  "agreementNames": [
+    "DD-01/2024/1000 от 04.04.2024",
+    "DD-01/2023/784 от 13.12.2023",
+    "DD-01/2023/990 от 29.06.2023",
+    "DD-01/2023/991 от 29.06.2023",
+    "DD-01/2023/992 от 13.12.2023",
+    "DD-01/2023/993 от 13.12.2023",
+    "DD-01/2023/901 от 23.07.2023",
+    "DD-01/2023/902 от 19.08.2022",
+    "DD-01/2024/999 от 04.04.2024",
+    "DD-01/2024/900 от 04.04.2024"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "H1mMLyrw3Ci0pvjpUQ2n5EB7bfWXGIwH",
+  "email": "79263843808@customer.cresco.capital",
+  "otp": "1654831",
+  "otpExpiresAt": {
+    "$date": "2024-09-03T09:24:13.141Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66465527bb89ac9bdadd4243"
+  },
+  "phone": "79160010202",
+  "__v": 0,
+  "agreementName": "DD-01/2024/812 от 01.03.2024",
+  "agreementNames": [
+    "DD-01/2024/812 от 01.03.2024"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "WUK81uKay7ZRdPtu0VrBEo2xjLymFxgB",
+  "email": "79160010202@customer.cresco.capital",
+  "otp": "3955914",
+  "otpExpiresAt": {
+    "$date": "2024-09-01T12:26:49.078Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "664785f6bb89ac9bdadf67da"
+  },
+  "phone": "79857748563",
+  "__v": 0,
+  "agreementName": "DD-01/2024/823 от 12.03.2024",
+  "agreementNames": [
+    "DD-01/2023/765 от 28.12.2023",
+    "DD-01/2024/823 от 12.03.2024"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "1RwHdXE7liQFXs3bzVDH0CWGN7QAkrlg",
+  "email": "79857748563@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "665dd67fbb89ac9bda06d2e4"
+  },
+  "phone": "79126445552",
+  "__v": 0,
+  "agreementName": "DD-01/2024/861 от 07.08.2024",
+  "agreementNames": [
+    "DD-01/2023/639 от 07.08.2023",
+    "DD-01/2024/861 от 07.08.2024"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "W9ntN5BOxcJB2LLEmjr6SGFnDYK6Ycau",
+  "email": "79126445552@customer.cresco.capital",
+  "otp": "7418774",
+  "otpExpiresAt": {
+    "$date": "2024-06-04T09:40:29.882Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "665dd67fbb89ac9bda06d319"
+  },
+  "phone": "79854103966",
+  "__v": 0,
+  "agreementName": "DD-01/2023/901 от 03.07.2023",
+  "agreementNames": [
+    "DD-01/2023/900 от 13.07.2023",
+    "DD-01/2023/901 от 03.07.2023"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "VdIN2ANGw07fAU0VY5W6b5hcs2caCHDn",
+  "email": "79854103966@customer.cresco.capital",
+  "otp": "7541592",
+  "otpExpiresAt": {
+    "$date": "2024-06-03T15:15:16.926Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66730e3ebb89ac9bda2c22e0"
+  },
+  "phone": "79161301650",
+  "__v": 0,
+  "agreementName": "DD-01/2024/856 от 18.06.2024",
+  "agreementNames": [
+    "DD-01/2024/856 от 18.06.2024"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "Pkm7tHOcsn78jwdy3BOCkverUeSoRLcf",
+  "email": "79161301650@customer.cresco.capital",
+  "otp": "3686912",
+  "otpExpiresAt": {
+    "$date": "2024-09-12T08:03:56.573Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66758e6a269d5ff8b6fd9a08"
+  },
+  "phone": "",
+  "phones": [],
+  "email": "andreysyr24@gmail.com",
+  "emails": [],
+  "agreementNames": [],
+  "rolesJwt": [],
+  "roles": [
+    "customer"
+  ],
+  "passwordHash": "$2b$10$NyGQmhvt.l2wICd5zbRmFebNRihJ831kehw9ZfZoC/wnrm1WyqzKu",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667c267dca13b77e63f565f9"
+  },
+  "phone": "(800) 511-48-77",
+  "phones": [],
+  "email": "cresocapital@gmail.com",
+  "emails": [],
+  "agreementNames": [],
+  "rolesJwt": [],
+  "roles": [
+    "customer"
+  ],
+  "passwordHash": "$2b$10$kvnkQO0w.dIhUDXO6tvIcetp3bziya.PdbrlcgWbQcGiCJMFRSS5C",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667eba9e9f03cad5f342ed92"
+  },
+  "phone": "+79263843808",
+  "phones": [],
+  "email": "proshkinas.t@gmail.com",
+  "emails": [],
+  "agreementNames": [],
+  "rolesJwt": [],
+  "roles": [
+    "customer"
+  ],
+  "passwordHash": "$2b$10$M1GYvk9a/5vQCGwcm1hfFeq4cX.yfBfmj38qtsBkHVFFLAWL6blw2",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667ebb269f03cad5f342edc8"
+  },
+  "phone": "",
+  "phones": [],
+  "email": "tanya_04@bk.ru",
+  "emails": [],
+  "agreementNames": [],
+  "rolesJwt": [],
+  "roles": [
+    "customer"
+  ],
+  "passwordHash": "$2b$10$xPk4SHX/lAhwY0rPB9xa5ej9KLwSJ6uXtJ8soMsUlCLjrYb8dKwhe",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667ec02a9f03cad5f342ef29"
+  },
+  "phone": "",
+  "phones": [],
+  "email": "tatpros2024@gmail.com",
+  "emails": [],
+  "agreementNames": [],
+  "rolesJwt": [],
+  "roles": [
+    "customer"
+  ],
+  "passwordHash": "$2b$10$IFgLNO7a6GW5uG85E3k4teWc0aT1EgxkoMmqZBxT0eqZA.uasFJCS",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66964b9077cb1234c57ee0d6"
+  },
+  "phone": "+79778752110",
+  "phones": [],
+  "email": "dm.virt@gmail.com",
+  "emails": [],
+  "agreementNames": [],
+  "rolesJwt": [],
+  "roles": [
+    "customer"
+  ],
+  "passwordHash": "$2b$10$ZYw95DHJr9SlauhHEQ1O0.D0j6DoYgdn.RMQj.aDUDarVFsQfWD/S",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66964ca077cb1234c57ee11c"
+  },
+  "phone": "",
+  "phones": [],
+  "email": "nickolaierlan@gmail.com",
+  "emails": [],
+  "agreementNames": [],
+  "rolesJwt": [],
+  "roles": [
+    "customer"
+  ],
+  "passwordHash": "$2b$10$xs8rur4RH9laOQw16MDD7eRAo7osBzj/cAp.bYRJ2j2K9je6iw51K",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a3c0a8bb89ac9bda81f673"
+  },
+  "phone": "79166526268",
+  "__v": 0,
+  "agreementName": "DD-01/2024/858 от 24.07.2024",
+  "agreementNames": [
+    "DD-01/2024/858 от 24.07.2024"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "BJjFLxgD547rCwWuJoL8Ek6CkUcGMWGK",
+  "email": "79166526268@customer.cresco.capital",
+  "otp": "2349879",
+  "otpExpiresAt": {
+    "$date": "2024-08-10T17:41:58.901Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "66b24344bb89ac9bda9b6b19"
+  },
+  "phone": "79260712208",
+  "__v": 0,
+  "agreementName": "DD-01/2024/865 от 01.08.2024",
+  "agreementNames": [
+    "DD-01/2024/865 от 01.08.2024"
+  ],
+  "emails": [],
+  "phones": [],
+  "roles": [],
+  "rolesJwt": [],
+  "signature": "cQoYmswaPE6hFeZt2tgL3BzcqJ016iQ7",
+  "email": "79260712208@customer.cresco.capital"
+},
+{
+  "_id": {
+    "$oid": "66d8104d7888da953703cc8d"
+  },
+  "phones": [],
+  "email": "pavel.masslove@gmail.com",
+  "emails": [],
+  "rolesJwt": [],
+  "roles": [
+    "super_admin",
+    "admin"
+  ],
+  "passwordHash": "$2b$10$nHL1Qr0XHFuoLe/xVCvIxuZdDkkIV5agYmwci5X3IZBMmTsTy4uSa",
+  "__v": 0,
+  "verificationCode": "246044",
+  "agreementName": "DD-01/2024/815 от 30.01.2024",
+  "agreementNames": [
+    "undefined",
+    "Данные договора",
+    "1",
+    "Отчет о движении средств по счету за отчетный период ",
+    "с 26 февраля 2024 г.по 26 февраля 2024 г.",
+    "DD-01/2023/752 от 23.07.2023",
+    "DD-01/2023/753 от 19.08.2022",
+    "DD-01/2023/725 от 25.05.2023",
+    "DD-01/2023/727 от 29.06.2023",
+    "DD-01/2023/790 от 12.12.2023",
+    "DD-01/2024/816 от 31.01.2024",
+    "DD-01/2023/765 от 28.12.2023",
+    "DD-01/2023/761 от 20.09.2023",
+    "DD-01/2023/792 от 15.12.2023",
+    "DD-01/2024/815 от 30.01.2024",
+    "DD-01/2023/729 от 07.06.2023",
+    "DD-01/2023/709 от 27.04.2023",
+    "DD-01/2023/793 от 11.12.2023"
+  ]
+},
+{
+  "_id": {
+    "$oid": "66d810fc7888da953703cc91"
+  },
+  "phones": [],
+  "email": "pavel.masslove@gmail.com",
+  "emails": [],
+  "rolesJwt": [],
+  "roles": [
+    "admin",
+    "super_admin"
+  ],
+  "passwordHash": "$2b$10$AhMrO66lVZWVeP4kitk7nOjrxPuDAOHV1xe5Dbjmoz.Kdwv52uy0a",
+  "__v": 0,
+  "verificationCode": "246044",
+  "agreementName": "DD-01/2024/815 от 30.01.2024",
+  "agreementNames": [
+    "undefined",
+    "Данные договора",
+    "1",
+    "Отчет о движении средств по счету за отчетный период ",
+    "с 26 февраля 2024 г.по 26 февраля 2024 г.",
+    "DD-01/2023/752 от 23.07.2023",
+    "DD-01/2023/753 от 19.08.2022",
+    "DD-01/2023/725 от 25.05.2023",
+    "DD-01/2023/727 от 29.06.2023",
+    "DD-01/2023/790 от 12.12.2023",
+    "DD-01/2024/816 от 31.01.2024",
+    "DD-01/2023/765 от 28.12.2023",
+    "DD-01/2023/761 от 20.09.2023",
+    "DD-01/2023/792 от 15.12.2023",
+    "DD-01/2024/815 от 30.01.2024",
+    "DD-01/2023/729 от 07.06.2023",
+    "DD-01/2023/709 от 27.04.2023",
+    "DD-01/2023/793 от 11.12.2023"
+  ]
+}]

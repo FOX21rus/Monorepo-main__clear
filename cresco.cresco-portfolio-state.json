@@ -1,0 +1,1571 @@
+[{
+  "_id": {
+    "$oid": "647663138a67695162dccdf0"
+  },
+  "createdAt": {
+    "$date": "2023-05-30T20:56:51.738Z"
+  },
+  "crescoTokensOverallAmount": 0,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64772e1e9de41ecb7ec51e53"
+  },
+  "createdAt": {
+    "$date": "2023-05-31T11:23:10.164Z"
+  },
+  "currenciesAmountsHashmap": {
+    "usdt": 50000
+  },
+  "crescoTokensOverallAmount": 100000,
+  "createdByUserUri": "email://info@cresco.capital",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64772e6e9de41ecb7ec51e85"
+  },
+  "createdAt": {
+    "$date": "2023-05-31T11:24:30.765Z"
+  },
+  "currenciesAmountsHashmap": {
+    "usdt": 50000,
+    "fttrxusdt": 20000,
+    "ftunfiusdt": 10000
+  },
+  "crescoTokensOverallAmount": 100000,
+  "createdByUserUri": "email://info@cresco.capital",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "647db83890546669fb689e51"
+  },
+  "createdAt": {
+    "$date": "2023-06-05T10:26:00.703Z"
+  },
+  "currenciesAmountsHashmap": {
+    "usdt": 50000,
+    "fttrxusdt": 20000,
+    "ftunfiusdt": 10000,
+    "hotcross": 5000
+  },
+  "crescoTokensOverallAmount": 100000,
+  "createdByUserUri": "email://info@cresco.capital",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6925d216abcd404e60476"
+  },
+  "createdAt": {
+    "$date": "2023-07-06T10:07:25.166Z"
+  },
+  "currenciesAmountsHashmap": {
+    "usdt": 50000,
+    "fttrxusdt": 20000,
+    "ftunfiusdt": 10000,
+    "hotcross": 5000,
+    "btc": 1
+  },
+  "crescoTokensOverallAmount": 100000,
+  "createdByUserUri": "email://info@cresco.capital",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a8069cc3905b5e68887c5e"
+  },
+  "createdAt": {
+    "$date": "2023-07-07T12:35:40.999Z"
+  },
+  "currenciesAmountsHashmap": {
+    "usdt": 50000,
+    "fttrxusdt": 20000,
+    "ftunfiusdt": 10000,
+    "hotcross": 5000,
+    "btc": 1
+  },
+  "crescoTokensOverallAmount": 100000,
+  "createdByUserUri": "email://info@cresco.capital",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ac034d14cc10fb83e10268"
+  },
+  "createdAt": {
+    "$date": "2023-07-10T13:10:37.787Z"
+  },
+  "currenciesAmountsHashmap": {
+    "usdt": 61000,
+    "fttrxusdt": 20000,
+    "ftunfiusdt": 10000,
+    "hotcross": 5000,
+    "btc": 1
+  },
+  "crescoTokensOverallAmount": 100000,
+  "createdByUserUri": "email://info@cresco.capital",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ac038114cc10fb83e102c4"
+  },
+  "createdAt": {
+    "$date": "2023-07-10T13:11:29.322Z"
+  },
+  "currenciesAmountsHashmap": {
+    "usdt": 61000,
+    "fttrxusdt": 20000,
+    "ftunfiusdt": 10000,
+    "hotcross": 5000,
+    "btc": 1
+  },
+  "crescoTokensOverallAmount": 110000,
+  "createdByUserUri": "email://info@cresco.capital",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b997925b29c6cb85f1d281"
+  },
+  "createdAt": {
+    "$date": "2023-07-20T20:22:42.925Z"
+  },
+  "currenciesAmountsHashmap": {
+    "usdt": 61000,
+    "fttrxusdt": 20000,
+    "ftunfiusdt": 10000,
+    "hotcross": 5000,
+    "btc": 1
+  },
+  "crescoTokensOverallAmount": 3000,
+  "createdByUserUri": "email://info@cresco.capital",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d0ef0b4d731c41eac801ec"
+  },
+  "createdAt": {
+    "$date": "2023-08-07T13:18:03.055Z"
+  },
+  "currenciesAmountsHashmap": {
+    "usdt": null,
+    "fttrxusdt": 20000,
+    "ftunfiusdt": 10000,
+    "hotcross": 5000,
+    "btc": 1
+  },
+  "crescoTokensOverallAmount": 3000,
+  "createdByUserUri": "email://info@cresco.capital",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d0ef21f602b0ce722f3842"
+  },
+  "createdAt": {
+    "$date": "2023-08-07T13:18:25.237Z"
+  },
+  "currenciesAmountsHashmap": {
+    "usdt": null,
+    "fttrxusdt": 20000,
+    "ftunfiusdt": null,
+    "hotcross": 5000,
+    "btc": 1
+  },
+  "crescoTokensOverallAmount": 3000,
+  "createdByUserUri": "email://info@cresco.capital",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d0ef6978957020bf0a52f4"
+  },
+  "createdAt": {
+    "$date": "2023-08-07T13:19:37.026Z"
+  },
+  "currenciesAmountsHashmap": {
+    "usdt": null,
+    "fttrxusdt": 20000,
+    "ftunfiusdt": null,
+    "hotcross": 5000,
+    "btc": 0
+  },
+  "crescoTokensOverallAmount": 3000,
+  "createdByUserUri": "email://info@cresco.capital",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d0ef7578957020bf0a5312"
+  },
+  "createdAt": {
+    "$date": "2023-08-07T13:19:49.772Z"
+  },
+  "currenciesAmountsHashmap": {
+    "usdt": null,
+    "fttrxusdt": 0,
+    "ftunfiusdt": null,
+    "hotcross": 5000,
+    "btc": 0
+  },
+  "crescoTokensOverallAmount": 3000,
+  "createdByUserUri": "email://info@cresco.capital",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d0ef7d78957020bf0a5330"
+  },
+  "createdAt": {
+    "$date": "2023-08-07T13:19:57.521Z"
+  },
+  "currenciesAmountsHashmap": {
+    "usdt": null,
+    "fttrxusdt": 0,
+    "ftunfiusdt": null,
+    "hotcross": 0,
+    "btc": 0
+  },
+  "crescoTokensOverallAmount": 3000,
+  "createdByUserUri": "email://info@cresco.capital",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d0fcd4dcccf56932a5fc91"
+  },
+  "createdAt": {
+    "$date": "2023-08-07T14:16:52.310Z"
+  },
+  "currenciesAmountsHashmap": {
+    "usdt": null,
+    "fttrxusdt": 0,
+    "ftunfiusdt": null,
+    "hotcross": 0,
+    "btc": 0,
+    "prom": 230.51
+  },
+  "crescoTokensOverallAmount": 3000,
+  "createdByUserUri": "email://info@cresco.capital",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d0fcfadcccf56932a5fcbc"
+  },
+  "createdAt": {
+    "$date": "2023-08-07T14:17:30.259Z"
+  },
+  "currenciesAmountsHashmap": {
+    "usdt": null,
+    "fttrxusdt": 0,
+    "ftunfiusdt": null,
+    "hotcross": 0,
+    "btc": 0,
+    "prom": 230.51,
+    "unfi": 186.81
+  },
+  "crescoTokensOverallAmount": 3000,
+  "createdByUserUri": "email://info@cresco.capital",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d0fd31dcccf56932a5fce9"
+  },
+  "createdAt": {
+    "$date": "2023-08-07T14:18:25.444Z"
+  },
+  "currenciesAmountsHashmap": {
+    "usdt": null,
+    "fttrxusdt": 0,
+    "ftunfiusdt": null,
+    "hotcross": 0,
+    "btc": 0,
+    "prom": 230.51,
+    "unfi": 186.81,
+    "ftbakeusdt": 5378.72
+  },
+  "crescoTokensOverallAmount": 3000,
+  "createdByUserUri": "email://info@cresco.capital",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d0fd97dcccf56932a5fd1d"
+  },
+  "createdAt": {
+    "$date": "2023-08-07T14:20:07.359Z"
+  },
+  "currenciesAmountsHashmap": {
+    "usdt": 79027.09,
+    "fttrxusdt": 0,
+    "ftunfiusdt": null,
+    "hotcross": 0,
+    "btc": 0,
+    "prom": 230.51,
+    "unfi": 186.81,
+    "ftbakeusdt": 5378.72
+  },
+  "crescoTokensOverallAmount": 3000,
+  "createdByUserUri": "email://info@cresco.capital",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d1034b8e7b0f4ee51bb021"
+  },
+  "createdAt": {
+    "$date": "2023-08-07T14:44:27.880Z"
+  },
+  "currenciesAmountsHashmap": {
+    "usdt": 79027.09,
+    "fttrxusdt": 0,
+    "ftunfiusdt": null,
+    "hotcross": 0,
+    "btc": 0,
+    "prom": 230.51,
+    "unfi": 186.81,
+    "ftbakeusdt": 5378.72,
+    "ftbtcusdt": 1
+  },
+  "crescoTokensOverallAmount": 3000,
+  "createdByUserUri": "email://info@cresco.capital",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d103a48e7b0f4ee51bb05a"
+  },
+  "createdAt": {
+    "$date": "2023-08-07T14:45:56.064Z"
+  },
+  "currenciesAmountsHashmap": {
+    "usdt": 79027.09,
+    "fttrxusdt": 0,
+    "ftunfiusdt": null,
+    "hotcross": 0,
+    "btc": 0,
+    "prom": 230.51,
+    "unfi": 186.81,
+    "ftbakeusdt": 5378.72,
+    "ftbtcusdt": null
+  },
+  "crescoTokensOverallAmount": 3000,
+  "createdByUserUri": "email://info@cresco.capital",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ef358f1291ec595e55180b"
+  },
+  "createdAt": {
+    "$date": "2023-08-30T12:26:55.325Z"
+  },
+  "currenciesAmountsHashmap": {
+    "usdt": 79027.09,
+    "fttrxusdt": 0,
+    "ftunfiusdt": null,
+    "hotcross": 0,
+    "btc": -0.82,
+    "prom": 230.51,
+    "unfi": 186.81,
+    "ftbakeusdt": 5378.72,
+    "ftbtcusdt": null
+  },
+  "crescoTokensOverallAmount": 3000,
+  "createdByUserUri": "email://info@cresco.capital",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ef36321291ec595e551873"
+  },
+  "createdAt": {
+    "$date": "2023-08-30T12:29:38.669Z"
+  },
+  "currenciesAmountsHashmap": {
+    "usdt": 101456.14,
+    "fttrxusdt": 0,
+    "ftunfiusdt": null,
+    "hotcross": 0,
+    "btc": -0.82,
+    "prom": 230.51,
+    "unfi": 186.81,
+    "ftbakeusdt": 5378.72,
+    "ftbtcusdt": null
+  },
+  "crescoTokensOverallAmount": 3000,
+  "createdByUserUri": "email://info@cresco.capital",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ef371b1291ec595e55190b"
+  },
+  "createdAt": {
+    "$date": "2023-08-30T12:33:31.211Z"
+  },
+  "currenciesAmountsHashmap": {
+    "usdt": null,
+    "fttrxusdt": 0,
+    "ftunfiusdt": null,
+    "hotcross": 0,
+    "btc": -0.82,
+    "prom": 230.51,
+    "unfi": 186.81,
+    "ftbakeusdt": 5378.72,
+    "ftbtcusdt": null
+  },
+  "crescoTokensOverallAmount": 3000,
+  "createdByUserUri": "email://info@cresco.capital",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ef37241291ec595e551929"
+  },
+  "createdAt": {
+    "$date": "2023-08-30T12:33:40.082Z"
+  },
+  "currenciesAmountsHashmap": {
+    "usdt": null,
+    "fttrxusdt": 0,
+    "ftunfiusdt": null,
+    "hotcross": 0,
+    "btc": -0.82,
+    "prom": 230.51,
+    "unfi": null,
+    "ftbakeusdt": 5378.72,
+    "ftbtcusdt": null
+  },
+  "crescoTokensOverallAmount": 3000,
+  "createdByUserUri": "email://info@cresco.capital",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ef372b1291ec595e551947"
+  },
+  "createdAt": {
+    "$date": "2023-08-30T12:33:47.592Z"
+  },
+  "currenciesAmountsHashmap": {
+    "usdt": null,
+    "fttrxusdt": 0,
+    "ftunfiusdt": null,
+    "hotcross": 0,
+    "btc": -0.82,
+    "prom": null,
+    "unfi": null,
+    "ftbakeusdt": 5378.72,
+    "ftbtcusdt": null
+  },
+  "crescoTokensOverallAmount": 3000,
+  "createdByUserUri": "email://info@cresco.capital",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ef37341291ec595e551965"
+  },
+  "createdAt": {
+    "$date": "2023-08-30T12:33:56.152Z"
+  },
+  "currenciesAmountsHashmap": {
+    "usdt": null,
+    "fttrxusdt": 0,
+    "ftunfiusdt": null,
+    "hotcross": 0,
+    "btc": -0.82,
+    "prom": null,
+    "unfi": null,
+    "ftbakeusdt": null,
+    "ftbtcusdt": null
+  },
+  "crescoTokensOverallAmount": 3000,
+  "createdByUserUri": "email://info@cresco.capital",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ef37481291ec595e551990"
+  },
+  "createdAt": {
+    "$date": "2023-08-30T12:34:16.128Z"
+  },
+  "currenciesAmountsHashmap": {
+    "usdt": null,
+    "fttrxusdt": 0,
+    "ftunfiusdt": null,
+    "hotcross": 0,
+    "btc": null,
+    "prom": null,
+    "unfi": null,
+    "ftbakeusdt": null,
+    "ftbtcusdt": null
+  },
+  "crescoTokensOverallAmount": 3000,
+  "createdByUserUri": "email://info@cresco.capital",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f05a831291ec595e55707e"
+  },
+  "createdAt": {
+    "$date": "2023-08-31T09:16:51.324Z"
+  },
+  "currenciesAmountsHashmap": {
+    "usdt": 10000,
+    "fttrxusdt": 0,
+    "ftunfiusdt": null,
+    "hotcross": 0,
+    "btc": null,
+    "prom": null,
+    "unfi": null,
+    "ftbakeusdt": null,
+    "ftbtcusdt": null
+  },
+  "crescoTokensOverallAmount": 3000,
+  "createdByUserUri": "email://info@cresco.capital",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f05a951291ec595e5570a3"
+  },
+  "createdAt": {
+    "$date": "2023-08-31T09:17:09.384Z"
+  },
+  "currenciesAmountsHashmap": {
+    "usdt": 10000,
+    "fttrxusdt": 0,
+    "ftunfiusdt": null,
+    "hotcross": 0,
+    "btc": -0.1,
+    "prom": null,
+    "unfi": null,
+    "ftbakeusdt": null,
+    "ftbtcusdt": null
+  },
+  "crescoTokensOverallAmount": 3000,
+  "createdByUserUri": "email://info@cresco.capital",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f05b041291ec595e5570f2"
+  },
+  "createdAt": {
+    "$date": "2023-08-31T09:19:00.466Z"
+  },
+  "currenciesAmountsHashmap": {
+    "usdt": 7276,
+    "fttrxusdt": 0,
+    "ftunfiusdt": null,
+    "hotcross": 0,
+    "btc": -0.1,
+    "prom": null,
+    "unfi": null,
+    "ftbakeusdt": null,
+    "ftbtcusdt": null
+  },
+  "crescoTokensOverallAmount": 3000,
+  "createdByUserUri": "email://info@cresco.capital",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64f05bdc1291ec595e557160"
+  },
+  "createdAt": {
+    "$date": "2023-08-31T09:22:36.017Z"
+  },
+  "currenciesAmountsHashmap": {
+    "usdt": 10000,
+    "fttrxusdt": 0,
+    "ftunfiusdt": null,
+    "hotcross": 0,
+    "btc": -0.1,
+    "prom": null,
+    "unfi": null,
+    "ftbakeusdt": null,
+    "ftbtcusdt": null
+  },
+  "crescoTokensOverallAmount": 3000,
+  "createdByUserUri": "email://info@cresco.capital",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650d6a0ac1c87e59f1d2bc6e"
+  },
+  "createdAt": {
+    "$date": "2023-09-22T10:18:50.877Z"
+  },
+  "currenciesAmountsHashmap": {
+    "usdt": 10000,
+    "fttrxusdt": 0,
+    "ftunfiusdt": null,
+    "hotcross": 0,
+    "btc": -0.1,
+    "prom": null,
+    "unfi": null,
+    "ftbakeusdt": null,
+    "ftbtcusdt": null,
+    "lsk": 20
+  },
+  "crescoTokensOverallAmount": 3000,
+  "createdByUserUri": "email://info@cresco.capital",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "650d6a44c1c87e59f1d2bcca"
+  },
+  "createdAt": {
+    "$date": "2023-09-22T10:19:48.427Z"
+  },
+  "currenciesAmountsHashmap": {
+    "usdt": 10000,
+    "fttrxusdt": 0,
+    "ftunfiusdt": null,
+    "hotcross": 0,
+    "btc": -0.1,
+    "prom": null,
+    "unfi": null,
+    "ftbakeusdt": null,
+    "ftbtcusdt": null,
+    "lsk": 20,
+    "kmd": -0.05
+  },
+  "crescoTokensOverallAmount": 3000,
+  "createdByUserUri": "email://info@cresco.capital",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516a5fd9c1c613df73bc5b5"
+  },
+  "createdAt": {
+    "$date": "2023-09-29T10:25:01.216Z"
+  },
+  "currenciesAmountsHashmap": {
+    "usdt": 10000,
+    "fttrxusdt": 0,
+    "ftunfiusdt": null,
+    "hotcross": 0,
+    "btc": -0.1,
+    "prom": null,
+    "unfi": null,
+    "ftbakeusdt": null,
+    "ftbtcusdt": null,
+    "lsk": 20,
+    "kmd": -0.05,
+    "ftxvgusdt": -1000
+  },
+  "crescoTokensOverallAmount": 3000,
+  "createdByUserUri": "email://info@cresco.capital",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516a7e39c1c613df73bc6d5"
+  },
+  "createdAt": {
+    "$date": "2023-09-29T10:33:07.901Z"
+  },
+  "currenciesAmountsHashmap": {
+    "usdt": 10000,
+    "fttrxusdt": 0,
+    "ftunfiusdt": null,
+    "hotcross": 0,
+    "btc": -0.1,
+    "prom": null,
+    "unfi": null,
+    "ftbakeusdt": null,
+    "ftbtcusdt": null,
+    "lsk": 20,
+    "kmd": -0.05,
+    "ftxvgusdt": -2000
+  },
+  "crescoTokensOverallAmount": 3000,
+  "createdByUserUri": "email://info@cresco.capital",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651aa63044ac26bbc53f0e18"
+  },
+  "createdAt": {
+    "$date": "2023-10-02T11:14:56.011Z"
+  },
+  "currenciesAmountsHashmap": {
+    "usdt": 10000,
+    "fttrxusdt": 0,
+    "ftunfiusdt": null,
+    "hotcross": 0,
+    "btc": 0,
+    "prom": null,
+    "unfi": null,
+    "ftbakeusdt": null,
+    "ftbtcusdt": null,
+    "lsk": 20,
+    "kmd": -0.05,
+    "ftxvgusdt": -2000
+  },
+  "crescoTokensOverallAmount": 3000,
+  "createdByUserUri": "email://info@cresco.capital",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651aa63844ac26bbc53f0e41"
+  },
+  "createdAt": {
+    "$date": "2023-10-02T11:15:04.966Z"
+  },
+  "currenciesAmountsHashmap": {
+    "usdt": null,
+    "fttrxusdt": 0,
+    "ftunfiusdt": null,
+    "hotcross": 0,
+    "btc": 0,
+    "prom": null,
+    "unfi": null,
+    "ftbakeusdt": null,
+    "ftbtcusdt": null,
+    "lsk": 20,
+    "kmd": -0.05,
+    "ftxvgusdt": -2000
+  },
+  "crescoTokensOverallAmount": 3000,
+  "createdByUserUri": "email://info@cresco.capital",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651aa64044ac26bbc53f0e65"
+  },
+  "createdAt": {
+    "$date": "2023-10-02T11:15:12.608Z"
+  },
+  "currenciesAmountsHashmap": {
+    "usdt": null,
+    "fttrxusdt": 0,
+    "ftunfiusdt": null,
+    "hotcross": 0,
+    "btc": 0,
+    "prom": null,
+    "unfi": null,
+    "ftbakeusdt": null,
+    "ftbtcusdt": null,
+    "lsk": null,
+    "kmd": -0.05,
+    "ftxvgusdt": -2000
+  },
+  "crescoTokensOverallAmount": 3000,
+  "createdByUserUri": "email://info@cresco.capital",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651aa64a44ac26bbc53f0e85"
+  },
+  "createdAt": {
+    "$date": "2023-10-02T11:15:22.593Z"
+  },
+  "currenciesAmountsHashmap": {
+    "usdt": null,
+    "fttrxusdt": 0,
+    "ftunfiusdt": null,
+    "hotcross": 0,
+    "btc": 0,
+    "prom": null,
+    "unfi": null,
+    "ftbakeusdt": null,
+    "ftbtcusdt": null,
+    "lsk": null,
+    "kmd": -0.05,
+    "ftxvgusdt": null
+  },
+  "crescoTokensOverallAmount": 3000,
+  "createdByUserUri": "email://info@cresco.capital",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651aa69c44ac26bbc53f0ec6"
+  },
+  "createdAt": {
+    "$date": "2023-10-02T11:16:44.748Z"
+  },
+  "currenciesAmountsHashmap": {
+    "usdt": null,
+    "fttrxusdt": 0,
+    "ftunfiusdt": null,
+    "hotcross": 0,
+    "btc": 0,
+    "prom": null,
+    "unfi": null,
+    "ftbakeusdt": null,
+    "ftbtcusdt": null,
+    "lsk": null,
+    "kmd": null,
+    "ftxvgusdt": null
+  },
+  "crescoTokensOverallAmount": 3000,
+  "createdByUserUri": "email://info@cresco.capital",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651aaa6f44ac26bbc53f1027"
+  },
+  "createdAt": {
+    "$date": "2023-10-02T11:33:03.916Z"
+  },
+  "currenciesAmountsHashmap": {
+    "usdt": null,
+    "fttrxusdt": 0,
+    "ftunfiusdt": null,
+    "hotcross": 0,
+    "btc": 0,
+    "prom": null,
+    "unfi": 186.813,
+    "ftbakeusdt": null,
+    "ftbtcusdt": null,
+    "lsk": null,
+    "kmd": null,
+    "ftxvgusdt": null
+  },
+  "crescoTokensOverallAmount": 3000,
+  "createdByUserUri": "email://info@cresco.capital",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651aaa9644ac26bbc53f1062"
+  },
+  "createdAt": {
+    "$date": "2023-10-02T11:33:42.629Z"
+  },
+  "currenciesAmountsHashmap": {
+    "usdt": null,
+    "fttrxusdt": 0,
+    "ftunfiusdt": null,
+    "hotcross": 0,
+    "btc": 0,
+    "prom": 230.50926,
+    "unfi": 186.813,
+    "ftbakeusdt": null,
+    "ftbtcusdt": null,
+    "lsk": null,
+    "kmd": null,
+    "ftxvgusdt": null
+  },
+  "crescoTokensOverallAmount": 3000,
+  "createdByUserUri": "email://info@cresco.capital",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651aaac544ac26bbc53f1099"
+  },
+  "createdAt": {
+    "$date": "2023-10-02T11:34:29.604Z"
+  },
+  "currenciesAmountsHashmap": {
+    "usdt": null,
+    "fttrxusdt": 0,
+    "ftunfiusdt": null,
+    "hotcross": 0,
+    "btc": 0,
+    "prom": 230.50926,
+    "unfi": 186.813,
+    "ftbakeusdt": 5378.7159,
+    "ftbtcusdt": null,
+    "lsk": null,
+    "kmd": null,
+    "ftxvgusdt": null
+  },
+  "crescoTokensOverallAmount": 3000,
+  "createdByUserUri": "email://info@cresco.capital",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "651aab8444ac26bbc53f1109"
+  },
+  "createdAt": {
+    "$date": "2023-10-02T11:37:40.071Z"
+  },
+  "currenciesAmountsHashmap": {
+    "usdt": 92694.34,
+    "fttrxusdt": 0,
+    "ftunfiusdt": null,
+    "hotcross": 0,
+    "btc": 0,
+    "prom": 230.50926,
+    "unfi": 186.813,
+    "ftbakeusdt": 5378.7159,
+    "ftbtcusdt": null,
+    "lsk": null,
+    "kmd": null,
+    "ftxvgusdt": null
+  },
+  "crescoTokensOverallAmount": 3000,
+  "createdByUserUri": "email://info@cresco.capital",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6545149cc14ad310096f6d0f"
+  },
+  "createdAt": {
+    "$date": "2023-11-03T15:41:16.527Z"
+  },
+  "currenciesAmountsHashmap": {
+    "usdt": 92694.34,
+    "fttrxusdt": 0,
+    "ftunfiusdt": null,
+    "hotcross": 0,
+    "btc": -0.47,
+    "prom": 230.50926,
+    "unfi": 186.813,
+    "ftbakeusdt": 5378.7159,
+    "ftbtcusdt": null,
+    "lsk": null,
+    "kmd": null,
+    "ftxvgusdt": null
+  },
+  "crescoTokensOverallAmount": 3000,
+  "createdByUserUri": "email://info@cresco.capital",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "654514c4c14ad310096f6d48"
+  },
+  "createdAt": {
+    "$date": "2023-11-03T15:41:56.765Z"
+  },
+  "currenciesAmountsHashmap": {
+    "usdt": 92694.34,
+    "fttrxusdt": 0,
+    "ftunfiusdt": null,
+    "hotcross": 0,
+    "btc": -0.47,
+    "prom": 230.50926,
+    "unfi": 186.813,
+    "ftbakeusdt": 5378.7159,
+    "ftbtcusdt": null,
+    "lsk": null,
+    "kmd": null,
+    "ftxvgusdt": null,
+    "eth": -7.509
+  },
+  "crescoTokensOverallAmount": 3000,
+  "createdByUserUri": "email://info@cresco.capital",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "654514edc14ad310096f6d8c"
+  },
+  "createdAt": {
+    "$date": "2023-11-03T15:42:37.844Z"
+  },
+  "currenciesAmountsHashmap": {
+    "usdt": 92694.34,
+    "fttrxusdt": 0,
+    "ftunfiusdt": null,
+    "hotcross": 0,
+    "btc": -0.47,
+    "prom": 230.50926,
+    "unfi": 186.813,
+    "ftbakeusdt": 5378.7159,
+    "ftbtcusdt": null,
+    "lsk": null,
+    "kmd": null,
+    "ftxvgusdt": null,
+    "eth": -7.509,
+    "storj": -10.868
+  },
+  "crescoTokensOverallAmount": 3000,
+  "createdByUserUri": "email://info@cresco.capital",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65451605c14ad310096f6e1b"
+  },
+  "createdAt": {
+    "$date": "2023-11-03T15:47:17.853Z"
+  },
+  "currenciesAmountsHashmap": {
+    "usdt": 50899.2,
+    "fttrxusdt": 0,
+    "ftunfiusdt": null,
+    "hotcross": 0,
+    "btc": -0.47,
+    "prom": 230.50926,
+    "unfi": 186.813,
+    "ftbakeusdt": 5378.7159,
+    "ftbtcusdt": null,
+    "lsk": null,
+    "kmd": null,
+    "ftxvgusdt": null,
+    "eth": -7.509,
+    "storj": -10.868
+  },
+  "crescoTokensOverallAmount": 3000,
+  "createdByUserUri": "email://info@cresco.capital",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65451636c14ad310096f6e58"
+  },
+  "createdAt": {
+    "$date": "2023-11-03T15:48:06.397Z"
+  },
+  "currenciesAmountsHashmap": {
+    "usdt": 50899.2,
+    "fttrxusdt": 0,
+    "ftunfiusdt": null,
+    "hotcross": 0,
+    "btc": -0.47,
+    "prom": 230.50926,
+    "unfi": 186.813,
+    "ftbakeusdt": 5378.7159,
+    "ftbtcusdt": null,
+    "lsk": null,
+    "kmd": null,
+    "ftxvgusdt": null,
+    "eth": -7.509,
+    "storj": -10868
+  },
+  "crescoTokensOverallAmount": 3000,
+  "createdByUserUri": "email://info@cresco.capital",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66471839ac37bdd091d4986c"
+  },
+  "createdAt": {
+    "$date": "2024-05-17T08:41:29.780Z"
+  },
+  "currenciesAmountsHashmap": {
+    "usdt": 50899.2,
+    "fttrxusdt": 0,
+    "ftunfiusdt": null,
+    "hotcross": 0,
+    "btc": -0.47,
+    "prom": 230.50926,
+    "unfi": 186.813,
+    "ftbakeusdt": 5378.7159,
+    "ftbtcusdt": null,
+    "lsk": null,
+    "kmd": null,
+    "ftxvgusdt": null,
+    "eth": -7.509,
+    "storj": -10868
+  },
+  "crescoTokensOverallAmount": 100,
+  "createdByUserUri": "email://info@cresco.capital",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6647185aac37bdd091d498ac"
+  },
+  "createdAt": {
+    "$date": "2024-05-17T08:42:02.762Z"
+  },
+  "currenciesAmountsHashmap": {
+    "usdt": 50899.2,
+    "fttrxusdt": 0,
+    "ftunfiusdt": null,
+    "hotcross": 0,
+    "btc": 0.47,
+    "prom": 230.50926,
+    "unfi": 186.813,
+    "ftbakeusdt": 5378.7159,
+    "ftbtcusdt": null,
+    "lsk": null,
+    "kmd": null,
+    "ftxvgusdt": null,
+    "eth": -7.509,
+    "storj": -10868
+  },
+  "crescoTokensOverallAmount": 100,
+  "createdByUserUri": "email://info@cresco.capital",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6647186cac37bdd091d498de"
+  },
+  "createdAt": {
+    "$date": "2024-05-17T08:42:20.717Z"
+  },
+  "currenciesAmountsHashmap": {
+    "usdt": 50899.2,
+    "fttrxusdt": 0,
+    "ftunfiusdt": null,
+    "hotcross": 0,
+    "btc": 0.47,
+    "prom": 230.50926,
+    "unfi": 186.813,
+    "ftbakeusdt": 5378.7159,
+    "ftbtcusdt": null,
+    "lsk": null,
+    "kmd": null,
+    "ftxvgusdt": null,
+    "eth": 7.509,
+    "storj": -10868
+  },
+  "crescoTokensOverallAmount": 100,
+  "createdByUserUri": "email://info@cresco.capital",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66471879ac37bdd091d49914"
+  },
+  "createdAt": {
+    "$date": "2024-05-17T08:42:33.953Z"
+  },
+  "currenciesAmountsHashmap": {
+    "usdt": 50899.2,
+    "fttrxusdt": 0,
+    "ftunfiusdt": null,
+    "hotcross": 0,
+    "btc": 0.47,
+    "prom": 230.50926,
+    "unfi": 186.813,
+    "ftbakeusdt": 5378.7159,
+    "ftbtcusdt": null,
+    "lsk": null,
+    "kmd": null,
+    "ftxvgusdt": null,
+    "eth": 7.509,
+    "storj": 10868
+  },
+  "crescoTokensOverallAmount": 100,
+  "createdByUserUri": "email://info@cresco.capital",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664718e7ac37bdd091d49992"
+  },
+  "createdAt": {
+    "$date": "2024-05-17T08:44:23.489Z"
+  },
+  "currenciesAmountsHashmap": {
+    "usdt": 5089.2,
+    "fttrxusdt": 0,
+    "ftunfiusdt": null,
+    "hotcross": 0,
+    "btc": 0.47,
+    "prom": 230.50926,
+    "unfi": 186.813,
+    "ftbakeusdt": 5378.7159,
+    "ftbtcusdt": null,
+    "lsk": null,
+    "kmd": null,
+    "ftxvgusdt": null,
+    "eth": 7.509,
+    "storj": 10868
+  },
+  "crescoTokensOverallAmount": 100,
+  "createdByUserUri": "email://info@cresco.capital",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664718ffac37bdd091d499cb"
+  },
+  "createdAt": {
+    "$date": "2024-05-17T08:44:47.190Z"
+  },
+  "currenciesAmountsHashmap": {
+    "usdt": 5089.2,
+    "fttrxusdt": 0,
+    "ftunfiusdt": null,
+    "hotcross": 0,
+    "btc": 0.47,
+    "prom": 230.50926,
+    "unfi": 186.813,
+    "ftbakeusdt": 5378.7159,
+    "ftbtcusdt": null,
+    "lsk": null,
+    "kmd": null,
+    "ftxvgusdt": null,
+    "eth": 7.509,
+    "storj": 10868
+  },
+  "crescoTokensOverallAmount": 2,
+  "createdByUserUri": "email://info@cresco.capital",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6647196aac37bdd091d49a96"
+  },
+  "createdAt": {
+    "$date": "2024-05-17T08:46:34.845Z"
+  },
+  "currenciesAmountsHashmap": {
+    "usdt": 5089.2,
+    "fttrxusdt": 0,
+    "ftunfiusdt": null,
+    "hotcross": 0,
+    "btc": 0.47,
+    "prom": 230.50926,
+    "unfi": 186.813,
+    "ftbakeusdt": 5378.7159,
+    "ftbtcusdt": null,
+    "lsk": null,
+    "kmd": null,
+    "ftxvgusdt": null,
+    "eth": 7.509,
+    "storj": 10868
+  },
+  "crescoTokensOverallAmount": 2000000,
+  "createdByUserUri": "email://info@cresco.capital",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66471998ac37bdd091d49b0f"
+  },
+  "createdAt": {
+    "$date": "2024-05-17T08:47:20.455Z"
+  },
+  "currenciesAmountsHashmap": {
+    "usdt": 5089.2,
+    "fttrxusdt": 0,
+    "ftunfiusdt": null,
+    "hotcross": 0,
+    "btc": 0.47,
+    "prom": 230.50926,
+    "unfi": 186.813,
+    "ftbakeusdt": 5378.7159,
+    "ftbtcusdt": null,
+    "lsk": null,
+    "kmd": null,
+    "ftxvgusdt": null,
+    "eth": 7.509,
+    "storj": 10868
+  },
+  "crescoTokensOverallAmount": 20000,
+  "createdByUserUri": "email://info@cresco.capital",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664719bcac37bdd091d49b8e"
+  },
+  "createdAt": {
+    "$date": "2024-05-17T08:47:56.440Z"
+  },
+  "currenciesAmountsHashmap": {
+    "usdt": 5089.2,
+    "fttrxusdt": 0,
+    "ftunfiusdt": null,
+    "hotcross": 0,
+    "btc": 0.47,
+    "prom": 230.50926,
+    "unfi": 186.813,
+    "ftbakeusdt": 5378.7159,
+    "ftbtcusdt": null,
+    "lsk": null,
+    "kmd": null,
+    "ftxvgusdt": null,
+    "eth": 7.509,
+    "storj": 10868
+  },
+  "crescoTokensOverallAmount": 200000,
+  "createdByUserUri": "email://info@cresco.capital",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664719e9ac37bdd091d49bf9"
+  },
+  "createdAt": {
+    "$date": "2024-05-17T08:48:41.723Z"
+  },
+  "currenciesAmountsHashmap": {
+    "usdt": 5089.2,
+    "fttrxusdt": 0,
+    "ftunfiusdt": null,
+    "hotcross": 0,
+    "btc": 0.47,
+    "prom": 230.50926,
+    "unfi": 186.813,
+    "ftbakeusdt": 5378.7159,
+    "ftbtcusdt": null,
+    "lsk": null,
+    "kmd": null,
+    "ftxvgusdt": null,
+    "eth": 7.509,
+    "storj": 10868
+  },
+  "crescoTokensOverallAmount": 280000,
+  "createdByUserUri": "email://info@cresco.capital",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66471a0fac37bdd091d49c6d"
+  },
+  "createdAt": {
+    "$date": "2024-05-17T08:49:19.068Z"
+  },
+  "currenciesAmountsHashmap": {
+    "usdt": 5089.2,
+    "fttrxusdt": 0,
+    "ftunfiusdt": null,
+    "hotcross": 0,
+    "btc": 0.47,
+    "prom": 230.50926,
+    "unfi": 186.813,
+    "ftbakeusdt": 5378.7159,
+    "ftbtcusdt": null,
+    "lsk": null,
+    "kmd": null,
+    "ftxvgusdt": null,
+    "eth": 7.509,
+    "storj": 10868
+  },
+  "crescoTokensOverallAmount": 28000,
+  "createdByUserUri": "email://info@cresco.capital",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6662b318aff1d2aad19fded3"
+  },
+  "createdAt": {
+    "$date": "2024-06-07T07:13:28.118Z"
+  },
+  "currenciesAmountsHashmap": {
+    "usdt": 5089.2,
+    "fttrxusdt": 0,
+    "ftunfiusdt": null,
+    "hotcross": 0,
+    "btc": 0,
+    "prom": 230.50926,
+    "unfi": 186.813,
+    "ftbakeusdt": 5378.7159,
+    "ftbtcusdt": null,
+    "lsk": null,
+    "kmd": null,
+    "ftxvgusdt": null,
+    "eth": 7.509,
+    "storj": 10868
+  },
+  "crescoTokensOverallAmount": 28000,
+  "createdByUserUri": "email://info@cresco.capital",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6662b323aff1d2aad19fdf0a"
+  },
+  "createdAt": {
+    "$date": "2024-06-07T07:13:39.553Z"
+  },
+  "currenciesAmountsHashmap": {
+    "usdt": 5089.2,
+    "fttrxusdt": 0,
+    "ftunfiusdt": null,
+    "hotcross": 0,
+    "btc": 0,
+    "prom": 230.50926,
+    "unfi": 186.813,
+    "ftbakeusdt": 5378.7159,
+    "ftbtcusdt": null,
+    "lsk": null,
+    "kmd": null,
+    "ftxvgusdt": null,
+    "eth": 0,
+    "storj": 10868
+  },
+  "crescoTokensOverallAmount": 28000,
+  "createdByUserUri": "email://info@cresco.capital",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6662b329aff1d2aad19fdf38"
+  },
+  "createdAt": {
+    "$date": "2024-06-07T07:13:45.408Z"
+  },
+  "currenciesAmountsHashmap": {
+    "usdt": 5089.2,
+    "fttrxusdt": 0,
+    "ftunfiusdt": null,
+    "hotcross": 0,
+    "btc": 0,
+    "prom": 230.50926,
+    "unfi": 186.813,
+    "ftbakeusdt": 5378.7159,
+    "ftbtcusdt": null,
+    "lsk": null,
+    "kmd": null,
+    "ftxvgusdt": null,
+    "eth": 0,
+    "storj": 0
+  },
+  "crescoTokensOverallAmount": 28000,
+  "createdByUserUri": "email://info@cresco.capital",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6662b331aff1d2aad19fdf66"
+  },
+  "createdAt": {
+    "$date": "2024-06-07T07:13:53.133Z"
+  },
+  "currenciesAmountsHashmap": {
+    "usdt": 0,
+    "fttrxusdt": 0,
+    "ftunfiusdt": null,
+    "hotcross": 0,
+    "btc": 0,
+    "prom": 230.50926,
+    "unfi": 186.813,
+    "ftbakeusdt": 5378.7159,
+    "ftbtcusdt": null,
+    "lsk": null,
+    "kmd": null,
+    "ftxvgusdt": null,
+    "eth": 0,
+    "storj": 0
+  },
+  "crescoTokensOverallAmount": 28000,
+  "createdByUserUri": "email://info@cresco.capital",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6662b336aff1d2aad19fdf94"
+  },
+  "createdAt": {
+    "$date": "2024-06-07T07:13:58.522Z"
+  },
+  "currenciesAmountsHashmap": {
+    "usdt": 0,
+    "fttrxusdt": 0,
+    "ftunfiusdt": null,
+    "hotcross": 0,
+    "btc": 0,
+    "prom": 0,
+    "unfi": 186.813,
+    "ftbakeusdt": 5378.7159,
+    "ftbtcusdt": null,
+    "lsk": null,
+    "kmd": null,
+    "ftxvgusdt": null,
+    "eth": 0,
+    "storj": 0
+  },
+  "crescoTokensOverallAmount": 28000,
+  "createdByUserUri": "email://info@cresco.capital",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6662b33daff1d2aad19fdfcb"
+  },
+  "createdAt": {
+    "$date": "2024-06-07T07:14:05.693Z"
+  },
+  "currenciesAmountsHashmap": {
+    "usdt": 0,
+    "fttrxusdt": 0,
+    "ftunfiusdt": null,
+    "hotcross": 0,
+    "btc": 0,
+    "prom": 0,
+    "unfi": 0,
+    "ftbakeusdt": 5378.7159,
+    "ftbtcusdt": null,
+    "lsk": null,
+    "kmd": null,
+    "ftxvgusdt": null,
+    "eth": 0,
+    "storj": 0
+  },
+  "crescoTokensOverallAmount": 28000,
+  "createdByUserUri": "email://info@cresco.capital",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6662b343aff1d2aad19fdffd"
+  },
+  "createdAt": {
+    "$date": "2024-06-07T07:14:11.433Z"
+  },
+  "currenciesAmountsHashmap": {
+    "usdt": 0,
+    "fttrxusdt": 0,
+    "ftunfiusdt": null,
+    "hotcross": 0,
+    "btc": 0,
+    "prom": 0,
+    "unfi": 0,
+    "ftbakeusdt": 0,
+    "ftbtcusdt": null,
+    "lsk": null,
+    "kmd": null,
+    "ftxvgusdt": null,
+    "eth": 0,
+    "storj": 0
+  },
+  "crescoTokensOverallAmount": 28000,
+  "createdByUserUri": "email://info@cresco.capital",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66702838aff1d2aad1a3b7a1"
+  },
+  "createdAt": {
+    "$date": "2024-06-17T12:12:40.865Z"
+  },
+  "currenciesAmountsHashmap": {
+    "usdt": 66456.03,
+    "fttrxusdt": 0,
+    "ftunfiusdt": null,
+    "hotcross": 0,
+    "btc": 0,
+    "prom": 0,
+    "unfi": 0,
+    "ftbakeusdt": 0,
+    "ftbtcusdt": null,
+    "lsk": null,
+    "kmd": null,
+    "ftxvgusdt": null,
+    "eth": 0,
+    "storj": 0
+  },
+  "crescoTokensOverallAmount": 66456.03,
+  "createdByUserUri": "email://info@cresco.capital",
+  "__v": 0
+}]

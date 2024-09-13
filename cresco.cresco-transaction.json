@@ -1,0 +1,826 @@
+[{
+  "_id": {
+    "$oid": "64772ee49de41ecb7ec51fb2"
+  },
+  "transactionType": "CLIENT_BUY_TOKENS",
+  "userUri": "email://proshkinas.t@gmail.com",
+  "amountUSDT": 1000,
+  "amountCrescoTokens": 2000,
+  "fromWallet": "jhkdgs8o70970",
+  "toWallet": "0x542a3fd9a7073599cc2fd332a8091490a66c63c3",
+  "createdAt": {
+    "$date": "2023-05-31T11:26:28.962Z"
+  },
+  "__v": 0,
+  "status": "APPROVED"
+},
+{
+  "_id": {
+    "$oid": "647878fe9de41ecb7ec674b6"
+  },
+  "transactionType": "CLIENT_BUY_TOKENS",
+  "userUri": "email://proshkinas.t@gmail.com",
+  "amountUSDT": 500,
+  "amountCrescoTokens": 1000,
+  "fromWallet": "jhkdgs8o70970",
+  "toWallet": "0x542a3fd9a7073599cc2fd332a8091490a66c63c3",
+  "createdAt": {
+    "$date": "2023-06-01T10:54:54.165Z"
+  },
+  "__v": 0,
+  "status": "APPROVED"
+},
+{
+  "_id": {
+    "$oid": "6479b4779de41ecb7ec7bc4a"
+  },
+  "transactionType": "CLIENT_SELL_TOKENS",
+  "userUri": "email://proshkinas.t@gmail.com",
+  "amountUSDT": 300,
+  "amountCrescoTokens": 600,
+  "fromWallet": "0x542a3fd9a7073599cc2fd332a8091490a66c63c3",
+  "toWallet": "jhkdgs8o70970",
+  "createdAt": {
+    "$date": "2023-06-02T09:20:55.957Z"
+  },
+  "__v": 0,
+  "status": "APPROVED"
+},
+{
+  "_id": {
+    "$oid": "64902a7d10f39f2c29a3db49"
+  },
+  "transactionType": "CLIENT_SELL_TOKENS",
+  "userUri": "email://proshkinas.t@gmail.com",
+  "amountUSDT": 50.0146,
+  "amountCrescoTokens": 100,
+  "fromWallet": "0x542a3fd9a7073599cc2fd332a8091490a66c63c3",
+  "toWallet": "jhkdgs8o70970",
+  "createdAt": {
+    "$date": "2023-06-19T10:14:21.399Z"
+  },
+  "__v": 0,
+  "status": "APPROVED"
+},
+{
+  "_id": {
+    "$oid": "64915dc9e601fa70a04f7e01"
+  },
+  "transactionType": "CLIENT_BUY_TOKENS",
+  "userUri": "email://proshkinas.t@gmail.com",
+  "amountUSDT": 50.2886748,
+  "amountCrescoTokens": 100.55,
+  "fromWallet": "jhkdgs8o70970",
+  "toWallet": "0x542a3fd9a7073599cc2fd332a8091490a66c63c3",
+  "createdAt": {
+    "$date": "2023-06-20T08:05:29.608Z"
+  },
+  "__v": 0,
+  "status": "APPROVED"
+},
+{
+  "_id": {
+    "$oid": "64a4162e9a4bac378b9e8d6e"
+  },
+  "transactionType": "CLIENT_BUY_TOKENS",
+  "userUri": "email://proshkinas.t@gmail.com",
+  "amountUSDT": 261.73855754,
+  "amountCrescoTokens": 523.34,
+  "fromWallet": "jhkdgs8o70970",
+  "toWallet": "0x542a3fd9a7073599cc2fd332a8091490a66c63c3",
+  "createdAt": {
+    "$date": "2023-07-04T12:53:02.994Z"
+  },
+  "__v": 0,
+  "status": "APPROVED"
+},
+{
+  "_id": {
+    "$oid": "64a41d389a4bac378b9e95b7"
+  },
+  "transactionType": "CLIENT_BUY_TOKENS",
+  "userUri": "email://proshkinas.t@gmail.com",
+  "amountUSDT": 500.00096594,
+  "amountCrescoTokens": 999.74,
+  "fromWallet": "jhkdgs8o70970",
+  "toWallet": "0x542a3fd9a7073599cc2fd332a8091490a66c63c3",
+  "createdAt": {
+    "$date": "2023-07-04T13:23:04.908Z"
+  },
+  "__v": 0,
+  "status": "APPROVED"
+},
+{
+  "_id": {
+    "$oid": "64a41e809a4bac378b9e9723"
+  },
+  "transactionType": "CLIENT_SELL_TOKENS",
+  "userUri": "email://proshkinas.t@gmail.com",
+  "amountUSDT": 461.93599553,
+  "amountCrescoTokens": 923.63,
+  "fromWallet": "0x542a3fd9a7073599cc2fd332a8091490a66c63c3",
+  "toWallet": "jhkdgs8o70970",
+  "createdAt": {
+    "$date": "2023-07-04T13:28:32.458Z"
+  },
+  "__v": 0,
+  "status": "APPROVED"
+},
+{
+  "_id": {
+    "$oid": "64a43856c438dd3110c49981"
+  },
+  "transactionType": "CLIENT_SELL_TOKENS",
+  "userUri": "email://proshkinas.t@gmail.com",
+  "amountUSDT": 150.03915,
+  "amountCrescoTokens": 300,
+  "fromWallet": "0x542a3fd9a7073599cc2fd332a8091490a66c63c3",
+  "toWallet": "jhkdgs8o70970",
+  "createdAt": {
+    "$date": "2023-07-04T15:18:46.400Z"
+  },
+  "__v": 0,
+  "status": "APPROVED"
+},
+{
+  "_id": {
+    "$oid": "64a6667e216abcd404e5ce62"
+  },
+  "transactionType": "CLIENT_BUY_TOKENS",
+  "userUri": "email://proshkinas.t@gmail.com",
+  "amountUSDT": 1000.69995698,
+  "amountCrescoTokens": 1159.94,
+  "fromWallet": "jhkdgs8o70970",
+  "toWallet": "0x542a3fd9a7073599cc2fd332a8091490a66c63c3",
+  "createdAt": {
+    "$date": "2023-07-06T07:00:14.680Z"
+  },
+  "__v": 0,
+  "status": "APPROVED"
+},
+{
+  "_id": {
+    "$oid": "64a674c9216abcd404e5dd54"
+  },
+  "transactionType": "CLIENT_SELL_TOKENS",
+  "userUri": "email://proshkinas.t@gmail.com",
+  "amountUSDT": 1332.7032407799998,
+  "amountCrescoTokens": 1543.54,
+  "fromWallet": "0x542a3fd9a7073599cc2fd332a8091490a66c63c3",
+  "toWallet": "jhkdgs8o70970",
+  "createdAt": {
+    "$date": "2023-07-06T08:01:13.086Z"
+  },
+  "__v": 0,
+  "status": "APPROVED"
+},
+{
+  "_id": {
+    "$oid": "64a674f0216abcd404e5dd9c"
+  },
+  "transactionType": "CLIENT_BUY_TOKENS",
+  "userUri": "email://proshkinas.t@gmail.com",
+  "amountUSDT": 999.9979873999999,
+  "amountCrescoTokens": 1158.2,
+  "fromWallet": "jhkdgs8o70970",
+  "toWallet": "0x542a3fd9a7073599cc2fd332a8091490a66c63c3",
+  "createdAt": {
+    "$date": "2023-07-06T08:01:52.496Z"
+  },
+  "__v": 0,
+  "status": "APPROVED"
+},
+{
+  "_id": {
+    "$oid": "64a686a3216abcd404e5f1e1"
+  },
+  "transactionType": "CLIENT_BUY_TOKENS",
+  "userUri": "email://proshkinas.t@gmail.com",
+  "amountUSDT": 867.638,
+  "amountCrescoTokens": 1000,
+  "fromWallet": "jhkdgs8o70970",
+  "toWallet": "0x542a3fd9a7073599cc2fd332a8091490a66c63c3",
+  "createdAt": {
+    "$date": "2023-07-06T09:17:23.433Z"
+  },
+  "__v": 0,
+  "status": "APPROVED"
+},
+{
+  "_id": {
+    "$oid": "64a68f31216abcd404e5fe3f"
+  },
+  "transactionType": "CLIENT_BUY_TOKENS",
+  "userUri": "email://proshkinas.t@gmail.com",
+  "amountUSDT": 8663.26,
+  "amountCrescoTokens": 10000,
+  "fromWallet": "jhkdgs8o70970",
+  "toWallet": "0x542a3fd9a7073599cc2fd332a8091490a66c63c3",
+  "createdAt": {
+    "$date": "2023-07-06T09:53:53.382Z"
+  },
+  "__v": 0,
+  "status": "APPROVED"
+},
+{
+  "_id": {
+    "$oid": "64a68f7f216abcd404e5ffaf"
+  },
+  "transactionType": "CLIENT_BUY_TOKENS",
+  "userUri": "email://proshkinas.t@gmail.com",
+  "amountUSDT": 8673.26,
+  "amountCrescoTokens": 10000,
+  "fromWallet": "jhkdgs8o70970",
+  "toWallet": "0x542a3fd9a7073599cc2fd332a8091490a66c63c3",
+  "createdAt": {
+    "$date": "2023-07-06T09:55:11.440Z"
+  },
+  "__v": 0,
+  "status": "APPROVED"
+},
+{
+  "_id": {
+    "$oid": "64a690e7216abcd404e6019f"
+  },
+  "transactionType": "CLIENT_BUY_TOKENS",
+  "userUri": "email://proshkinas.t@gmail.com",
+  "amountUSDT": 794.9983518,
+  "amountCrescoTokens": 917.55,
+  "fromWallet": "jhkdgs8o70970",
+  "toWallet": "0x542a3fd9a7073599cc2fd332a8091490a66c63c3",
+  "createdAt": {
+    "$date": "2023-07-06T10:01:11.936Z"
+  },
+  "__v": 0,
+  "status": "APPROVED"
+},
+{
+  "_id": {
+    "$oid": "64a691ea216abcd404e603a7"
+  },
+  "transactionType": "CLIENT_BUY_TOKENS",
+  "userUri": "email://mgogolev1991@gmail.com",
+  "amountUSDT": 84.95032,
+  "amountCrescoTokens": 98,
+  "fromWallet": "uqfhwhvbowvb",
+  "toWallet": "0x542a3fd9a7073599cc2fd332a8091490a66c63c3",
+  "createdAt": {
+    "$date": "2023-07-06T10:05:30.020Z"
+  },
+  "__v": 0,
+  "status": "FAILED"
+},
+{
+  "_id": {
+    "$oid": "64a69210216abcd404e60416"
+  },
+  "transactionType": "CLIENT_BUY_TOKENS",
+  "userUri": "email://mgogolev1991@gmail.com",
+  "amountUSDT": 99.9986624,
+  "amountCrescoTokens": 115.36,
+  "fromWallet": "uqfhwhvbowvb",
+  "toWallet": "0x542a3fd9a7073599cc2fd332a8091490a66c63c3",
+  "createdAt": {
+    "$date": "2023-07-06T10:06:08.765Z"
+  },
+  "__v": 0,
+  "status": "APPROVED"
+},
+{
+  "_id": {
+    "$oid": "64a69294216abcd404e604bf"
+  },
+  "transactionType": "CLIENT_BUY_TOKENS",
+  "userUri": "email://mgogolev1991@gmail.com",
+  "amountUSDT": 1000.003052193,
+  "amountCrescoTokens": 848.67,
+  "fromWallet": "uqfhwhvbowvb",
+  "toWallet": "0x542a3fd9a7073599cc2fd332a8091490a66c63c3",
+  "createdAt": {
+    "$date": "2023-07-06T10:08:20.203Z"
+  },
+  "__v": 0,
+  "status": "APPROVED"
+},
+{
+  "_id": {
+    "$oid": "64a6fb6f8998157dfb764e33"
+  },
+  "transactionType": "CLIENT_BUY_TOKENS",
+  "userUri": "email://proshkinas.t@gmail.com",
+  "amountUSDT": 999.998893712,
+  "amountCrescoTokens": 866.32,
+  "fromWallet": "jhkdgs8o70970",
+  "toWallet": "0x542a3fd9a7073599cc2fd332a8091490a66c63c3",
+  "createdAt": {
+    "$date": "2023-07-06T17:35:43.701Z"
+  },
+  "__v": 0,
+  "status": "APPROVED"
+},
+{
+  "_id": {
+    "$oid": "64a817b0c3905b5e68889096"
+  },
+  "transactionType": "CLIENT_BUY_TOKENS",
+  "userUri": "email://k.efizov@crescofinance.ru",
+  "amountUSDT": 141406081.8405759,
+  "amountCrescoTokens": 123123123,
+  "fromWallet": "asdasdasdad12315415412asdasdыфвфывфыв",
+  "toWallet": "0x542a3fd9a7073599cc2fd332a8091490a66c63c3",
+  "createdAt": {
+    "$date": "2023-07-07T13:48:32.598Z"
+  },
+  "__v": 0,
+  "status": "APPROVED"
+},
+{
+  "_id": {
+    "$oid": "64a818a3c3905b5e68889248"
+  },
+  "transactionType": "CLIENT_BUY_TOKENS",
+  "userUri": "email://i.zakharova@crescofinance.ru",
+  "amountUSDT": 45.98437199999999,
+  "amountCrescoTokens": 40,
+  "fromWallet": "Faak12345gg",
+  "toWallet": "0x542a3fd9a7073599cc2fd332a8091490a66c63c3",
+  "createdAt": {
+    "$date": "2023-07-07T13:52:35.097Z"
+  },
+  "__v": 0,
+  "status": "APPROVED"
+},
+{
+  "_id": {
+    "$oid": "64a818eac3905b5e68889299"
+  },
+  "transactionType": "CLIENT_SELL_TOKENS",
+  "userUri": "email://k.efizov@crescofinance.ru",
+  "amountUSDT": 163869318.30962908,
+  "amountCrescoTokens": 142543487,
+  "fromWallet": "0x542a3fd9a7073599cc2fd332a8091490a66c63c3",
+  "toWallet": "asdasdasdad12315415412asdasdыфвфывфыв",
+  "createdAt": {
+    "$date": "2023-07-07T13:53:46.708Z"
+  },
+  "__v": 0,
+  "status": "PRE_APPROVED"
+},
+{
+  "_id": {
+    "$oid": "64a81941c3905b5e688893e6"
+  },
+  "transactionType": "CLIENT_SELL_TOKENS",
+  "userUri": "email://k.efizov@crescofinance.ru",
+  "amountUSDT": 141.5964301887339,
+  "amountCrescoTokens": 123.123123,
+  "fromWallet": "0x542a3fd9a7073599cc2fd332a8091490a66c63c3",
+  "toWallet": "asdasdasdad12315415412asdasdыфвфывфыв",
+  "createdAt": {
+    "$date": "2023-07-07T13:55:13.639Z"
+  },
+  "__v": 0,
+  "status": "APPROVED"
+},
+{
+  "_id": {
+    "$oid": "64abb9aa14cc10fb83e0b2c2"
+  },
+  "transactionType": "CLIENT_BUY_TOKENS",
+  "userUri": "email://proshkinas.t@gmail.com",
+  "amountUSDT": 7571045.584433676,
+  "amountCrescoTokens": 6642826.79,
+  "fromWallet": "jhkdgs8o70970",
+  "toWallet": "0x542a3fd9a7073599cc2fd332a8091490a66c63c3",
+  "createdAt": {
+    "$date": "2023-07-10T07:56:26.210Z"
+  },
+  "__v": 0,
+  "status": "PRE_APPROVED"
+},
+{
+  "_id": {
+    "$oid": "64ac031914cc10fb83e1011a"
+  },
+  "transactionType": "CLIENT_BUY_TOKENS",
+  "userUri": "email://maxgogolevcap@gmail.com",
+  "amountUSDT": 11418.371000000001,
+  "amountCrescoTokens": 10000,
+  "fromWallet": "141234213412",
+  "toWallet": "0x542a3fd9a7073599cc2fd332a8091490a66c63c3",
+  "createdAt": {
+    "$date": "2023-07-10T13:09:45.244Z"
+  },
+  "__v": 0,
+  "status": "PENDING"
+},
+{
+  "_id": {
+    "$oid": "64b7e0ff86de185dd06c1344"
+  },
+  "transactionType": "CLIENT_BUY_TOKENS",
+  "userUri": "email://proshkinas.t@gmail.com",
+  "amountUSDT": 999.9968426090909,
+  "amountCrescoTokens": 864.94,
+  "fromWallet": "jhkdgs8o70970",
+  "toWallet": "0x542a3fd9a7073599cc2fd332a8091490a66c63c3",
+  "createdAt": {
+    "$date": "2023-07-19T13:11:27.953Z"
+  },
+  "__v": 0,
+  "status": "PRE_APPROVED"
+},
+{
+  "_id": {
+    "$oid": "64b9003eaeb4fb878710a3e6"
+  },
+  "transactionType": "CLIENT_BUY_TOKENS",
+  "userUri": "email://mgogolev1991@gmail.com",
+  "amountUSDT": 10000.002350138182,
+  "amountCrescoTokens": 8628.46,
+  "fromWallet": "uqfhwhvbowvb",
+  "toWallet": "0x542a3fd9a7073599cc2fd332a8091490a66c63c3",
+  "createdAt": {
+    "$date": "2023-07-20T09:37:02.330Z"
+  },
+  "__v": 0,
+  "status": "APPROVED"
+},
+{
+  "_id": {
+    "$oid": "64b9310e5b29c6cb85f1b06a"
+  },
+  "transactionType": "CLIENT_BUY_TOKENS",
+  "userUri": "email://mgogolev1991@gmail.com",
+  "amountUSDT": 10000,
+  "amountCrescoTokens": 8628.78,
+  "fromWallet": "uqfhwhvbowvb",
+  "toWallet": "0x542a3fd9a7073599cc2fd332a8091490a66c63c3",
+  "createdAt": {
+    "$date": "2023-07-20T13:05:18.833Z"
+  },
+  "__v": 0,
+  "status": "APPROVED"
+},
+{
+  "_id": {
+    "$oid": "64b994d55b29c6cb85f1d0ab"
+  },
+  "transactionType": "CLIENT_BUY_TOKENS",
+  "userUri": "email://syrand.2023@gmail.com",
+  "amountUSDT": 1000,
+  "amountCrescoTokens": 866.39,
+  "fromWallet": "465idcikthyui",
+  "toWallet": "0x542a3fd9a7073599cc2fd332a8091490a66c63c3",
+  "createdAt": {
+    "$date": "2023-07-20T20:11:01.600Z"
+  },
+  "__v": 0,
+  "status": "APPROVED"
+},
+{
+  "_id": {
+    "$oid": "64b997425b29c6cb85f1d242"
+  },
+  "transactionType": "CLIENT_BUY_TOKENS",
+  "userUri": "email://syrand.2023@gmail.com",
+  "amountUSDT": 500,
+  "amountCrescoTokens": 433.2,
+  "fromWallet": "465idcikthyui",
+  "toWallet": "0x542a3fd9a7073599cc2fd332a8091490a66c63c3",
+  "createdAt": {
+    "$date": "2023-07-20T20:21:22.477Z"
+  },
+  "__v": 0,
+  "status": "APPROVED"
+},
+{
+  "_id": {
+    "$oid": "64ba6dc25b29c6cb85f21639"
+  },
+  "transactionType": "CLIENT_BUY_TOKENS",
+  "userUri": "email://syrand.2023@gmail.com",
+  "amountUSDT": 1000.03,
+  "amountCrescoTokens": 23.63,
+  "fromWallet": "465idcikthyui",
+  "toWallet": "0x542a3fd9a7073599cc2fd332a8091490a66c63c3",
+  "createdAt": {
+    "$date": "2023-07-21T11:36:34.590Z"
+  },
+  "__v": 0,
+  "status": "APPROVED"
+},
+{
+  "_id": {
+    "$oid": "64ba8bb05b29c6cb85f220b6"
+  },
+  "transactionType": "CLIENT_SELL_TOKENS",
+  "userUri": "email://syrand.2023@gmail.com",
+  "amountUSDT": 9999.8863778,
+  "amountCrescoTokens": 236.06,
+  "fromWallet": "0x542a3fd9a7073599cc2fd332a8091490a66c63c3",
+  "toWallet": "465idcikthyui",
+  "createdAt": {
+    "$date": "2023-07-21T13:44:16.533Z"
+  },
+  "__v": 0,
+  "status": "APPROVED"
+},
+{
+  "_id": {
+    "$oid": "64bd352fb6a8323980b0d303"
+  },
+  "transactionType": "CLIENT_SELL_TOKENS",
+  "userUri": "email://mgogolev1991@gmail.com",
+  "amountUSDT": 42362.45,
+  "amountCrescoTokens": 1000,
+  "fromWallet": "0x542a3fd9a7073599cc2fd332a8091490a66c63c3",
+  "toWallet": "uqfhwhvbowvb",
+  "createdAt": {
+    "$date": "2023-07-23T14:11:59.933Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64beb194dfef0e1d1182ed0d"
+  },
+  "transactionType": "CLIENT_BUY_TOKENS",
+  "userUri": "email://metroy@mail.ru",
+  "amountUSDT": 999.9,
+  "amountCrescoTokens": 23.74,
+  "fromWallet": "qpihpqurhvadv;ihavlhaevh",
+  "toWallet": "0x542a3fd9a7073599cc2fd332a8091490a66c63c3",
+  "createdAt": {
+    "$date": "2023-07-24T17:15:00.437Z"
+  },
+  "__v": 0,
+  "status": "APPROVED"
+},
+{
+  "_id": {
+    "$oid": "64beb1bfdfef0e1d1182ed92"
+  },
+  "transactionType": "CLIENT_SELL_TOKENS",
+  "userUri": "email://metroy@mail.ru",
+  "amountUSDT": 421.18949999999995,
+  "amountCrescoTokens": 10,
+  "fromWallet": "0x542a3fd9a7073599cc2fd332a8091490a66c63c3",
+  "toWallet": "qpihpqurhvadv;ihavlhaevh",
+  "createdAt": {
+    "$date": "2023-07-24T17:15:43.739Z"
+  },
+  "__v": 0,
+  "status": "APPROVED"
+},
+{
+  "_id": {
+    "$oid": "64bf7a2d61304e9a7a8a1185"
+  },
+  "transactionType": "CLIENT_BUY_TOKENS",
+  "userUri": "email://metroy@mail.ru",
+  "amountUSDT": 10000.03,
+  "amountCrescoTokens": 237.44,
+  "fromWallet": "qpihpqurhvadv;ihavlhaevh",
+  "toWallet": "0x542a3fd9a7073599cc2fd332a8091490a66c63c3",
+  "createdAt": {
+    "$date": "2023-07-25T07:30:53.998Z"
+  },
+  "__v": 0,
+  "status": "APPROVED"
+},
+{
+  "_id": {
+    "$oid": "64bf7b19539fdfdbefd5ec32"
+  },
+  "transactionType": "CLIENT_BUY_TOKENS",
+  "userUri": "email://metroy@mail.ru",
+  "amountUSDT": 10000.03,
+  "amountCrescoTokens": 237.44,
+  "fromWallet": "qpihpqurhvadv;ihavlhaevh",
+  "toWallet": "0x542a3fd9a7073599cc2fd332a8091490a66c63c3",
+  "createdAt": {
+    "$date": "2023-07-25T07:34:49.640Z"
+  },
+  "__v": 0,
+  "status": "APPROVED"
+},
+{
+  "_id": {
+    "$oid": "64bfe4aa7b8815405e09dfdf"
+  },
+  "transactionType": "CLIENT_BUY_TOKENS",
+  "userUri": "email://yaneona88@gmail.com",
+  "amountUSDT": 999.87,
+  "amountCrescoTokens": 23.73,
+  "fromWallet": "7tglfeyu87878",
+  "toWallet": "0x542a3fd9a7073599cc2fd332a8091490a66c63c3",
+  "createdAt": {
+    "$date": "2023-07-25T15:05:14.173Z"
+  },
+  "__v": 0,
+  "status": "APPROVED"
+},
+{
+  "_id": {
+    "$oid": "64bfe83cf146e615bc6fe3ed"
+  },
+  "transactionType": "CLIENT_SELL_TOKENS",
+  "userUri": "email://yaneona88@gmail.com",
+  "amountUSDT": 210.68981666666667,
+  "amountCrescoTokens": 5,
+  "fromWallet": "0x542a3fd9a7073599cc2fd332a8091490a66c63c3",
+  "toWallet": "7tglfeyu87878",
+  "createdAt": {
+    "$date": "2023-07-25T15:20:28.876Z"
+  },
+  "__v": 0,
+  "status": "APPROVED"
+},
+{
+  "_id": {
+    "$oid": "64c2c0a8f052bb6e70ad1ee6"
+  },
+  "transactionType": "CLIENT_BUY_TOKENS",
+  "userUri": "email://yaneona88@gmail.com",
+  "amountUSDT": 1999.94,
+  "amountCrescoTokens": 47.49,
+  "fromWallet": "7tglfeyu87878",
+  "toWallet": "0x542a3fd9a7073599cc2fd332a8091490a66c63c3",
+  "createdAt": {
+    "$date": "2023-07-27T19:08:24.803Z"
+  },
+  "__v": 0,
+  "status": "APPROVED"
+},
+{
+  "_id": {
+    "$oid": "64c52f70ca00ba1c377f61af"
+  },
+  "transactionType": "CLIENT_BUY_TOKENS",
+  "userUri": "email://yaneona88@gmail.com",
+  "amountUSDT": 999.8,
+  "amountCrescoTokens": 23.71,
+  "fromWallet": "7tglfeyu87878",
+  "toWallet": "0x542a3fd9a7073599cc2fd332a8091490a66c63c3",
+  "createdAt": {
+    "$date": "2023-07-29T15:25:36.968Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64c52ff9b77150bdb79ee315"
+  },
+  "transactionType": "CLIENT_BUY_TOKENS",
+  "userUri": "email://yaneona88@gmail.com",
+  "amountUSDT": 500.11,
+  "amountCrescoTokens": 11.86,
+  "fromWallet": "7tglfeyu87878",
+  "toWallet": "0x542a3fd9a7073599cc2fd332a8091490a66c63c3",
+  "createdAt": {
+    "$date": "2023-07-29T15:27:53.629Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64c5301c027d1fa1887b5a4e"
+  },
+  "transactionType": "CLIENT_SELL_TOKENS",
+  "userUri": "email://yaneona88@gmail.com",
+  "amountUSDT": 21083.845,
+  "amountCrescoTokens": 500,
+  "fromWallet": "0x542a3fd9a7073599cc2fd332a8091490a66c63c3",
+  "toWallet": "7tglfeyu87878",
+  "createdAt": {
+    "$date": "2023-07-29T15:28:28.231Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d640dd060214529cf76b66"
+  },
+  "transactionType": "CLIENT_BUY_TOKENS",
+  "userUri": "email://yaneona88@gmail.com",
+  "amountUSDT": 1000,
+  "amountCrescoTokens": 36.93,
+  "fromWallet": "7tglfeyu87878",
+  "toWallet": "0x542a3fd9a7073599cc2fd332a8091490a66c63c3",
+  "createdAt": {
+    "$date": "2023-08-11T14:08:29.151Z"
+  },
+  "__v": 0,
+  "status": "APPROVED"
+},
+{
+  "_id": {
+    "$oid": "64f5e47f1291ec595e571524"
+  },
+  "transactionType": "CLIENT_BUY_TOKENS",
+  "userUri": "email://yaneona88@gmail.com",
+  "amountUSDT": 500,
+  "amountCrescoTokens": 202.41,
+  "fromWallet": "7tglfeyu87878",
+  "toWallet": "0x542a3fd9a7073599cc2fd332a8091490a66c63c3",
+  "createdAt": {
+    "$date": "2023-09-04T14:06:55.119Z"
+  },
+  "__v": 0,
+  "status": "APPROVED"
+},
+{
+  "_id": {
+    "$oid": "650d69c8c1c87e59f1d2bc0e"
+  },
+  "transactionType": "CLIENT_BUY_TOKENS",
+  "userUri": "email://mgogolev1991@gmail.com",
+  "amountUSDT": 1000,
+  "amountCrescoTokens": 409,
+  "fromWallet": "uqfhwhvbowvb",
+  "toWallet": "0x542a3fd9a7073599cc2fd332a8091490a66c63c3",
+  "createdAt": {
+    "$date": "2023-09-22T10:17:44.711Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6516827c9c1c613df73bb925"
+  },
+  "transactionType": "CLIENT_BUY_TOKENS",
+  "userUri": "email://tanya_04@bk.ru",
+  "amountUSDT": 999.99,
+  "amountCrescoTokens": 410.42,
+  "fromWallet": "744ftykufdrd",
+  "toWallet": "0x542a3fd9a7073599cc2fd332a8091490a66c63c3",
+  "createdAt": {
+    "$date": "2023-09-29T07:53:32.205Z"
+  },
+  "__v": 0,
+  "status": "FAILED"
+},
+{
+  "_id": {
+    "$oid": "651682af9c1c613df73bb980"
+  },
+  "transactionType": "CLIENT_BUY_TOKENS",
+  "userUri": "email://tanya_04@bk.ru",
+  "amountUSDT": 1000.09,
+  "amountCrescoTokens": 410.46,
+  "fromWallet": "744ftykufdrd",
+  "toWallet": "0x542a3fd9a7073599cc2fd332a8091490a66c63c3",
+  "createdAt": {
+    "$date": "2023-09-29T07:54:23.966Z"
+  },
+  "__v": 0,
+  "status": "FAILED"
+},
+{
+  "_id": {
+    "$oid": "651682d89c1c613df73bb9d2"
+  },
+  "transactionType": "CLIENT_BUY_TOKENS",
+  "userUri": "email://tanya_04@bk.ru",
+  "amountUSDT": 1100.89,
+  "amountCrescoTokens": 451.83,
+  "fromWallet": "744ftykufdrd",
+  "toWallet": "0x542a3fd9a7073599cc2fd332a8091490a66c63c3",
+  "createdAt": {
+    "$date": "2023-09-29T07:55:04.480Z"
+  },
+  "__v": 0,
+  "status": "FAILED"
+},
+{
+  "_id": {
+    "$oid": "651683249c1c613df73bba25"
+  },
+  "transactionType": "CLIENT_BUY_TOKENS",
+  "userUri": "email://tanya_04@bk.ru",
+  "amountUSDT": 999.99,
+  "amountCrescoTokens": 410.42,
+  "fromWallet": "744ftykufdrd",
+  "toWallet": "0x542a3fd9a7073599cc2fd332a8091490a66c63c3",
+  "createdAt": {
+    "$date": "2023-09-29T07:56:20.691Z"
+  },
+  "__v": 0,
+  "status": "APPROVED"
+},
+{
+  "_id": {
+    "$oid": "66475efdac37bdd091d4b239"
+  },
+  "transactionType": "CLIENT_BUY_TOKENS",
+  "userUri": "email://mgogolev1991@gmail.com",
+  "amountUSDT": 1000,
+  "amountCrescoTokens": 408.72,
+  "fromWallet": "uqfhwhvbowvb",
+  "toWallet": "0x542a3fd9a7073599cc2fd332a8091490a66c63c3",
+  "createdAt": {
+    "$date": "2024-05-17T13:43:25.786Z"
+  },
+  "__v": 0
+}]

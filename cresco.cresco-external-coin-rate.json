@@ -1,0 +1,6993 @@
+[{
+  "_id": {
+    "$oid": "647662e0a889ecbbc40454be"
+  },
+  "name": "vinu",
+  "__v": 0,
+  "displayName": "vinu",
+  "rate": 9.447e-9
+},
+{
+  "_id": {
+    "$oid": "647662e0a889ecbbc40454bf"
+  },
+  "name": "sylo",
+  "__v": 0,
+  "displayName": "sylo",
+  "rate": 0.000853
+},
+{
+  "_id": {
+    "$oid": "647662e0a889ecbbc40454c0"
+  },
+  "name": "skeb",
+  "__v": 0,
+  "displayName": "skeb",
+  "rate": 0.001472
+},
+{
+  "_id": {
+    "$oid": "647662e0a889ecbbc40454c1"
+  },
+  "name": "ethw",
+  "__v": 0,
+  "displayName": "ethw",
+  "rate": 1.7896
+},
+{
+  "_id": {
+    "$oid": "647662e0a889ecbbc40454c2"
+  },
+  "name": "sweat",
+  "__v": 0,
+  "displayName": "sweat",
+  "rate": 0.006884
+},
+{
+  "_id": {
+    "$oid": "647662e0a889ecbbc40454c3"
+  },
+  "name": "mplx",
+  "__v": 0,
+  "displayName": "mplx",
+  "rate": 0.2741
+},
+{
+  "_id": {
+    "$oid": "647662e0a889ecbbc40454c4"
+  },
+  "name": "ethf",
+  "__v": 0,
+  "displayName": "ethf",
+  "rate": 0.2934
+},
+{
+  "_id": {
+    "$oid": "647662e0a889ecbbc40454c5"
+  },
+  "name": "wbt",
+  "__v": 0,
+  "displayName": "wbt",
+  "rate": 10.9565
+},
+{
+  "_id": {
+    "$oid": "647662e0a889ecbbc40454c6"
+  },
+  "name": "ipv",
+  "__v": 0,
+  "displayName": "ipv",
+  "rate": 1.8998
+},
+{
+  "_id": {
+    "$oid": "647662e0a889ecbbc40454c8"
+  },
+  "name": "usdt",
+  "__v": 0,
+  "displayName": "usdt",
+  "rate": 1
+},
+{
+  "_id": {
+    "$oid": "647662fea889ecbbc4045503"
+  },
+  "name": "ing",
+  "__v": 0,
+  "displayName": "ing",
+  "rate": 0.0000316
+},
+{
+  "_id": {
+    "$oid": "647662fea889ecbbc4045504"
+  },
+  "name": "soul",
+  "__v": 0,
+  "displayName": "soul",
+  "rate": 0.000229
+},
+{
+  "_id": {
+    "$oid": "647662fea889ecbbc4045507"
+  },
+  "name": "inr",
+  "__v": 0,
+  "displayName": "inr",
+  "rate": 0.005484
+},
+{
+  "_id": {
+    "$oid": "647662fea889ecbbc4045508"
+  },
+  "name": "brise",
+  "__v": 0,
+  "displayName": "brise",
+  "rate": 8.11e-8
+},
+{
+  "_id": {
+    "$oid": "647662fea889ecbbc404550b"
+  },
+  "name": "waxl",
+  "__v": 0,
+  "displayName": "waxl",
+  "rate": 0.5165
+},
+{
+  "_id": {
+    "$oid": "647662fea889ecbbc404550c"
+  },
+  "name": "bitci",
+  "__v": 0,
+  "displayName": "bitci",
+  "rate": 0.000643
+},
+{
+  "_id": {
+    "$oid": "647662fea889ecbbc404550e"
+  },
+  "name": "dfx",
+  "__v": 0,
+  "displayName": "dfx",
+  "rate": 0.0614
+},
+{
+  "_id": {
+    "$oid": "647662fea889ecbbc4045510"
+  },
+  "name": "phb",
+  "__v": 0,
+  "displayName": "phb",
+  "rate": 1.2326
+},
+{
+  "_id": {
+    "$oid": "647662fea889ecbbc4045512"
+  },
+  "name": "fdt",
+  "__v": 0,
+  "displayName": "fdt",
+  "rate": 0.000168
+},
+{
+  "_id": {
+    "$oid": "6476631da889ecbbc4045589"
+  },
+  "name": "mcrt",
+  "__v": 0,
+  "displayName": "mcrt",
+  "rate": 0.000878
+},
+{
+  "_id": {
+    "$oid": "6476631da889ecbbc404558a"
+  },
+  "name": "mine",
+  "__v": 0,
+  "displayName": "mine",
+  "rate": 0.000494
+},
+{
+  "_id": {
+    "$oid": "6476631da889ecbbc404558c"
+  },
+  "name": "hao",
+  "__v": 0,
+  "displayName": "hao",
+  "rate": 0.000759
+},
+{
+  "_id": {
+    "$oid": "6476631da889ecbbc404558d"
+  },
+  "name": "kripto",
+  "__v": 0,
+  "displayName": "kripto",
+  "rate": 0.0000608
+},
+{
+  "_id": {
+    "$oid": "6476631da889ecbbc4045590"
+  },
+  "name": "hoop",
+  "__v": 0,
+  "displayName": "hoop",
+  "rate": 0.00007
+},
+{
+  "_id": {
+    "$oid": "6476631da889ecbbc4045591"
+  },
+  "name": "fanc",
+  "__v": 0,
+  "displayName": "fanc",
+  "rate": 0.00796
+},
+{
+  "_id": {
+    "$oid": "6476631da889ecbbc4045594"
+  },
+  "name": "sean",
+  "__v": 0,
+  "displayName": "sean",
+  "rate": 0.000757
+},
+{
+  "_id": {
+    "$oid": "6476631da889ecbbc4045595"
+  },
+  "name": "xen",
+  "__v": 0,
+  "displayName": "xen",
+  "rate": 1.02e-7
+},
+{
+  "_id": {
+    "$oid": "6476633aa889ecbbc40455e8"
+  },
+  "name": "bxen",
+  "__v": 0,
+  "displayName": "bxen",
+  "rate": 1.001e-9
+},
+{
+  "_id": {
+    "$oid": "6476633aa889ecbbc40455e9"
+  },
+  "name": "gmx",
+  "__v": 0,
+  "displayName": "gmx",
+  "rate": 24.0024
+},
+{
+  "_id": {
+    "$oid": "6476633aa889ecbbc40455ec"
+  },
+  "name": "mlk",
+  "__v": 0,
+  "displayName": "mlk",
+  "rate": 0.2047
+},
+{
+  "_id": {
+    "$oid": "6476633aa889ecbbc40455ee"
+  },
+  "name": "kicks",
+  "__v": 0,
+  "displayName": "kicks",
+  "rate": 0.0001802
+},
+{
+  "_id": {
+    "$oid": "6476633aa889ecbbc40455ef"
+  },
+  "name": "ita",
+  "__v": 0,
+  "displayName": "ita",
+  "rate": 1.07
+},
+{
+  "_id": {
+    "$oid": "6476633aa889ecbbc40455f2"
+  },
+  "name": "arg",
+  "__v": 0,
+  "displayName": "arg",
+  "rate": 0.7723
+},
+{
+  "_id": {
+    "$oid": "6476633aa889ecbbc40455f3"
+  },
+  "name": "hft",
+  "__v": 0,
+  "displayName": "hft",
+  "rate": 0.1489
+},
+{
+  "_id": {
+    "$oid": "6476633aa889ecbbc40455f6"
+  },
+  "name": "gala",
+  "__v": 0,
+  "displayName": "gala",
+  "rate": 0.018152
+},
+{
+  "_id": {
+    "$oid": "6476633aa889ecbbc40455f7"
+  },
+  "name": "por",
+  "__v": 0,
+  "displayName": "por",
+  "rate": 0.9569
+},
+{
+  "_id": {
+    "$oid": "64766358a889ecbbc4045655"
+  },
+  "name": "kcal",
+  "__v": 0,
+  "displayName": "kcal",
+  "rate": 0.0407
+},
+{
+  "_id": {
+    "$oid": "64766358a889ecbbc4045657"
+  },
+  "name": "paradox",
+  "__v": 0,
+  "displayName": "paradox",
+  "rate": 0.0002885
+},
+{
+  "_id": {
+    "$oid": "64766376a889ecbbc4045737"
+  },
+  "name": "btc",
+  "__v": 0,
+  "displayName": "btc",
+  "rate": 58041.01
+},
+{
+  "_id": {
+    "$oid": "64766376a889ecbbc4045738"
+  },
+  "name": "xrp",
+  "__v": 0,
+  "displayName": "xrp",
+  "rate": 0.55801
+},
+{
+  "_id": {
+    "$oid": "64766376a889ecbbc404573a"
+  },
+  "name": "eth",
+  "__v": 0,
+  "displayName": "eth",
+  "rate": 2356.9
+},
+{
+  "_id": {
+    "$oid": "64766376a889ecbbc404573d"
+  },
+  "name": "eos",
+  "__v": 0,
+  "displayName": "eos",
+  "rate": 0.5001
+},
+{
+  "_id": {
+    "$oid": "64766376a889ecbbc404573e"
+  },
+  "name": "ada",
+  "__v": 0,
+  "displayName": "ada",
+  "rate": 0.354138
+},
+{
+  "_id": {
+    "$oid": "64766376a889ecbbc4045741"
+  },
+  "name": "ht",
+  "__v": 0,
+  "displayName": "ht",
+  "rate": 1.8062
+},
+{
+  "_id": {
+    "$oid": "64766376a889ecbbc4045742"
+  },
+  "name": "iota",
+  "__v": 0,
+  "displayName": "iota",
+  "rate": 0.1293
+},
+{
+  "_id": {
+    "$oid": "64766376a889ecbbc4045744"
+  },
+  "name": "ltc",
+  "__v": 0,
+  "displayName": "ltc",
+  "rate": 62.74
+},
+{
+  "_id": {
+    "$oid": "64766394a889ecbbc4045797"
+  },
+  "name": "xem",
+  "__v": 0,
+  "displayName": "xem",
+  "rate": 0.0172
+},
+{
+  "_id": {
+    "$oid": "64766394a889ecbbc4045798"
+  },
+  "name": "trx",
+  "__v": 0,
+  "displayName": "trx",
+  "rate": 0.151434
+},
+{
+  "_id": {
+    "$oid": "64766394a889ecbbc404579b"
+  },
+  "name": "xmr",
+  "__v": 0,
+  "displayName": "xmr",
+  "rate": 170.62
+},
+{
+  "_id": {
+    "$oid": "64766394a889ecbbc404579d"
+  },
+  "name": "neo",
+  "__v": 0,
+  "displayName": "neo",
+  "rate": 9.56
+},
+{
+  "_id": {
+    "$oid": "64766394a889ecbbc404579e"
+  },
+  "name": "etc",
+  "__v": 0,
+  "displayName": "etc",
+  "rate": 18.451
+},
+{
+  "_id": {
+    "$oid": "64766394a889ecbbc40457a1"
+  },
+  "name": "dash",
+  "__v": 0,
+  "displayName": "dash",
+  "rate": 24.06
+},
+{
+  "_id": {
+    "$oid": "64766394a889ecbbc40457a3"
+  },
+  "name": "qtum",
+  "__v": 0,
+  "displayName": "qtum",
+  "rate": 2.2642
+},
+{
+  "_id": {
+    "$oid": "64766394a889ecbbc40457a4"
+  },
+  "name": "icx",
+  "__v": 0,
+  "displayName": "icx",
+  "rate": 0.1298
+},
+{
+  "_id": {
+    "$oid": "647663b3a889ecbbc40457dd"
+  },
+  "name": "omg",
+  "__v": 0,
+  "displayName": "omg",
+  "rate": 0.2186
+},
+{
+  "_id": {
+    "$oid": "647663b3a889ecbbc40457de"
+  },
+  "name": "zec",
+  "__v": 0,
+  "displayName": "zec",
+  "rate": 29.49
+},
+{
+  "_id": {
+    "$oid": "647663b3a889ecbbc40457e0"
+  },
+  "name": "dcr",
+  "__v": 0,
+  "displayName": "dcr",
+  "rate": 12.3067
+},
+{
+  "_id": {
+    "$oid": "647663b3a889ecbbc40457e3"
+  },
+  "name": "steem",
+  "__v": 0,
+  "displayName": "steem",
+  "rate": 0.1709
+},
+{
+  "_id": {
+    "$oid": "647663b3a889ecbbc40457e4"
+  },
+  "name": "bts",
+  "__v": 0,
+  "displayName": "bts",
+  "rate": 0.001743
+},
+{
+  "_id": {
+    "$oid": "647663b3a889ecbbc40457e7"
+  },
+  "name": "snt",
+  "__v": 0,
+  "displayName": "snt",
+  "rate": 0.021273
+},
+{
+  "_id": {
+    "$oid": "647663b3a889ecbbc40457e8"
+  },
+  "name": "waves",
+  "__v": 0,
+  "displayName": "waves",
+  "rate": 1.0309
+},
+{
+  "_id": {
+    "$oid": "647663b3a889ecbbc40457ea"
+  },
+  "name": "glm",
+  "__v": 0,
+  "displayName": "glm",
+  "rate": 0.2772
+},
+{
+  "_id": {
+    "$oid": "647663d0a889ecbbc4045824"
+  },
+  "name": "btm",
+  "__v": 0,
+  "displayName": "btm",
+  "rate": 0.006089
+},
+{
+  "_id": {
+    "$oid": "647663d0a889ecbbc4045825"
+  },
+  "name": "bat",
+  "__v": 0,
+  "displayName": "bat",
+  "rate": 0.1716
+},
+{
+  "_id": {
+    "$oid": "647663d0a889ecbbc4045827"
+  },
+  "name": "zrx",
+  "__v": 0,
+  "displayName": "zrx",
+  "rate": 0.2855
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc404582c"
+  },
+  "name": "FTIOSTUSDT",
+  "__v": 0,
+  "displayName": "FTIOSTUSDT",
+  "rate": 0.009209
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc404582d"
+  },
+  "name": "FTLITUSDT",
+  "__v": 0,
+  "displayName": "FTLITUSDT",
+  "rate": 0.736
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045830"
+  },
+  "name": "FTGALUSDT",
+  "__v": 0,
+  "displayName": "FTGALUSDT",
+  "rate": 1.246
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045832"
+  },
+  "name": "FTRENUSDT",
+  "__v": 0,
+  "displayName": "FTRENUSDT",
+  "rate": 0.06575
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045833"
+  },
+  "name": "FTTUSDT",
+  "__v": 0,
+  "displayName": "FTTUSDT",
+  "rate": 0.02402
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045836"
+  },
+  "name": "FTDUSKUSDT",
+  "__v": 0,
+  "displayName": "FTDUSKUSDT",
+  "rate": 0.14035
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045838"
+  },
+  "name": "FTARBUSDT",
+  "__v": 0,
+  "displayName": "FTARBUSDT",
+  "rate": 1.3011
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045839"
+  },
+  "name": "FTDEFIUSDT",
+  "__v": 0,
+  "displayName": "FTDEFIUSDT",
+  "rate": 521.6
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc404583c"
+  },
+  "name": "FTCOCOSUSDT",
+  "__v": 0,
+  "displayName": "FTCOCOSUSDT",
+  "rate": 1.454
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc404583e"
+  },
+  "name": "FTSOLUSDT",
+  "__v": 0,
+  "displayName": "FTSOLUSDT",
+  "rate": 26.554
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc404583f"
+  },
+  "name": "FTAGIXBUSD",
+  "__v": 0,
+  "displayName": "FTAGIXBUSD",
+  "rate": 0.2438
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045841"
+  },
+  "name": "FTALPHAUSDT",
+  "__v": 0,
+  "displayName": "FTALPHAUSDT",
+  "rate": 0.10551
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045844"
+  },
+  "name": "FTCHZUSDT",
+  "__v": 0,
+  "displayName": "FTCHZUSDT",
+  "rate": 0.08074
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045845"
+  },
+  "name": "FTJASMYUSDT",
+  "__v": 0,
+  "displayName": "FTJASMYUSDT",
+  "rate": 0.003986
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045848"
+  },
+  "name": "FTICPUSDT",
+  "__v": 0,
+  "displayName": "FTICPUSDT",
+  "rate": 4.105
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc404584b"
+  },
+  "name": "FTKNCUSDT",
+  "__v": 0,
+  "displayName": "FTKNCUSDT",
+  "rate": 0.6092
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc404584a"
+  },
+  "name": "FTRADUSDT",
+  "__v": 0,
+  "displayName": "FTRADUSDT",
+  "rate": 1.618
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc404584e"
+  },
+  "name": "FTADABUSD",
+  "__v": 0,
+  "displayName": "FTADABUSD",
+  "rate": 0.3121
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045850"
+  },
+  "name": "FTFTMBUSD",
+  "__v": 0,
+  "displayName": "FTFTMBUSD",
+  "rate": 0.2642
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045851"
+  },
+  "name": "FTGALABUSD",
+  "__v": 0,
+  "displayName": "FTGALABUSD",
+  "rate": 0.027075
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045854"
+  },
+  "name": "FTLINKBUSD",
+  "__v": 0,
+  "displayName": "FTLINKBUSD",
+  "rate": 6.547
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045855"
+  },
+  "name": "FTNEOUSDT",
+  "__v": 0,
+  "displayName": "FTNEOUSDT",
+  "rate": 9.078
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045858"
+  },
+  "name": "FTWAVESUSDT",
+  "__v": 0,
+  "displayName": "FTWAVESUSDT",
+  "rate": 1.9919
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc404585a"
+  },
+  "name": "FTVETUSDT",
+  "__v": 0,
+  "displayName": "FTVETUSDT",
+  "rate": 0.01943
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc404585b"
+  },
+  "name": "FTLINAUSDT",
+  "__v": 0,
+  "displayName": "FTLINAUSDT",
+  "rate": 0.01351
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc404585e"
+  },
+  "name": "FTTRXUSDT",
+  "__v": 0,
+  "displayName": "FTTRXUSDT",
+  "rate": 0.07972
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045860"
+  },
+  "name": "FTTRXBUSD",
+  "__v": 0,
+  "displayName": "FTTRXBUSD",
+  "rate": 0.079717
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045861"
+  },
+  "name": "FTPHBUSDT",
+  "__v": 0,
+  "displayName": "FTPHBUSDT",
+  "rate": 0.6586
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045864"
+  },
+  "name": "FTALGOUSDT",
+  "__v": 0,
+  "displayName": "FTALGOUSDT",
+  "rate": 0.1185
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045865"
+  },
+  "name": "FTHBARUSDT",
+  "__v": 0,
+  "displayName": "FTHBARUSDT",
+  "rate": 0.05152
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045868"
+  },
+  "name": "FTANKRUSDT",
+  "__v": 0,
+  "displayName": "FTANKRUSDT",
+  "rate": 0.02564
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc404586a"
+  },
+  "name": "FTUNIBUSD",
+  "__v": 0,
+  "displayName": "FTUNIBUSD",
+  "rate": 6.056
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc404586b"
+  },
+  "name": "FTKEYUSDT",
+  "__v": 0,
+  "displayName": "FTKEYUSDT",
+  "rate": 0.005771
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc404586e"
+  },
+  "name": "FTSUIUSDT",
+  "__v": 0,
+  "displayName": "FTSUIUSDT",
+  "rate": 0.7016
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045870"
+  },
+  "name": "FTRUNEUSDT",
+  "__v": 0,
+  "displayName": "FTRUNEUSDT",
+  "rate": 1.013
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045871"
+  },
+  "name": "FTSFPUSDT",
+  "__v": 0,
+  "displayName": "FTSFPUSDT",
+  "rate": 0.4469
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045874"
+  },
+  "name": "FTAAVEUSDT",
+  "__v": 0,
+  "displayName": "FTAAVEUSDT",
+  "rate": 75.04
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045875"
+  },
+  "name": "FTCHRUSDT",
+  "__v": 0,
+  "displayName": "FTCHRUSDT",
+  "rate": 0.1202
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045878"
+  },
+  "name": "FTRNDRUSDT",
+  "__v": 0,
+  "displayName": "FTRNDRUSDT",
+  "rate": 1.9548
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc404587a"
+  },
+  "name": "FTHOTUSDT",
+  "__v": 0,
+  "displayName": "FTHOTUSDT",
+  "rate": 0.001343
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc404587b"
+  },
+  "name": "FTDENTUSDT",
+  "__v": 0,
+  "displayName": "FTDENTUSDT",
+  "rate": 0.000817
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc404587e"
+  },
+  "name": "FTCFXUSDT",
+  "__v": 0,
+  "displayName": "FTCFXUSDT",
+  "rate": 0.1877
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc404587f"
+  },
+  "name": "FTETCBUSD",
+  "__v": 0,
+  "displayName": "FTETCBUSD",
+  "rate": 19.31
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045882"
+  },
+  "name": "FT1000PEPEUSDT",
+  "__v": 0,
+  "displayName": "FT1000PEPEUSDT",
+  "rate": 0.0015947
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045883"
+  },
+  "name": "FTOGNUSDT",
+  "__v": 0,
+  "displayName": "FTOGNUSDT",
+  "rate": 0.0814
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045886"
+  },
+  "name": "FTTRBUSDT",
+  "__v": 0,
+  "displayName": "FTTRBUSDT",
+  "rate": 10.75
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045888"
+  },
+  "name": "FTXVSUSDT",
+  "__v": 0,
+  "displayName": "FTXVSUSDT",
+  "rate": 4.643
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045889"
+  },
+  "name": "FTYFIUSDT",
+  "__v": 0,
+  "displayName": "FTYFIUSDT",
+  "rate": 7007
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc404588c"
+  },
+  "name": "FTSANDBUSD",
+  "__v": 0,
+  "displayName": "FTSANDBUSD",
+  "rate": 0.6287
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc404588e"
+  },
+  "name": "FTEGLDUSDT",
+  "__v": 0,
+  "displayName": "FTEGLDUSDT",
+  "rate": 37.19
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045890"
+  },
+  "name": "FTLUNA2USDT",
+  "__v": 0,
+  "displayName": "FTLUNA2USDT",
+  "rate": 0.6515
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045892"
+  },
+  "name": "FTBLUEBIRDUSDT",
+  "__v": 0,
+  "displayName": "FTBLUEBIRDUSDT",
+  "rate": 6.812
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045893"
+  },
+  "name": "FTTLMUSDT",
+  "__v": 0,
+  "displayName": "FTTLMUSDT",
+  "rate": 0.0117
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045896"
+  },
+  "name": "FTETHBUSD",
+  "__v": 0,
+  "displayName": "FTETHBUSD",
+  "rate": 1914.86
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045898"
+  },
+  "name": "FTSPELLUSDT",
+  "__v": 0,
+  "displayName": "FTSPELLUSDT",
+  "rate": 0.0004974
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045899"
+  },
+  "name": "FTRDNTUSDT",
+  "__v": 0,
+  "displayName": "FTRDNTUSDT",
+  "rate": 0.2784
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc404589c"
+  },
+  "name": "FTTHETAUSDT",
+  "__v": 0,
+  "displayName": "FTTHETAUSDT",
+  "rate": 0.7782
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc404589e"
+  },
+  "name": "FTKAVAUSDT",
+  "__v": 0,
+  "displayName": "FTKAVAUSDT",
+  "rate": 0.9263
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc404589f"
+  },
+  "name": "FTLTCUSDT",
+  "__v": 0,
+  "displayName": "FTLTCUSDT",
+  "rate": 92.27
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40458a1"
+  },
+  "name": "FTC98USDT",
+  "__v": 0,
+  "displayName": "FTC98USDT",
+  "rate": 0.1547
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40458a4"
+  },
+  "name": "FTXRPBUSD",
+  "__v": 0,
+  "displayName": "FTXRPBUSD",
+  "rate": 0.74
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40458a5"
+  },
+  "name": "FT1000SHIBBUSD",
+  "__v": 0,
+  "displayName": "FT1000SHIBBUSD",
+  "rate": 0.008493
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40458a8"
+  },
+  "name": "FTAVAXUSDT",
+  "__v": 0,
+  "displayName": "FTAVAXUSDT",
+  "rate": 14.32
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40458aa"
+  },
+  "name": "FTKLAYUSDT",
+  "__v": 0,
+  "displayName": "FTKLAYUSDT",
+  "rate": 0.174
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40458ab"
+  },
+  "name": "FT1000LUNCUSDT",
+  "__v": 0,
+  "displayName": "FT1000LUNCUSDT",
+  "rate": 0.09133
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40458ae"
+  },
+  "name": "FTSNXUSDT",
+  "__v": 0,
+  "displayName": "FTSNXUSDT",
+  "rate": 2.627
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40458af"
+  },
+  "name": "FTAPTUSDT",
+  "__v": 0,
+  "displayName": "FTAPTUSDT",
+  "rate": 7.829
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40458b2"
+  },
+  "name": "FTSSVUSDT",
+  "__v": 0,
+  "displayName": "FTSSVUSDT",
+  "rate": 18.9
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40458b4"
+  },
+  "name": "FTLPTUSDT",
+  "__v": 0,
+  "displayName": "FTLPTUSDT",
+  "rate": 4.437
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40458b6"
+  },
+  "name": "FTGRTUSDT",
+  "__v": 0,
+  "displayName": "FTGRTUSDT",
+  "rate": 0.12003
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40458b8"
+  },
+  "name": "FTDOGEBUSD",
+  "__v": 0,
+  "displayName": "FTDOGEBUSD",
+  "rate": 0.06966
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40458ba"
+  },
+  "name": "FTIMXUSDT",
+  "__v": 0,
+  "displayName": "FTIMXUSDT",
+  "rate": 0.7455
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40458bc"
+  },
+  "name": "FTOPUSDT",
+  "__v": 0,
+  "displayName": "FTOPUSDT",
+  "rate": 1.4754
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40458bd"
+  },
+  "name": "FTBTCUSDT_230630",
+  "__v": 0,
+  "displayName": "FTBTCUSDT_230630",
+  "rate": 30661
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40458c0"
+  },
+  "name": "FTKSMUSDT",
+  "__v": 0,
+  "displayName": "FTKSMUSDT",
+  "rate": 24.43
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40458c1"
+  },
+  "name": "FTMKRUSDT",
+  "__v": 0,
+  "displayName": "FTMKRUSDT",
+  "rate": 936.9
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40458c4"
+  },
+  "name": "FT1000LUNCBUSD",
+  "__v": 0,
+  "displayName": "FT1000LUNCBUSD",
+  "rate": 0.0927
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40458c5"
+  },
+  "name": "FTICXUSDT",
+  "__v": 0,
+  "displayName": "FTICXUSDT",
+  "rate": 0.2453
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40458c8"
+  },
+  "name": "FTOCEANUSDT",
+  "__v": 0,
+  "displayName": "FTOCEANUSDT",
+  "rate": 0.4066
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40458c9"
+  },
+  "name": "FTANTUSDT",
+  "__v": 0,
+  "displayName": "FTANTUSDT",
+  "rate": 4.333
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40458cc"
+  },
+  "name": "FTDGBUSDT",
+  "__v": 0,
+  "displayName": "FTDGBUSDT",
+  "rate": 0.00794
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40458ce"
+  },
+  "name": "FTETHUSDT_230630",
+  "__v": 0,
+  "displayName": "FTETHUSDT_230630",
+  "rate": 1880.82
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40458d0"
+  },
+  "name": "FTMASKUSDT",
+  "__v": 0,
+  "displayName": "FTMASKUSDT",
+  "rate": 3.724
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40458d2"
+  },
+  "name": "FTDOGEUSDT",
+  "__v": 0,
+  "displayName": "FTDOGEUSDT",
+  "rate": 0.06963
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40458d4"
+  },
+  "name": "FTLDOBUSD",
+  "__v": 0,
+  "displayName": "FTLDOBUSD",
+  "rate": 2.0675
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40458d6"
+  },
+  "name": "FTFXSUSDT",
+  "__v": 0,
+  "displayName": "FTFXSUSDT",
+  "rate": 6.356
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40458d8"
+  },
+  "name": "FTNKNUSDT",
+  "__v": 0,
+  "displayName": "FTNKNUSDT",
+  "rate": 0.09843
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40458d9"
+  },
+  "name": "FTLEVERUSDT",
+  "__v": 0,
+  "displayName": "FTLEVERUSDT",
+  "rate": 0.001314
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40458dc"
+  },
+  "name": "FTBNBBUSD",
+  "__v": 0,
+  "displayName": "FTBNBBUSD",
+  "rate": 244.12
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40458dd"
+  },
+  "name": "FTFTMUSDT",
+  "__v": 0,
+  "displayName": "FTFTMUSDT",
+  "rate": 0.2641
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40458e0"
+  },
+  "name": "FTQNTUSDT",
+  "__v": 0,
+  "displayName": "FTQNTUSDT",
+  "rate": 101.41
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40458e1"
+  },
+  "name": "FTALICEUSDT",
+  "__v": 0,
+  "displayName": "FTALICEUSDT",
+  "rate": 1.032
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40458e4"
+  },
+  "name": "FTRVNUSDT",
+  "__v": 0,
+  "displayName": "FTRVNUSDT",
+  "rate": 0.01968
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40458e6"
+  },
+  "name": "FTZENUSDT",
+  "__v": 0,
+  "displayName": "FTZENUSDT",
+  "rate": 8.117
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40458e8"
+  },
+  "name": "FTIOTAUSDT",
+  "__v": 0,
+  "displayName": "FTIOTAUSDT",
+  "rate": 0.1919
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40458ea"
+  },
+  "name": "FTCOMPUSDT",
+  "__v": 0,
+  "displayName": "FTCOMPUSDT",
+  "rate": 76.39
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40458ec"
+  },
+  "name": "FTMTLUSDT",
+  "__v": 0,
+  "displayName": "FTMTLUSDT",
+  "rate": 1.4083
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40458ee"
+  },
+  "name": "FTINJUSDT",
+  "__v": 0,
+  "displayName": "FTINJUSDT",
+  "rate": 9.265
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40458ef"
+  },
+  "name": "FTLRCUSDT",
+  "__v": 0,
+  "displayName": "FTLRCUSDT",
+  "rate": 0.2361
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40458f1"
+  },
+  "name": "FTGMTUSDT",
+  "__v": 0,
+  "displayName": "FTGMTUSDT",
+  "rate": 0.2721
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40458f4"
+  },
+  "name": "FTTRUUSDT",
+  "__v": 0,
+  "displayName": "FTTRUUSDT",
+  "rate": 0.03847
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40458f5"
+  },
+  "name": "FTAUDIOUSDT",
+  "__v": 0,
+  "displayName": "FTAUDIOUSDT",
+  "rate": 0.1946
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40458f8"
+  },
+  "name": "FTSKLUSDT",
+  "__v": 0,
+  "displayName": "FTSKLUSDT",
+  "rate": 0.02953
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40458fa"
+  },
+  "name": "FTZILUSDT",
+  "__v": 0,
+  "displayName": "FTZILUSDT",
+  "rate": 0.02225
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40458fc"
+  },
+  "name": "FTENSUSDT",
+  "__v": 0,
+  "displayName": "FTENSUSDT",
+  "rate": 9.937
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40458fe"
+  },
+  "name": "FTBNXUSDT",
+  "__v": 0,
+  "displayName": "FTBNXUSDT",
+  "rate": 0.2624
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40458ff"
+  },
+  "name": "FTBNBUSDT",
+  "__v": 0,
+  "displayName": "FTBNBUSDT",
+  "rate": 244.13
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045902"
+  },
+  "name": "FTCELRUSDT",
+  "__v": 0,
+  "displayName": "FTCELRUSDT",
+  "rate": 0.01569
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045903"
+  },
+  "name": "FTBELUSDT",
+  "__v": 0,
+  "displayName": "FTBELUSDT",
+  "rate": 0.7405
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045906"
+  },
+  "name": "FTLTCBUSD",
+  "__v": 0,
+  "displayName": "FTLTCBUSD",
+  "rate": 92.32
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045907"
+  },
+  "name": "FTMAGICUSDT",
+  "__v": 0,
+  "displayName": "FTMAGICUSDT",
+  "rate": 0.8037
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045909"
+  },
+  "name": "FT1000FLOKIUSDT",
+  "__v": 0,
+  "displayName": "FT1000FLOKIUSDT",
+  "rate": 0.02453
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc404590d"
+  },
+  "name": "FTARUSDT",
+  "__v": 0,
+  "displayName": "FTARUSDT",
+  "rate": 5.709
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc404590e"
+  },
+  "name": "FTGMTBUSD",
+  "__v": 0,
+  "displayName": "FTGMTBUSD",
+  "rate": 0.3952
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045911"
+  },
+  "name": "FTBTCDOMUSDT",
+  "__v": 0,
+  "displayName": "FTBTCDOMUSDT",
+  "rate": 1764.2
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045913"
+  },
+  "name": "FTLINKUSDT",
+  "__v": 0,
+  "displayName": "FTLINKUSDT",
+  "rate": 7.024
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045915"
+  },
+  "name": "FTZECUSDT",
+  "__v": 0,
+  "displayName": "FTZECUSDT",
+  "rate": 32.29
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045917"
+  },
+  "name": "FTATOMUSDT",
+  "__v": 0,
+  "displayName": "FTATOMUSDT",
+  "rate": 9.397
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045919"
+  },
+  "name": "FTETHUSDT",
+  "__v": 0,
+  "displayName": "FTETHUSDT",
+  "rate": 1914.17
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc404591b"
+  },
+  "name": "FTAPEUSDT",
+  "__v": 0,
+  "displayName": "FTAPEUSDT",
+  "rate": 1.977
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc404591c"
+  },
+  "name": "FTXRPUSDT",
+  "__v": 0,
+  "displayName": "FTXRPUSDT",
+  "rate": 0.7395
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc404591f"
+  },
+  "name": "FTSANDUSDT",
+  "__v": 0,
+  "displayName": "FTSANDUSDT",
+  "rate": 0.4494
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045920"
+  },
+  "name": "FTOMGUSDT",
+  "__v": 0,
+  "displayName": "FTOMGUSDT",
+  "rate": 0.6532
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045923"
+  },
+  "name": "FTGTCUSDT",
+  "__v": 0,
+  "displayName": "FTGTCUSDT",
+  "rate": 1.057
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045924"
+  },
+  "name": "FTXLMUSDT",
+  "__v": 0,
+  "displayName": "FTXLMUSDT",
+  "rate": 0.12815
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045927"
+  },
+  "name": "FTFILBUSD",
+  "__v": 0,
+  "displayName": "FTFILBUSD",
+  "rate": 5.26
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045928"
+  },
+  "name": "FTUNIUSDT",
+  "__v": 0,
+  "displayName": "FTUNIUSDT",
+  "rate": 5.891
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc404592b"
+  },
+  "name": "FTSTGUSDT",
+  "__v": 0,
+  "displayName": "FTSTGUSDT",
+  "rate": 0.6457
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc404592c"
+  },
+  "name": "FTLQTYUSDT",
+  "__v": 0,
+  "displayName": "FTLQTYUSDT",
+  "rate": 1.1936
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc404592f"
+  },
+  "name": "FTREEFUSDT",
+  "__v": 0,
+  "displayName": "FTREEFUSDT",
+  "rate": 0.00171
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045930"
+  },
+  "name": "FTCTKUSDT",
+  "__v": 0,
+  "displayName": "FTCTKUSDT",
+  "rate": 0.6062
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045933"
+  },
+  "name": "FTETHBTC",
+  "__v": 0,
+  "displayName": "FTETHBTC",
+  "rate": 0.06345
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045934"
+  },
+  "name": "FTASTRUSDT",
+  "__v": 0,
+  "displayName": "FTASTRUSDT",
+  "rate": 0.04294
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045937"
+  },
+  "name": "FTAPEBUSD",
+  "__v": 0,
+  "displayName": "FTAPEBUSD",
+  "rate": 3.418
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045938"
+  },
+  "name": "FTBLURUSDT",
+  "__v": 0,
+  "displayName": "FTBLURUSDT",
+  "rate": 0.332
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc404593b"
+  },
+  "name": "FTUNFIUSDT",
+  "__v": 0,
+  "displayName": "FTUNFIUSDT",
+  "rate": 3.46
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc404593c"
+  },
+  "name": "FTBATUSDT",
+  "__v": 0,
+  "displayName": "FTBATUSDT",
+  "rate": 0.207
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc404593e"
+  },
+  "name": "FTRSRUSDT",
+  "__v": 0,
+  "displayName": "FTRSRUSDT",
+  "rate": 0.002255
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045940"
+  },
+  "name": "FTBTCBUSD",
+  "__v": 0,
+  "displayName": "FTBTCBUSD",
+  "rate": 30177.9
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045943"
+  },
+  "name": "FTEDUUSDT",
+  "__v": 0,
+  "displayName": "FTEDUUSDT",
+  "rate": 0.6781
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045945"
+  },
+  "name": "FTQTUMUSDT",
+  "__v": 0,
+  "displayName": "FTQTUMUSDT",
+  "rate": 2.754
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045946"
+  },
+  "name": "FTGMXUSDT",
+  "__v": 0,
+  "displayName": "FTGMXUSDT",
+  "rate": 56.36
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045949"
+  },
+  "name": "FTSTORJUSDT",
+  "__v": 0,
+  "displayName": "FTSTORJUSDT",
+  "rate": 0.3103
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc404594b"
+  },
+  "name": "FTACHUSDT",
+  "__v": 0,
+  "displayName": "FTACHUSDT",
+  "rate": 0.01934
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc404594d"
+  },
+  "name": "FTXTZUSDT",
+  "__v": 0,
+  "displayName": "FTXTZUSDT",
+  "rate": 0.861
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc404594e"
+  },
+  "name": "FTTOMOUSDT",
+  "__v": 0,
+  "displayName": "FTTOMOUSDT",
+  "rate": 1.1246
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045951"
+  },
+  "name": "FTCELOUSDT",
+  "__v": 0,
+  "displayName": "FTCELOUSDT",
+  "rate": 0.578
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045953"
+  },
+  "name": "FTNEARUSDT",
+  "__v": 0,
+  "displayName": "FTNEARUSDT",
+  "rate": 1.49
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045954"
+  },
+  "name": "FTADAUSDT",
+  "__v": 0,
+  "displayName": "FTADAUSDT",
+  "rate": 0.312
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045957"
+  },
+  "name": "FTWOOUSDT",
+  "__v": 0,
+  "displayName": "FTWOOUSDT",
+  "rate": 0.22532
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045959"
+  },
+  "name": "FTPEOPLEUSDT",
+  "__v": 0,
+  "displayName": "FTPEOPLEUSDT",
+  "rate": 0.01403
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc404595a"
+  },
+  "name": "FTSTMXUSDT",
+  "__v": 0,
+  "displayName": "FTSTMXUSDT",
+  "rate": 0.00463
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc404595d"
+  },
+  "name": "FTAMBUSDT",
+  "__v": 0,
+  "displayName": "FTAMBUSDT",
+  "rate": 0.00715
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045960"
+  },
+  "name": "FTAXSUSDT",
+  "__v": 0,
+  "displayName": "FTAXSUSDT",
+  "rate": 6.338
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc404595f"
+  },
+  "name": "FTXMRUSDT",
+  "__v": 0,
+  "displayName": "FTXMRUSDT",
+  "rate": 168.06
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045962"
+  },
+  "name": "FTSOLBUSD",
+  "__v": 0,
+  "displayName": "FTSOLBUSD",
+  "rate": 26.577
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045965"
+  },
+  "name": "FTSXPUSDT",
+  "__v": 0,
+  "displayName": "FTSXPUSDT",
+  "rate": 0.3732
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045967"
+  },
+  "name": "FTNEARBUSD",
+  "__v": 0,
+  "displayName": "FTNEARBUSD",
+  "rate": 2.289
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045969"
+  },
+  "name": "FTFLOWUSDT",
+  "__v": 0,
+  "displayName": "FTFLOWUSDT",
+  "rate": 0.621
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc404596a"
+  },
+  "name": "FTARPAUSDT",
+  "__v": 0,
+  "displayName": "FTARPAUSDT",
+  "rate": 0.05164
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc404596d"
+  },
+  "name": "FTBANDUSDT",
+  "__v": 0,
+  "displayName": "FTBANDUSDT",
+  "rate": 1.241
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc404596e"
+  },
+  "name": "FTMATICBUSD",
+  "__v": 0,
+  "displayName": "FTMATICBUSD",
+  "rate": 0.78
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045971"
+  },
+  "name": "FTUSDCUSDT",
+  "__v": 0,
+  "displayName": "FTUSDCUSDT",
+  "rate": 0.99928
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045972"
+  },
+  "name": "FT1000SHIBUSDT",
+  "__v": 0,
+  "displayName": "FT1000SHIBUSDT",
+  "rate": 0.007817
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045974"
+  },
+  "name": "FTDYDXUSDT",
+  "__v": 0,
+  "displayName": "FTDYDXUSDT",
+  "rate": 2.115
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045977"
+  },
+  "name": "FT1000XECUSDT",
+  "__v": 0,
+  "displayName": "FT1000XECUSDT",
+  "rate": 0.03068
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045979"
+  },
+  "name": "FTXEMUSDT",
+  "__v": 0,
+  "displayName": "FTXEMUSDT",
+  "rate": 0.0301
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc404597b"
+  },
+  "name": "FTGALAUSDT",
+  "__v": 0,
+  "displayName": "FTGALAUSDT",
+  "rate": 0.02709
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc404597d"
+  },
+  "name": "FTUMAUSDT",
+  "__v": 0,
+  "displayName": "FTUMAUSDT",
+  "rate": 1.621
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc404597f"
+  },
+  "name": "FTCRVUSDT",
+  "__v": 0,
+  "displayName": "FTCRVUSDT",
+  "rate": 0.804
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045981"
+  },
+  "name": "FTONEUSDT",
+  "__v": 0,
+  "displayName": "FTONEUSDT",
+  "rate": 0.01273
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045983"
+  },
+  "name": "FTMATICUSDT",
+  "__v": 0,
+  "displayName": "FTMATICUSDT",
+  "rate": 0.7798
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045985"
+  },
+  "name": "FTJOEUSDT",
+  "__v": 0,
+  "displayName": "FTJOEUSDT",
+  "rate": 0.3638
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045987"
+  },
+  "name": "FTAGIXUSDT",
+  "__v": 0,
+  "displayName": "FTAGIXUSDT",
+  "rate": 0.2436
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045989"
+  },
+  "name": "FTZRXUSDT",
+  "__v": 0,
+  "displayName": "FTZRXUSDT",
+  "rate": 0.2191
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc404598b"
+  },
+  "name": "FTIDUSDT",
+  "__v": 0,
+  "displayName": "FTIDUSDT",
+  "rate": 0.2728
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc404598d"
+  },
+  "name": "FTMANAUSDT",
+  "__v": 0,
+  "displayName": "FTMANAUSDT",
+  "rate": 0.4122
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc404598f"
+  },
+  "name": "FTBTCUSDT",
+  "__v": 0,
+  "displayName": "FTBTCUSDT",
+  "rate": 30164.5
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045991"
+  },
+  "name": "FTETCUSDT",
+  "__v": 0,
+  "displayName": "FTETCUSDT",
+  "rate": 19.064
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045993"
+  },
+  "name": "FTEOSUSDT",
+  "__v": 0,
+  "displayName": "FTEOSUSDT",
+  "rate": 0.769
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045995"
+  },
+  "name": "FTFLMUSDT",
+  "__v": 0,
+  "displayName": "FTFLMUSDT",
+  "rate": 0.0699
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045996"
+  },
+  "name": "FTDOTUSDT",
+  "__v": 0,
+  "displayName": "FTDOTUSDT",
+  "rate": 5.276
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc4045998"
+  },
+  "name": "FTPHBBUSD",
+  "__v": 0,
+  "displayName": "FTPHBBUSD",
+  "rate": 1.1878
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc404599b"
+  },
+  "name": "FTMINAUSDT",
+  "__v": 0,
+  "displayName": "FTMINAUSDT",
+  "rate": 0.472
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc404599c"
+  },
+  "name": "FTFOOTBALLUSDT",
+  "__v": 0,
+  "displayName": "FTFOOTBALLUSDT",
+  "rate": 400.51
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc404599f"
+  },
+  "name": "FTFETUSDT",
+  "__v": 0,
+  "displayName": "FTFETUSDT",
+  "rate": 0.236
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40459a0"
+  },
+  "name": "FTBCHUSDT",
+  "__v": 0,
+  "displayName": "FTBCHUSDT",
+  "rate": 242.29
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40459a3"
+  },
+  "name": "FTPERPUSDT",
+  "__v": 0,
+  "displayName": "FTPERPUSDT",
+  "rate": 0.5112
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40459a5"
+  },
+  "name": "FTBALUSDT",
+  "__v": 0,
+  "displayName": "FTBALUSDT",
+  "rate": 4.827
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40459a6"
+  },
+  "name": "FTIDEXUSDT",
+  "__v": 0,
+  "displayName": "FTIDEXUSDT",
+  "rate": 0.05605
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40459a9"
+  },
+  "name": "FTSUSHIUSDT",
+  "__v": 0,
+  "displayName": "FTSUSHIUSDT",
+  "rate": 0.746
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40459aa"
+  },
+  "name": "FTCTSIUSDT",
+  "__v": 0,
+  "displayName": "FTCTSIUSDT",
+  "rate": 0.1566
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40459ad"
+  },
+  "name": "FTAPTBUSD",
+  "__v": 0,
+  "displayName": "FTAPTBUSD",
+  "rate": 7.833
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40459ae"
+  },
+  "name": "FTDOTBUSD",
+  "__v": 0,
+  "displayName": "FTDOTBUSD",
+  "rate": 5.317
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40459b1"
+  },
+  "name": "FTAVAXBUSD",
+  "__v": 0,
+  "displayName": "FTAVAXBUSD",
+  "rate": 21.02
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40459b2"
+  },
+  "name": "FTDARUSDT",
+  "__v": 0,
+  "displayName": "FTDARUSDT",
+  "rate": 0.1041
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40459b5"
+  },
+  "name": "FTSTXUSDT",
+  "__v": 0,
+  "displayName": "FTSTXUSDT",
+  "rate": 0.6346
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40459b6"
+  },
+  "name": "FT1INCHUSDT",
+  "__v": 0,
+  "displayName": "FT1INCHUSDT",
+  "rate": 0.4082
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40459b9"
+  },
+  "name": "FTROSEUSDT",
+  "__v": 0,
+  "displayName": "FTROSEUSDT",
+  "rate": 0.05067
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40459ba"
+  },
+  "name": "FTENJUSDT",
+  "__v": 0,
+  "displayName": "FTENJUSDT",
+  "rate": 0.3178
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40459bd"
+  },
+  "name": "FTBAKEUSDT",
+  "__v": 0,
+  "displayName": "FTBAKEUSDT",
+  "rate": 0.1027
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40459bf"
+  },
+  "name": "FTHFTUSDT",
+  "__v": 0,
+  "displayName": "FTHFTUSDT",
+  "rate": 0.369
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40459c1"
+  },
+  "name": "FTHOOKUSDT",
+  "__v": 0,
+  "displayName": "FTHOOKUSDT",
+  "rate": 1.058
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40459c3"
+  },
+  "name": "FTBLZUSDT",
+  "__v": 0,
+  "displayName": "FTBLZUSDT",
+  "rate": 0.06128
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40459c5"
+  },
+  "name": "FTCOTIUSDT",
+  "__v": 0,
+  "displayName": "FTCOTIUSDT",
+  "rate": 0.05356
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40459c7"
+  },
+  "name": "FTATAUSDT",
+  "__v": 0,
+  "displayName": "FTATAUSDT",
+  "rate": 0.0911
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40459c8"
+  },
+  "name": "FTRLCUSDT",
+  "__v": 0,
+  "displayName": "FTRLCUSDT",
+  "rate": 1.2482
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40459cb"
+  },
+  "name": "FTHIGHUSDT",
+  "__v": 0,
+  "displayName": "FTHIGHUSDT",
+  "rate": 1.155
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40459cc"
+  },
+  "name": "FTDASHUSDT",
+  "__v": 0,
+  "displayName": "FTDASHUSDT",
+  "rate": 33.09
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40459cf"
+  },
+  "name": "FTAPI3USDT",
+  "__v": 0,
+  "displayName": "FTAPI3USDT",
+  "rate": 1.094
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40459d1"
+  },
+  "name": "FTLDOUSDT",
+  "__v": 0,
+  "displayName": "FTLDOUSDT",
+  "rate": 2.0664
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40459d3"
+  },
+  "name": "FTCVXUSDT",
+  "__v": 0,
+  "displayName": "FTCVXUSDT",
+  "rate": 3.961
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40459d5"
+  },
+  "name": "FTONTUSDT",
+  "__v": 0,
+  "displayName": "FTONTUSDT",
+  "rate": 0.2071
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40459d7"
+  },
+  "name": "FTIOTXUSDT",
+  "__v": 0,
+  "displayName": "FTIOTXUSDT",
+  "rate": 0.02007
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40459d9"
+  },
+  "name": "FTCKBUSDT",
+  "__v": 0,
+  "displayName": "FTCKBUSDT",
+  "rate": 0.002831
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40459db"
+  },
+  "name": "FTFILUSDT",
+  "__v": 0,
+  "displayName": "FTFILUSDT",
+  "rate": 4.335
+},
+{
+  "_id": {
+    "$oid": "647663d1a889ecbbc40459dc"
+  },
+  "name": "FTDODOBUSD",
+  "__v": 0,
+  "displayName": "FTDODOBUSD",
+  "rate": 0.1001
+},
+{
+  "_id": {
+    "$oid": "647663eea889ecbbc4045a12"
+  },
+  "name": "storj",
+  "__v": 0,
+  "displayName": "storj",
+  "rate": 0.3602
+},
+{
+  "_id": {
+    "$oid": "647663eea889ecbbc4045a13"
+  },
+  "name": "mana",
+  "__v": 0,
+  "displayName": "mana",
+  "rate": 0.276
+},
+{
+  "_id": {
+    "$oid": "647663eea889ecbbc4045a16"
+  },
+  "name": "cvc",
+  "__v": 0,
+  "displayName": "cvc",
+  "rate": 0.1091
+},
+{
+  "_id": {
+    "$oid": "647663eea889ecbbc4045a17"
+  },
+  "name": "mtl",
+  "__v": 0,
+  "displayName": "mtl",
+  "rate": 0.9002
+},
+{
+  "_id": {
+    "$oid": "6476640da889ecbbc4045a4b"
+  },
+  "name": "link",
+  "__v": 0,
+  "displayName": "link",
+  "rate": 10.7705
+},
+{
+  "_id": {
+    "$oid": "6476640da889ecbbc4045a4c"
+  },
+  "name": "act",
+  "__v": 0,
+  "displayName": "act",
+  "rate": 0.000283
+},
+{
+  "_id": {
+    "$oid": "6476640da889ecbbc4045a4f"
+  },
+  "name": "smt",
+  "__v": 0,
+  "displayName": "smt",
+  "rate": 0.00073
+},
+{
+  "_id": {
+    "$oid": "6476640da889ecbbc4045a51"
+  },
+  "name": "req",
+  "__v": 0,
+  "displayName": "req",
+  "rate": 0.1007
+},
+{
+  "_id": {
+    "$oid": "6476640da889ecbbc4045a53"
+  },
+  "name": "adx",
+  "__v": 0,
+  "displayName": "adx",
+  "rate": 0.1459
+},
+{
+  "_id": {
+    "$oid": "6476640da889ecbbc4045a54"
+  },
+  "name": "tnb",
+  "__v": 0,
+  "displayName": "tnb",
+  "rate": 0.000105
+},
+{
+  "_id": {
+    "$oid": "6476642ba889ecbbc4045a8b"
+  },
+  "name": "gnx",
+  "__v": 0,
+  "displayName": "gnx",
+  "rate": 0.001659
+},
+{
+  "_id": {
+    "$oid": "64766448a889ecbbc4045abe"
+  },
+  "name": "waxp",
+  "__v": 0,
+  "displayName": "waxp",
+  "rate": 0.03119
+},
+{
+  "_id": {
+    "$oid": "64766448a889ecbbc4045abf"
+  },
+  "name": "dbc",
+  "__v": 0,
+  "displayName": "dbc",
+  "rate": 0.001925
+},
+{
+  "_id": {
+    "$oid": "64766448a889ecbbc4045ac2"
+  },
+  "name": "wicc",
+  "__v": 0,
+  "displayName": "wicc",
+  "rate": 0.004403
+},
+{
+  "_id": {
+    "$oid": "64766448a889ecbbc4045ac4"
+  },
+  "name": "elf",
+  "__v": 0,
+  "displayName": "elf",
+  "rate": 0.371
+},
+{
+  "_id": {
+    "$oid": "64766448a889ecbbc4045ac5"
+  },
+  "name": "swftc",
+  "__v": 0,
+  "displayName": "swftc",
+  "rate": 0.002824
+},
+{
+  "_id": {
+    "$oid": "64766466a889ecbbc4045afe"
+  },
+  "name": "utk",
+  "__v": 0,
+  "displayName": "utk",
+  "rate": 0.0464
+},
+{
+  "_id": {
+    "$oid": "64766466a889ecbbc4045aff"
+  },
+  "name": "iost",
+  "__v": 0,
+  "displayName": "iost",
+  "rate": 0.004838
+},
+{
+  "_id": {
+    "$oid": "64766466a889ecbbc4045b02"
+  },
+  "name": "theta",
+  "__v": 0,
+  "displayName": "theta",
+  "rate": 1.1995
+},
+{
+  "_id": {
+    "$oid": "64766466a889ecbbc4045b03"
+  },
+  "name": "zil",
+  "__v": 0,
+  "displayName": "zil",
+  "rate": 0.013544
+},
+{
+  "_id": {
+    "$oid": "64766484a889ecbbc4045b36"
+  },
+  "name": "ruff",
+  "__v": 0,
+  "displayName": "ruff",
+  "rate": 0.000038
+},
+{
+  "_id": {
+    "$oid": "64766484a889ecbbc4045b37"
+  },
+  "name": "ela",
+  "__v": 0,
+  "displayName": "ela",
+  "rate": 1.848
+},
+{
+  "_id": {
+    "$oid": "647664a2a889ecbbc4045b70"
+  },
+  "name": "ont",
+  "__v": 0,
+  "displayName": "ont",
+  "rate": 0.1748
+},
+{
+  "_id": {
+    "$oid": "647664a2a889ecbbc4045b71"
+  },
+  "name": "ctxc",
+  "__v": 0,
+  "displayName": "ctxc",
+  "rate": 0.1594
+},
+{
+  "_id": {
+    "$oid": "647664a2a889ecbbc4045b73"
+  },
+  "name": "kan",
+  "__v": 0,
+  "displayName": "kan",
+  "rate": 0.00074
+},
+{
+  "_id": {
+    "$oid": "647664c1a889ecbbc4045ba9"
+  },
+  "name": "polyx",
+  "__v": 0,
+  "displayName": "polyx",
+  "rate": 0.2238
+},
+{
+  "_id": {
+    "$oid": "647664c1a889ecbbc4045bac"
+  },
+  "name": "box",
+  "__v": 0,
+  "displayName": "box",
+  "rate": 0.000172
+},
+{
+  "_id": {
+    "$oid": "647664c1a889ecbbc4045bae"
+  },
+  "name": "wtc",
+  "__v": 0,
+  "displayName": "wtc",
+  "rate": 0.0048
+},
+{
+  "_id": {
+    "$oid": "647664c1a889ecbbc4045bb0"
+  },
+  "name": "bix",
+  "__v": 0,
+  "displayName": "bix",
+  "rate": 0.000891
+},
+{
+  "_id": {
+    "$oid": "647664c1a889ecbbc4045bb2"
+  },
+  "name": "xvg",
+  "__v": 0,
+  "displayName": "xvg",
+  "rate": 0.003761
+},
+{
+  "_id": {
+    "$oid": "647664c1a889ecbbc4045bb3"
+  },
+  "name": "xlm",
+  "__v": 0,
+  "displayName": "xlm",
+  "rate": 0.094236
+},
+{
+  "_id": {
+    "$oid": "647664dea889ecbbc4045bec"
+  },
+  "name": "bnb",
+  "__v": 0,
+  "displayName": "bnb",
+  "rate": 543.86
+},
+{
+  "_id": {
+    "$oid": "647664dea889ecbbc4045bee"
+  },
+  "name": "firo",
+  "__v": 0,
+  "displayName": "firo",
+  "rate": 1.1305
+},
+{
+  "_id": {
+    "$oid": "647664dea889ecbbc4045bf0"
+  },
+  "name": "vet",
+  "__v": 0,
+  "displayName": "vet",
+  "rate": 0.022365
+},
+{
+  "_id": {
+    "$oid": "647664dea889ecbbc4045bf1"
+  },
+  "name": "ncash",
+  "__v": 0,
+  "displayName": "ncash",
+  "rate": 0.00000414
+},
+{
+  "_id": {
+    "$oid": "647664fca889ecbbc4045c24"
+  },
+  "name": "aac",
+  "__v": 0,
+  "displayName": "aac",
+  "rate": 0.0000086
+},
+{
+  "_id": {
+    "$oid": "647664fca889ecbbc4045c25"
+  },
+  "name": "uuu",
+  "__v": 0,
+  "displayName": "uuu",
+  "rate": 0.00000217
+},
+{
+  "_id": {
+    "$oid": "64766538a889ecbbc4045d67"
+  },
+  "name": "ren",
+  "__v": 0,
+  "displayName": "ren",
+  "rate": 0.037295
+},
+{
+  "_id": {
+    "$oid": "64766538a889ecbbc4045d69"
+  },
+  "name": "fti",
+  "__v": 0,
+  "displayName": "fti",
+  "rate": 0.00001208
+},
+{
+  "_id": {
+    "$oid": "64766538a889ecbbc4045d6a"
+  },
+  "name": "seele",
+  "__v": 0,
+  "displayName": "seele",
+  "rate": 0.000087
+},
+{
+  "_id": {
+    "$oid": "64766574a889ecbbc4045dd3"
+  },
+  "name": "musk",
+  "__v": 0,
+  "displayName": "musk",
+  "rate": 0.00019413
+},
+{
+  "_id": {
+    "$oid": "64766574a889ecbbc4045dd4"
+  },
+  "name": "kcash",
+  "__v": 0,
+  "displayName": "kcash",
+  "rate": 0.000805
+},
+{
+  "_id": {
+    "$oid": "64766593a889ecbbc4045e0d"
+  },
+  "name": "usdp",
+  "__v": 0,
+  "displayName": "usdp",
+  "rate": 0.9908
+},
+{
+  "_id": {
+    "$oid": "64766593a889ecbbc4045e0e"
+  },
+  "name": "nano",
+  "__v": 0,
+  "displayName": "nano",
+  "rate": 0.9263
+},
+{
+  "_id": {
+    "$oid": "64766593a889ecbbc4045e11"
+  },
+  "name": "tusd",
+  "__v": 0,
+  "displayName": "tusd",
+  "rate": 0.998
+},
+{
+  "_id": {
+    "$oid": "64766593a889ecbbc4045e12"
+  },
+  "name": "usdc",
+  "__v": 0,
+  "displayName": "usdc",
+  "rate": 1
+},
+{
+  "_id": {
+    "$oid": "647665b0a889ecbbc4045e45"
+  },
+  "name": "bsv",
+  "__v": 0,
+  "displayName": "bsv",
+  "rate": 47.8582
+},
+{
+  "_id": {
+    "$oid": "647665b0a889ecbbc4045e46"
+  },
+  "name": "xtz",
+  "__v": 0,
+  "displayName": "xtz",
+  "rate": 0.646
+},
+{
+  "_id": {
+    "$oid": "647665b0a889ecbbc4045e49"
+  },
+  "name": "nuls",
+  "__v": 0,
+  "displayName": "nuls",
+  "rate": 0.3647
+},
+{
+  "_id": {
+    "$oid": "647665b0a889ecbbc4045e4a"
+  },
+  "name": "mxc",
+  "__v": 0,
+  "displayName": "mxc",
+  "rate": 0.006866
+},
+{
+  "_id": {
+    "$oid": "647665cea889ecbbc4045e83"
+  },
+  "name": "lamb",
+  "__v": 0,
+  "displayName": "lamb",
+  "rate": 0.001801
+},
+{
+  "_id": {
+    "$oid": "647665cea889ecbbc4045e84"
+  },
+  "name": "btt",
+  "__v": 0,
+  "displayName": "btt",
+  "rate": 8.657e-7
+},
+{
+  "_id": {
+    "$oid": "647665cea889ecbbc4045e87"
+  },
+  "name": "loom",
+  "__v": 0,
+  "displayName": "loom",
+  "rate": 0.044885
+},
+{
+  "_id": {
+    "$oid": "647665cea889ecbbc4045e89"
+  },
+  "name": "doge",
+  "__v": 0,
+  "displayName": "doge",
+  "rate": 0.102178
+},
+{
+  "_id": {
+    "$oid": "647665cea889ecbbc4045e8b"
+  },
+  "name": "sc",
+  "__v": 0,
+  "displayName": "sc",
+  "rate": 0.004321
+},
+{
+  "_id": {
+    "$oid": "647665cea889ecbbc4045e8c"
+  },
+  "name": "nexo",
+  "__v": 0,
+  "displayName": "nexo",
+  "rate": 0.9796
+},
+{
+  "_id": {
+    "$oid": "647665eca889ecbbc4045ec3"
+  },
+  "name": "etn",
+  "__v": 0,
+  "displayName": "etn",
+  "rate": 0.002064
+},
+{
+  "_id": {
+    "$oid": "647665eca889ecbbc4045ec4"
+  },
+  "name": "top",
+  "__v": 0,
+  "displayName": "top",
+  "rate": 0.000197
+},
+{
+  "_id": {
+    "$oid": "6476660ba889ecbbc4045efd"
+  },
+  "name": "tt",
+  "__v": 0,
+  "displayName": "tt",
+  "rate": 0.003115
+},
+{
+  "_id": {
+    "$oid": "6476660ba889ecbbc4045efe"
+  },
+  "name": "atom",
+  "__v": 0,
+  "displayName": "atom",
+  "rate": 4.1585
+},
+{
+  "_id": {
+    "$oid": "6476660ba889ecbbc4045f01"
+  },
+  "name": "rsr",
+  "__v": 0,
+  "displayName": "rsr",
+  "rate": 0.005514
+},
+{
+  "_id": {
+    "$oid": "6476660ba889ecbbc4045f02"
+  },
+  "name": "apt",
+  "__v": 0,
+  "displayName": "apt",
+  "rate": 6.1495
+},
+{
+  "_id": {
+    "$oid": "6476660ba889ecbbc4045f04"
+  },
+  "name": "nkn",
+  "__v": 0,
+  "displayName": "nkn",
+  "rate": 0.070204
+},
+{
+  "_id": {
+    "$oid": "64766629a889ecbbc4045f37"
+  },
+  "name": "ankr",
+  "__v": 0,
+  "displayName": "ankr",
+  "rate": 0.025319
+},
+{
+  "_id": {
+    "$oid": "64766629a889ecbbc4045f39"
+  },
+  "name": "gt",
+  "__v": 0,
+  "displayName": "gt",
+  "rate": 7.9515
+},
+{
+  "_id": {
+    "$oid": "64766629a889ecbbc4045f3a"
+  },
+  "name": "akro",
+  "__v": 0,
+  "displayName": "akro",
+  "rate": 0.00428
+},
+{
+  "_id": {
+    "$oid": "64766646a889ecbbc404604c"
+  },
+  "name": "vsys",
+  "__v": 0,
+  "displayName": "vsys",
+  "rate": 0.0004472
+},
+{
+  "_id": {
+    "$oid": "64766646a889ecbbc404604d"
+  },
+  "name": "cre",
+  "__v": 0,
+  "displayName": "cre",
+  "rate": 0.006701
+},
+{
+  "_id": {
+    "$oid": "64766646a889ecbbc4046050"
+  },
+  "name": "for",
+  "__v": 0,
+  "displayName": "for",
+  "rate": 0.003807
+},
+{
+  "_id": {
+    "$oid": "64766646a889ecbbc4046052"
+  },
+  "name": "arpa",
+  "__v": 0,
+  "displayName": "arpa",
+  "rate": 0.04121
+},
+{
+  "_id": {
+    "$oid": "64766646a889ecbbc4046054"
+  },
+  "name": "wxt",
+  "__v": 0,
+  "displayName": "wxt",
+  "rate": 0.005477
+},
+{
+  "_id": {
+    "$oid": "64766646a889ecbbc4046055"
+  },
+  "name": "ftt",
+  "__v": 0,
+  "displayName": "ftt",
+  "rate": 1.3048
+},
+{
+  "_id": {
+    "$oid": "64766664a889ecbbc4046088"
+  },
+  "name": "one",
+  "__v": 0,
+  "displayName": "one",
+  "rate": 0.011975
+},
+{
+  "_id": {
+    "$oid": "64766664a889ecbbc4046089"
+  },
+  "name": "mx",
+  "__v": 0,
+  "displayName": "mx",
+  "rate": 3.8319
+},
+{
+  "_id": {
+    "$oid": "64766664a889ecbbc404608c"
+  },
+  "name": "ogn",
+  "__v": 0,
+  "displayName": "ogn",
+  "rate": 0.0815
+},
+{
+  "_id": {
+    "$oid": "64766664a889ecbbc404608d"
+  },
+  "name": "hive",
+  "__v": 0,
+  "displayName": "hive",
+  "rate": 0.1778
+},
+{
+  "_id": {
+    "$oid": "64766664a889ecbbc4046090"
+  },
+  "name": "jst",
+  "__v": 0,
+  "displayName": "jst",
+  "rate": 0.028291
+},
+{
+  "_id": {
+    "$oid": "64766664a889ecbbc4046091"
+  },
+  "name": "em",
+  "__v": 0,
+  "displayName": "em",
+  "rate": 0.00008
+},
+{
+  "_id": {
+    "$oid": "64766664a889ecbbc4046093"
+  },
+  "name": "ckb",
+  "__v": 0,
+  "displayName": "ckb",
+  "rate": 0.008979
+},
+{
+  "_id": {
+    "$oid": "64766683a889ecbbc40460cc"
+  },
+  "name": "nest",
+  "__v": 0,
+  "displayName": "nest",
+  "rate": 0.000731
+},
+{
+  "_id": {
+    "$oid": "64766683a889ecbbc40460ce"
+  },
+  "name": "rvn",
+  "__v": 0,
+  "displayName": "rvn",
+  "rate": 0.017595
+},
+{
+  "_id": {
+    "$oid": "64766683a889ecbbc40460d0"
+  },
+  "name": "dot",
+  "__v": 0,
+  "displayName": "dot",
+  "rate": 4.2984
+},
+{
+  "_id": {
+    "$oid": "64766683a889ecbbc40460d2"
+  },
+  "name": "chr",
+  "__v": 0,
+  "displayName": "chr",
+  "rate": 0.187213
+},
+{
+  "_id": {
+    "$oid": "64766683a889ecbbc40460d4"
+  },
+  "name": "lunc",
+  "__v": 0,
+  "displayName": "lunc",
+  "rate": 0.00008366
+},
+{
+  "_id": {
+    "$oid": "64766683a889ecbbc40460d5"
+  },
+  "name": "ksm",
+  "__v": 0,
+  "displayName": "ksm",
+  "rate": 19.7555
+},
+{
+  "_id": {
+    "$oid": "647666a0a889ecbbc4046108"
+  },
+  "name": "band",
+  "__v": 0,
+  "displayName": "band",
+  "rate": 1.1012
+},
+{
+  "_id": {
+    "$oid": "647666a0a889ecbbc4046109"
+  },
+  "name": "klay",
+  "__v": 0,
+  "displayName": "klay",
+  "rate": 0.1346
+},
+{
+  "_id": {
+    "$oid": "647666a0a889ecbbc404610c"
+  },
+  "name": "bal",
+  "__v": 0,
+  "displayName": "bal",
+  "rate": 1.887
+},
+{
+  "_id": {
+    "$oid": "647666a0a889ecbbc404610e"
+  },
+  "name": "mkr",
+  "__v": 0,
+  "displayName": "mkr",
+  "rate": 1610.32
+},
+{
+  "_id": {
+    "$oid": "647666a0a889ecbbc404610f"
+  },
+  "name": "ant",
+  "__v": 0,
+  "displayName": "ant",
+  "rate": 5.8071
+},
+{
+  "_id": {
+    "$oid": "647666a0a889ecbbc4046111"
+  },
+  "name": "dai",
+  "__v": 0,
+  "displayName": "dai",
+  "rate": 1.0011
+},
+{
+  "_id": {
+    "$oid": "647666bea889ecbbc404614a"
+  },
+  "name": "crv",
+  "__v": 0,
+  "displayName": "crv",
+  "rate": 0.2803
+},
+{
+  "_id": {
+    "$oid": "647666bea889ecbbc404614b"
+  },
+  "name": "trb",
+  "__v": 0,
+  "displayName": "trb",
+  "rate": 61.3858
+},
+{
+  "_id": {
+    "$oid": "647666bea889ecbbc404614e"
+  },
+  "name": "snx",
+  "__v": 0,
+  "displayName": "snx",
+  "rate": 1.3933
+},
+{
+  "_id": {
+    "$oid": "647666bea889ecbbc4046150"
+  },
+  "name": "comp",
+  "__v": 0,
+  "displayName": "comp",
+  "rate": 44.35
+},
+{
+  "_id": {
+    "$oid": "647666bea889ecbbc4046152"
+  },
+  "name": "stpt",
+  "__v": 0,
+  "displayName": "stpt",
+  "rate": 0.044522
+},
+{
+  "_id": {
+    "$oid": "647666bea889ecbbc4046154"
+  },
+  "name": "yfi",
+  "__v": 0,
+  "displayName": "yfi",
+  "rate": 4845.98
+},
+{
+  "_id": {
+    "$oid": "647666bea889ecbbc4046155"
+  },
+  "name": "wnxm",
+  "__v": 0,
+  "displayName": "wnxm",
+  "rate": 52.5894
+},
+{
+  "_id": {
+    "$oid": "647666bea889ecbbc4046157"
+  },
+  "name": "yfii",
+  "__v": 0,
+  "displayName": "yfii",
+  "rate": 373.5569
+},
+{
+  "_id": {
+    "$oid": "647666dca889ecbbc404618a"
+  },
+  "name": "bnt",
+  "__v": 0,
+  "displayName": "bnt",
+  "rate": 0.476
+},
+{
+  "_id": {
+    "$oid": "647666dca889ecbbc404618c"
+  },
+  "name": "df",
+  "__v": 0,
+  "displayName": "df",
+  "rate": 0.0317
+},
+{
+  "_id": {
+    "$oid": "647666dca889ecbbc404618e"
+  },
+  "name": "mln",
+  "__v": 0,
+  "displayName": "mln",
+  "rate": 15.1816
+},
+{
+  "_id": {
+    "$oid": "647666dca889ecbbc4046190"
+  },
+  "name": "ach",
+  "__v": 0,
+  "displayName": "ach",
+  "rate": 0.019118
+},
+{
+  "_id": {
+    "$oid": "647666dca889ecbbc4046192"
+  },
+  "name": "ring",
+  "__v": 0,
+  "displayName": "ring",
+  "rate": 0.003603
+},
+{
+  "_id": {
+    "$oid": "647666dca889ecbbc4046194"
+  },
+  "name": "spa",
+  "__v": 0,
+  "displayName": "spa",
+  "rate": 0.006799
+},
+{
+  "_id": {
+    "$oid": "647666dca889ecbbc4046195"
+  },
+  "name": "sushi",
+  "__v": 0,
+  "displayName": "sushi",
+  "rate": 0.6534
+},
+{
+  "_id": {
+    "$oid": "647666faa889ecbbc40461ce"
+  },
+  "name": "xrt",
+  "__v": 0,
+  "displayName": "xrt",
+  "rate": 2.0195
+},
+{
+  "_id": {
+    "$oid": "647666faa889ecbbc40461cf"
+  },
+  "name": "pha",
+  "__v": 0,
+  "displayName": "pha",
+  "rate": 0.107357
+},
+{
+  "_id": {
+    "$oid": "647666faa889ecbbc40461d2"
+  },
+  "name": "sun",
+  "__v": 0,
+  "displayName": "sun",
+  "rate": 0.024367
+},
+{
+  "_id": {
+    "$oid": "647666faa889ecbbc40461d3"
+  },
+  "name": "sand",
+  "__v": 0,
+  "displayName": "sand",
+  "rate": 0.258736
+},
+{
+  "_id": {
+    "$oid": "647666faa889ecbbc40461d5"
+  },
+  "name": "cvp",
+  "__v": 0,
+  "displayName": "cvp",
+  "rate": 0.0277
+},
+{
+  "_id": {
+    "$oid": "64766718a889ecbbc4046215"
+  },
+  "name": "uma",
+  "__v": 0,
+  "displayName": "uma",
+  "rate": 2.2576
+},
+{
+  "_id": {
+    "$oid": "64766718a889ecbbc4046217"
+  },
+  "name": "titan",
+  "__v": 0,
+  "displayName": "titan",
+  "rate": 0.001361
+},
+{
+  "_id": {
+    "$oid": "64766718a889ecbbc4046219"
+  },
+  "name": "uni",
+  "__v": 0,
+  "displayName": "uni",
+  "rate": 6.7133
+},
+{
+  "_id": {
+    "$oid": "64766718a889ecbbc404621a"
+  },
+  "name": "front",
+  "__v": 0,
+  "displayName": "front",
+  "rate": 0.607496
+},
+{
+  "_id": {
+    "$oid": "64766737a889ecbbc4046253"
+  },
+  "name": "perp",
+  "__v": 0,
+  "displayName": "perp",
+  "rate": 0.594
+},
+{
+  "_id": {
+    "$oid": "64766737a889ecbbc4046255"
+  },
+  "name": "cru",
+  "__v": 0,
+  "displayName": "cru",
+  "rate": 0.391
+},
+{
+  "_id": {
+    "$oid": "64766737a889ecbbc4046257"
+  },
+  "name": "avax",
+  "__v": 0,
+  "displayName": "avax",
+  "rate": 23.8075
+},
+{
+  "_id": {
+    "$oid": "64766737a889ecbbc4046258"
+  },
+  "name": "fis",
+  "__v": 0,
+  "displayName": "fis",
+  "rate": 0.3203
+},
+{
+  "_id": {
+    "$oid": "64766737a889ecbbc404625a"
+  },
+  "name": "nbs",
+  "__v": 0,
+  "displayName": "nbs",
+  "rate": 0.000061
+},
+{
+  "_id": {
+    "$oid": "64766754a889ecbbc404628d"
+  },
+  "name": "ghst",
+  "__v": 0,
+  "displayName": "ghst",
+  "rate": 0.828
+},
+{
+  "_id": {
+    "$oid": "64766754a889ecbbc404628f"
+  },
+  "name": "ar",
+  "__v": 0,
+  "displayName": "ar",
+  "rate": 19.9616
+},
+{
+  "_id": {
+    "$oid": "64766754a889ecbbc4046291"
+  },
+  "name": "hbar",
+  "__v": 0,
+  "displayName": "hbar",
+  "rate": 0.050874
+},
+{
+  "_id": {
+    "$oid": "64766754a889ecbbc4046292"
+  },
+  "name": "aave",
+  "__v": 0,
+  "displayName": "aave",
+  "rate": 143.6627
+},
+{
+  "_id": {
+    "$oid": "64766754a889ecbbc4046295"
+  },
+  "name": "chz",
+  "__v": 0,
+  "displayName": "chz",
+  "rate": 0.053085
+},
+{
+  "_id": {
+    "$oid": "64766754a889ecbbc4046296"
+  },
+  "name": "near",
+  "__v": 0,
+  "displayName": "near",
+  "rate": 4.2521
+},
+{
+  "_id": {
+    "$oid": "64766772a889ecbbc40463a9"
+  },
+  "name": "fil",
+  "__v": 0,
+  "displayName": "fil",
+  "rate": 3.6745
+},
+{
+  "_id": {
+    "$oid": "64766772a889ecbbc40463ab"
+  },
+  "name": "inj",
+  "__v": 0,
+  "displayName": "inj",
+  "rate": 19.0531
+},
+{
+  "_id": {
+    "$oid": "64766772a889ecbbc40463ac"
+  },
+  "name": "woo",
+  "__v": 0,
+  "displayName": "woo",
+  "rate": 0.16798
+},
+{
+  "_id": {
+    "$oid": "64766790a889ecbbc40463e2"
+  },
+  "name": "oxt",
+  "__v": 0,
+  "displayName": "oxt",
+  "rate": 0.0719
+},
+{
+  "_id": {
+    "$oid": "64766790a889ecbbc40463e4"
+  },
+  "name": "sol",
+  "__v": 0,
+  "displayName": "sol",
+  "rate": 134.7519
+},
+{
+  "_id": {
+    "$oid": "64766790a889ecbbc40463e5"
+  },
+  "name": "kava",
+  "__v": 0,
+  "displayName": "kava",
+  "rate": 0.3144
+},
+{
+  "_id": {
+    "$oid": "64766790a889ecbbc40463e8"
+  },
+  "name": "beth",
+  "__v": 0,
+  "displayName": "beth",
+  "rate": 2356.53
+},
+{
+  "_id": {
+    "$oid": "64766790a889ecbbc40463ea"
+  },
+  "name": "iotx",
+  "__v": 0,
+  "displayName": "iotx",
+  "rate": 0.034905
+},
+{
+  "_id": {
+    "$oid": "64766790a889ecbbc40463eb"
+  },
+  "name": "skl",
+  "__v": 0,
+  "displayName": "skl",
+  "rate": 0.03316
+},
+{
+  "_id": {
+    "$oid": "647667afa889ecbbc4046425"
+  },
+  "name": "nsure",
+  "__v": 0,
+  "displayName": "nsure",
+  "rate": 0.00507
+},
+{
+  "_id": {
+    "$oid": "647667afa889ecbbc4046427"
+  },
+  "name": "api3",
+  "__v": 0,
+  "displayName": "api3",
+  "rate": 1.4245
+},
+{
+  "_id": {
+    "$oid": "647667afa889ecbbc4046429"
+  },
+  "name": "gbp",
+  "__v": 0,
+  "displayName": "gbp",
+  "rate": 1.266
+},
+{
+  "_id": {
+    "$oid": "647667afa889ecbbc404642a"
+  },
+  "name": "grt",
+  "__v": 0,
+  "displayName": "grt",
+  "rate": 0.144694
+},
+{
+  "_id": {
+    "$oid": "647667afa889ecbbc404642c"
+  },
+  "name": "pond",
+  "__v": 0,
+  "displayName": "pond",
+  "rate": 0.0129
+},
+{
+  "_id": {
+    "$oid": "647667cca889ecbbc4046463"
+  },
+  "name": "eur",
+  "__v": 0,
+  "displayName": "eur",
+  "rate": 1.03
+},
+{
+  "_id": {
+    "$oid": "647667cca889ecbbc4046464"
+  },
+  "name": "lina",
+  "__v": 0,
+  "displayName": "lina",
+  "rate": 0.003972
+},
+{
+  "_id": {
+    "$oid": "647667cca889ecbbc4046467"
+  },
+  "name": "1inch",
+  "__v": 0,
+  "displayName": "1inch",
+  "rate": 0.262033
+},
+{
+  "_id": {
+    "$oid": "647667cca889ecbbc4046468"
+  },
+  "name": "badger",
+  "__v": 0,
+  "displayName": "badger",
+  "rate": 2.765
+},
+{
+  "_id": {
+    "$oid": "647667cca889ecbbc404646b"
+  },
+  "name": "matic",
+  "__v": 0,
+  "displayName": "matic",
+  "rate": 0.375761
+},
+{
+  "_id": {
+    "$oid": "647667cca889ecbbc404646c"
+  },
+  "name": "pols",
+  "__v": 0,
+  "displayName": "pols",
+  "rate": 0.3717
+},
+{
+  "_id": {
+    "$oid": "647667eaa889ecbbc40464a9"
+  },
+  "name": "reef",
+  "__v": 0,
+  "displayName": "reef",
+  "rate": 0.001779
+},
+{
+  "_id": {
+    "$oid": "647667eaa889ecbbc40464aa"
+  },
+  "name": "flow",
+  "__v": 0,
+  "displayName": "flow",
+  "rate": 0.5653
+},
+{
+  "_id": {
+    "$oid": "647667eaa889ecbbc40464ad"
+  },
+  "name": "sofi",
+  "__v": 0,
+  "displayName": "sofi",
+  "rate": 0.011235
+},
+{
+  "_id": {
+    "$oid": "647667eaa889ecbbc40464ae"
+  },
+  "name": "mdx",
+  "__v": 0,
+  "displayName": "mdx",
+  "rate": 0.0141
+},
+{
+  "_id": {
+    "$oid": "647667eaa889ecbbc40464b1"
+  },
+  "name": "zks",
+  "__v": 0,
+  "displayName": "zks",
+  "rate": 0.0699
+},
+{
+  "_id": {
+    "$oid": "647667eaa889ecbbc40464b2"
+  },
+  "name": "lhb",
+  "__v": 0,
+  "displayName": "lhb",
+  "rate": 0.000184
+},
+{
+  "_id": {
+    "$oid": "647667eaa889ecbbc40464b4"
+  },
+  "name": "auction",
+  "__v": 0,
+  "displayName": "auction",
+  "rate": 14.3259
+},
+{
+  "_id": {
+    "$oid": "64766809a889ecbbc40464eb"
+  },
+  "name": "mask",
+  "__v": 0,
+  "displayName": "mask",
+  "rate": 2.1802
+},
+{
+  "_id": {
+    "$oid": "64766809a889ecbbc40464ec"
+  },
+  "name": "enj",
+  "__v": 0,
+  "displayName": "enj",
+  "rate": 0.1439
+},
+{
+  "_id": {
+    "$oid": "64766809a889ecbbc40464ee"
+  },
+  "name": "axs",
+  "__v": 0,
+  "displayName": "axs",
+  "rate": 4.6833
+},
+{
+  "_id": {
+    "$oid": "64766809a889ecbbc40464f1"
+  },
+  "name": "rndr",
+  "__v": 0,
+  "displayName": "rndr",
+  "rate": 6.8809
+},
+{
+  "_id": {
+    "$oid": "64766809a889ecbbc40464f2"
+  },
+  "name": "insur",
+  "__v": 0,
+  "displayName": "insur",
+  "rate": 0.0133
+},
+{
+  "_id": {
+    "$oid": "64766826a889ecbbc404652f"
+  },
+  "name": "forth",
+  "__v": 0,
+  "displayName": "forth",
+  "rate": 3.0109
+},
+{
+  "_id": {
+    "$oid": "64766826a889ecbbc4046530"
+  },
+  "name": "rlc",
+  "__v": 0,
+  "displayName": "rlc",
+  "rate": 1.5061
+},
+{
+  "_id": {
+    "$oid": "64766826a889ecbbc4046533"
+  },
+  "name": "pundix",
+  "__v": 0,
+  "displayName": "pundix",
+  "rate": 0.3818
+},
+{
+  "_id": {
+    "$oid": "64766826a889ecbbc4046534"
+  },
+  "name": "icp",
+  "__v": 0,
+  "displayName": "icp",
+  "rate": 8.49
+},
+{
+  "_id": {
+    "$oid": "64766826a889ecbbc4046537"
+  },
+  "name": "shib",
+  "__v": 0,
+  "displayName": "shib",
+  "rate": 0.00001344
+},
+{
+  "_id": {
+    "$oid": "64766826a889ecbbc4046538"
+  },
+  "name": "ctsi",
+  "__v": 0,
+  "displayName": "ctsi",
+  "rate": 0.1321
+},
+{
+  "_id": {
+    "$oid": "64766826a889ecbbc404653a"
+  },
+  "name": "cspr",
+  "__v": 0,
+  "displayName": "cspr",
+  "rate": 0.0115
+},
+{
+  "_id": {
+    "$oid": "64766845a889ecbbc4046575"
+  },
+  "name": "o3",
+  "__v": 0,
+  "displayName": "o3",
+  "rate": 0.0263
+},
+{
+  "_id": {
+    "$oid": "64766845a889ecbbc4046576"
+  },
+  "name": "lat",
+  "__v": 0,
+  "displayName": "lat",
+  "rate": 0.008777
+},
+{
+  "_id": {
+    "$oid": "64766845a889ecbbc4046579"
+  },
+  "name": "xch",
+  "__v": 0,
+  "displayName": "xch",
+  "rate": 13.1753
+},
+{
+  "_id": {
+    "$oid": "64766845a889ecbbc404657b"
+  },
+  "name": "dao",
+  "__v": 0,
+  "displayName": "dao",
+  "rate": 0.2891
+},
+{
+  "_id": {
+    "$oid": "64766845a889ecbbc404657d"
+  },
+  "name": "nft",
+  "__v": 0,
+  "displayName": "nft",
+  "rate": 4.474e-7
+},
+{
+  "_id": {
+    "$oid": "64766845a889ecbbc404657f"
+  },
+  "name": "amp",
+  "__v": 0,
+  "displayName": "amp",
+  "rate": 0.003754
+},
+{
+  "_id": {
+    "$oid": "64766845a889ecbbc4046581"
+  },
+  "name": "xec",
+  "__v": 0,
+  "displayName": "xec",
+  "rate": 0.00003156
+},
+{
+  "_id": {
+    "$oid": "64766845a889ecbbc4046583"
+  },
+  "name": "mina",
+  "__v": 0,
+  "displayName": "mina",
+  "rate": 0.4629
+},
+{
+  "_id": {
+    "$oid": "64766845a889ecbbc4046584"
+  },
+  "name": "boring",
+  "__v": 0,
+  "displayName": "boring",
+  "rate": 0.001814
+},
+{
+  "_id": {
+    "$oid": "64766862a889ecbbc40465bf"
+  },
+  "name": "srm",
+  "__v": 0,
+  "displayName": "srm",
+  "rate": 0.0266
+},
+{
+  "_id": {
+    "$oid": "64766862a889ecbbc40465c0"
+  },
+  "name": "clv",
+  "__v": 0,
+  "displayName": "clv",
+  "rate": 0.0425
+},
+{
+  "_id": {
+    "$oid": "64766862a889ecbbc40465c3"
+  },
+  "name": "ftm",
+  "__v": 0,
+  "displayName": "ftm",
+  "rate": 0.4866
+},
+{
+  "_id": {
+    "$oid": "64766862a889ecbbc40465c5"
+  },
+  "name": "rad",
+  "__v": 0,
+  "displayName": "rad",
+  "rate": 1.0629
+},
+{
+  "_id": {
+    "$oid": "64766862a889ecbbc40465c7"
+  },
+  "name": "coti",
+  "__v": 0,
+  "displayName": "coti",
+  "rate": 0.0992
+},
+{
+  "_id": {
+    "$oid": "64766862a889ecbbc40465c9"
+  },
+  "name": "epik",
+  "__v": 0,
+  "displayName": "epik",
+  "rate": 0.003915
+},
+{
+  "_id": {
+    "$oid": "64766862a889ecbbc40465ca"
+  },
+  "name": "xprt",
+  "__v": 0,
+  "displayName": "xprt",
+  "rate": 0.1871
+},
+{
+  "_id": {
+    "$oid": "64766862a889ecbbc40465cc"
+  },
+  "name": "whale",
+  "__v": 0,
+  "displayName": "whale",
+  "rate": 0.397
+},
+{
+  "_id": {
+    "$oid": "64766881a889ecbbc4046605"
+  },
+  "name": "tribe",
+  "__v": 0,
+  "displayName": "tribe",
+  "rate": 0.3702
+},
+{
+  "_id": {
+    "$oid": "64766881a889ecbbc4046606"
+  },
+  "name": "ygg",
+  "__v": 0,
+  "displayName": "ygg",
+  "rate": 0.3897
+},
+{
+  "_id": {
+    "$oid": "64766881a889ecbbc4046609"
+  },
+  "name": "orbs",
+  "__v": 0,
+  "displayName": "orbs",
+  "rate": 0.023381
+},
+{
+  "_id": {
+    "$oid": "64766881a889ecbbc404660a"
+  },
+  "name": "rly",
+  "__v": 0,
+  "displayName": "rly",
+  "rate": 0.005892
+},
+{
+  "_id": {
+    "$oid": "64766881a889ecbbc404660d"
+  },
+  "name": "push",
+  "__v": 0,
+  "displayName": "push",
+  "rate": 0.0684
+},
+{
+  "_id": {
+    "$oid": "64766881a889ecbbc404660e"
+  },
+  "name": "stf",
+  "__v": 0,
+  "displayName": "stf",
+  "rate": 0.002965
+},
+{
+  "_id": {
+    "$oid": "64766881a889ecbbc4046611"
+  },
+  "name": "sxp",
+  "__v": 0,
+  "displayName": "sxp",
+  "rate": 0.2094
+},
+{
+  "_id": {
+    "$oid": "64766881a889ecbbc4046612"
+  },
+  "name": "dydx",
+  "__v": 0,
+  "displayName": "dydx",
+  "rate": 0.9072
+},
+{
+  "_id": {
+    "$oid": "6476689ea889ecbbc4046726"
+  },
+  "name": "wozx",
+  "__v": 0,
+  "displayName": "wozx",
+  "rate": 0.017
+},
+{
+  "_id": {
+    "$oid": "6476689ea889ecbbc4046727"
+  },
+  "name": "psg",
+  "__v": 0,
+  "displayName": "psg",
+  "rate": 2.2293
+},
+{
+  "_id": {
+    "$oid": "6476689ea889ecbbc404672a"
+  },
+  "name": "juv",
+  "__v": 0,
+  "displayName": "juv",
+  "rate": 1.6725
+},
+{
+  "_id": {
+    "$oid": "6476689ea889ecbbc404672b"
+  },
+  "name": "imx",
+  "__v": 0,
+  "displayName": "imx",
+  "rate": 1.2375
+},
+{
+  "_id": {
+    "$oid": "6476689ea889ecbbc404672e"
+  },
+  "name": "cere",
+  "__v": 0,
+  "displayName": "cere",
+  "rate": 0.002609
+},
+{
+  "_id": {
+    "$oid": "6476689ea889ecbbc404672f"
+  },
+  "name": "ens",
+  "__v": 0,
+  "displayName": "ens",
+  "rate": 17.5086
+},
+{
+  "_id": {
+    "$oid": "6476689ea889ecbbc4046731"
+  },
+  "name": "ngl",
+  "__v": 0,
+  "displayName": "ngl",
+  "rate": 0.05067
+},
+{
+  "_id": {
+    "$oid": "647668bca889ecbbc4046768"
+  },
+  "name": "movr",
+  "__v": 0,
+  "displayName": "movr",
+  "rate": 9.3589
+},
+{
+  "_id": {
+    "$oid": "647668bca889ecbbc4046769"
+  },
+  "name": "efi",
+  "__v": 0,
+  "displayName": "efi",
+  "rate": 0.0613
+},
+{
+  "_id": {
+    "$oid": "647668bca889ecbbc404676c"
+  },
+  "name": "boba",
+  "__v": 0,
+  "displayName": "boba",
+  "rate": 0.20763
+},
+{
+  "_id": {
+    "$oid": "647668bca889ecbbc404676e"
+  },
+  "name": "sdn",
+  "__v": 0,
+  "displayName": "sdn",
+  "rate": 0.2339
+},
+{
+  "_id": {
+    "$oid": "647668bca889ecbbc4046770"
+  },
+  "name": "mono",
+  "__v": 0,
+  "displayName": "mono",
+  "rate": 0.00037
+},
+{
+  "_id": {
+    "$oid": "647668bca889ecbbc4046771"
+  },
+  "name": "bico",
+  "__v": 0,
+  "displayName": "bico",
+  "rate": 0.2154
+},
+{
+  "_id": {
+    "$oid": "647668daa889ecbbc40467ae"
+  },
+  "name": "pyr",
+  "__v": 0,
+  "displayName": "pyr",
+  "rate": 2.6302
+},
+{
+  "_id": {
+    "$oid": "647668daa889ecbbc40467af"
+  },
+  "name": "spell",
+  "__v": 0,
+  "displayName": "spell",
+  "rate": 0.000537
+},
+{
+  "_id": {
+    "$oid": "647668daa889ecbbc40467b2"
+  },
+  "name": "people",
+  "__v": 0,
+  "displayName": "people",
+  "rate": 0.057427
+},
+{
+  "_id": {
+    "$oid": "647668daa889ecbbc40467b3"
+  },
+  "name": "opul",
+  "__v": 0,
+  "displayName": "opul",
+  "rate": 0.0646
+},
+{
+  "_id": {
+    "$oid": "647668daa889ecbbc40467b6"
+  },
+  "name": "idex",
+  "__v": 0,
+  "displayName": "idex",
+  "rate": 0.0407
+},
+{
+  "_id": {
+    "$oid": "647668daa889ecbbc40467b8"
+  },
+  "name": "alice",
+  "__v": 0,
+  "displayName": "alice",
+  "rate": 0.9923
+},
+{
+  "_id": {
+    "$oid": "647668daa889ecbbc40467b9"
+  },
+  "name": "lith",
+  "__v": 0,
+  "displayName": "lith",
+  "rate": 0.000213
+},
+{
+  "_id": {
+    "$oid": "647668f8a889ecbbc40467f0"
+  },
+  "name": "xtm",
+  "__v": 0,
+  "displayName": "xtm",
+  "rate": 0.025279
+},
+{
+  "_id": {
+    "$oid": "647668f8a889ecbbc40467f2"
+  },
+  "name": "super",
+  "__v": 0,
+  "displayName": "super",
+  "rate": 0.8204
+},
+{
+  "_id": {
+    "$oid": "647668f8a889ecbbc40467f4"
+  },
+  "name": "unb",
+  "__v": 0,
+  "displayName": "unb",
+  "rate": 0.000356
+},
+{
+  "_id": {
+    "$oid": "647668f8a889ecbbc40467f6"
+  },
+  "name": "aury",
+  "__v": 0,
+  "displayName": "aury",
+  "rate": 0.2482
+},
+{
+  "_id": {
+    "$oid": "647668f8a889ecbbc40467f8"
+  },
+  "name": "gods",
+  "__v": 0,
+  "displayName": "gods",
+  "rate": 0.1665
+},
+{
+  "_id": {
+    "$oid": "647668f8a889ecbbc40467fa"
+  },
+  "name": "celo",
+  "__v": 0,
+  "displayName": "celo",
+  "rate": 0.4371
+},
+{
+  "_id": {
+    "$oid": "647668f8a889ecbbc40467fc"
+  },
+  "name": "gmpd",
+  "__v": 0,
+  "displayName": "gmpd",
+  "rate": 0.002956
+},
+{
+  "_id": {
+    "$oid": "647668f8a889ecbbc40467fd"
+  },
+  "name": "lpt",
+  "__v": 0,
+  "displayName": "lpt",
+  "rate": 12.4572
+},
+{
+  "_id": {
+    "$oid": "64766916a889ecbbc404683a"
+  },
+  "name": "ustc",
+  "__v": 0,
+  "displayName": "ustc",
+  "rate": 0.0169
+},
+{
+  "_id": {
+    "$oid": "64766916a889ecbbc404683b"
+  },
+  "name": "egld",
+  "__v": 0,
+  "displayName": "egld",
+  "rate": 26.5662
+},
+{
+  "_id": {
+    "$oid": "64766916a889ecbbc404683e"
+  },
+  "name": "elon",
+  "__v": 0,
+  "displayName": "elon",
+  "rate": 1.25e-7
+},
+{
+  "_id": {
+    "$oid": "64766916a889ecbbc4046840"
+  },
+  "name": "dio",
+  "__v": 0,
+  "displayName": "dio",
+  "rate": 0.010066
+},
+{
+  "_id": {
+    "$oid": "64766916a889ecbbc4046842"
+  },
+  "name": "cvx",
+  "__v": 0,
+  "displayName": "cvx",
+  "rate": 2.0293
+},
+{
+  "_id": {
+    "$oid": "64766916a889ecbbc4046844"
+  },
+  "name": "nt",
+  "__v": 0,
+  "displayName": "nt",
+  "rate": 0.00045
+},
+{
+  "_id": {
+    "$oid": "64766916a889ecbbc4046845"
+  },
+  "name": "aurora",
+  "__v": 0,
+  "displayName": "aurora",
+  "rate": 0.1147
+},
+{
+  "_id": {
+    "$oid": "64766916a889ecbbc4046848"
+  },
+  "name": "sos",
+  "__v": 0,
+  "displayName": "sos",
+  "rate": 4.97e-8
+},
+{
+  "_id": {
+    "$oid": "64766916a889ecbbc4046849"
+  },
+  "name": "ertha",
+  "__v": 0,
+  "displayName": "ertha",
+  "rate": 0.000796
+},
+{
+  "_id": {
+    "$oid": "64766934a889ecbbc4046880"
+  },
+  "name": "rain",
+  "__v": 0,
+  "displayName": "rain",
+  "rate": 0.0006549
+},
+{
+  "_id": {
+    "$oid": "64766934a889ecbbc4046881"
+  },
+  "name": "love",
+  "__v": 0,
+  "displayName": "love",
+  "rate": 0.00038217
+},
+{
+  "_id": {
+    "$oid": "64766934a889ecbbc4046883"
+  },
+  "name": "xyo",
+  "__v": 0,
+  "displayName": "xyo",
+  "rate": 0.004378
+},
+{
+  "_id": {
+    "$oid": "64766934a889ecbbc4046886"
+  },
+  "name": "gari",
+  "__v": 0,
+  "displayName": "gari",
+  "rate": 0.005998
+},
+{
+  "_id": {
+    "$oid": "64766934a889ecbbc4046887"
+  },
+  "name": "looks",
+  "__v": 0,
+  "displayName": "looks",
+  "rate": 0.0413
+},
+{
+  "_id": {
+    "$oid": "64766934a889ecbbc404688a"
+  },
+  "name": "trac",
+  "__v": 0,
+  "displayName": "trac",
+  "rate": 0.5157
+},
+{
+  "_id": {
+    "$oid": "64766934a889ecbbc404688b"
+  },
+  "name": "lqty",
+  "__v": 0,
+  "displayName": "lqty",
+  "rate": 0.8103
+},
+{
+  "_id": {
+    "$oid": "64766952a889ecbbc40468c8"
+  },
+  "name": "ocean",
+  "__v": 0,
+  "displayName": "ocean",
+  "rate": 0.6159
+},
+{
+  "_id": {
+    "$oid": "64766952a889ecbbc40468ca"
+  },
+  "name": "astr",
+  "__v": 0,
+  "displayName": "astr",
+  "rate": 0.058236
+},
+{
+  "_id": {
+    "$oid": "64766952a889ecbbc40468cc"
+  },
+  "name": "scrt",
+  "__v": 0,
+  "displayName": "scrt",
+  "rate": 0.1914
+},
+{
+  "_id": {
+    "$oid": "64766952a889ecbbc40468ce"
+  },
+  "name": "loot",
+  "__v": 0,
+  "displayName": "loot",
+  "rate": 0.0165
+},
+{
+  "_id": {
+    "$oid": "64766952a889ecbbc40468d0"
+  },
+  "name": "store",
+  "__v": 0,
+  "displayName": "store",
+  "rate": 0.033018
+},
+{
+  "_id": {
+    "$oid": "64766952a889ecbbc40468d2"
+  },
+  "name": "vra",
+  "__v": 0,
+  "displayName": "vra",
+  "rate": 0.002514
+},
+{
+  "_id": {
+    "$oid": "64766952a889ecbbc40468d3"
+  },
+  "name": "trace",
+  "__v": 0,
+  "displayName": "trace",
+  "rate": 0.00064
+},
+{
+  "_id": {
+    "$oid": "64766970a889ecbbc404690e"
+  },
+  "name": "ctx",
+  "__v": 0,
+  "displayName": "ctx",
+  "rate": 2.0563
+},
+{
+  "_id": {
+    "$oid": "64766970a889ecbbc404690f"
+  },
+  "name": "suku",
+  "__v": 0,
+  "displayName": "suku",
+  "rate": 0.0564
+},
+{
+  "_id": {
+    "$oid": "64766970a889ecbbc4046912"
+  },
+  "name": "mpl",
+  "__v": 0,
+  "displayName": "mpl",
+  "rate": 6.7195
+},
+{
+  "_id": {
+    "$oid": "64766970a889ecbbc4046914"
+  },
+  "name": "spellfire",
+  "__v": 0,
+  "displayName": "spellfire",
+  "rate": 0.000495
+},
+{
+  "_id": {
+    "$oid": "64766970a889ecbbc4046916"
+  },
+  "name": "phcr",
+  "__v": 0,
+  "displayName": "phcr",
+  "rate": 0.00000113
+},
+{
+  "_id": {
+    "$oid": "64766970a889ecbbc4046917"
+  },
+  "name": "aca",
+  "__v": 0,
+  "displayName": "aca",
+  "rate": 0.0592
+},
+{
+  "_id": {
+    "$oid": "64766970a889ecbbc404691a"
+  },
+  "name": "unfi",
+  "__v": 0,
+  "displayName": "unfi",
+  "rate": 2.5229
+},
+{
+  "_id": {
+    "$oid": "64766970a889ecbbc404691b"
+  },
+  "name": "plu",
+  "__v": 0,
+  "displayName": "plu",
+  "rate": 2.2396
+},
+{
+  "_id": {
+    "$oid": "64766970a889ecbbc404691e"
+  },
+  "name": "glmr",
+  "__v": 0,
+  "displayName": "glmr",
+  "rate": 0.1673
+},
+{
+  "_id": {
+    "$oid": "64766970a889ecbbc404691f"
+  },
+  "name": "dia",
+  "__v": 0,
+  "displayName": "dia",
+  "rate": 0.3565
+},
+{
+  "_id": {
+    "$oid": "6476698ea889ecbbc404695b"
+  },
+  "name": "sns",
+  "__v": 0,
+  "displayName": "sns",
+  "rate": 0.010652
+},
+{
+  "_id": {
+    "$oid": "6476698ea889ecbbc404695e"
+  },
+  "name": "zkp",
+  "__v": 0,
+  "displayName": "zkp",
+  "rate": 0.00892
+},
+{
+  "_id": {
+    "$oid": "6476698ea889ecbbc4046960"
+  },
+  "name": "wallet",
+  "__v": 0,
+  "displayName": "wallet",
+  "rate": 0.015786
+},
+{
+  "_id": {
+    "$oid": "6476698ea889ecbbc4046961"
+  },
+  "name": "c98",
+  "__v": 0,
+  "displayName": "c98",
+  "rate": 0.1184
+},
+{
+  "_id": {
+    "$oid": "6476698ea889ecbbc4046964"
+  },
+  "name": "kt",
+  "__v": 0,
+  "displayName": "kt",
+  "rate": 0.001244
+},
+{
+  "_id": {
+    "$oid": "6476698ea889ecbbc4046966"
+  },
+  "name": "hbb",
+  "__v": 0,
+  "displayName": "hbb",
+  "rate": 0.0764
+},
+{
+  "_id": {
+    "$oid": "6476698ea889ecbbc4046967"
+  },
+  "name": "mc",
+  "__v": 0,
+  "displayName": "mc",
+  "rate": 0.8092
+},
+{
+  "_id": {
+    "$oid": "647669aca889ecbbc404699d"
+  },
+  "name": "mgg",
+  "__v": 0,
+  "displayName": "mgg",
+  "rate": 0.000959
+},
+{
+  "_id": {
+    "$oid": "647669aca889ecbbc40469a0"
+  },
+  "name": "rss3",
+  "__v": 0,
+  "displayName": "rss3",
+  "rate": 0.1091
+},
+{
+  "_id": {
+    "$oid": "647669aca889ecbbc40469a2"
+  },
+  "name": "jasmy",
+  "__v": 0,
+  "displayName": "jasmy",
+  "rate": 0.020134
+},
+{
+  "_id": {
+    "$oid": "647669aca889ecbbc40469a3"
+  },
+  "name": "arkn",
+  "__v": 0,
+  "displayName": "arkn",
+  "rate": 0.000071
+},
+{
+  "_id": {
+    "$oid": "647669aca889ecbbc40469a6"
+  },
+  "name": "babydoge",
+  "__v": 0,
+  "displayName": "babydoge",
+  "rate": 9.52e-10
+},
+{
+  "_id": {
+    "$oid": "647669aca889ecbbc40469a8"
+  },
+  "name": "sis",
+  "__v": 0,
+  "displayName": "sis",
+  "rate": 0.1678
+},
+{
+  "_id": {
+    "$oid": "647669aca889ecbbc40469a9"
+  },
+  "name": "zig",
+  "__v": 0,
+  "displayName": "zig",
+  "rate": 0.099858
+},
+{
+  "_id": {
+    "$oid": "647669aca889ecbbc40469ab"
+  },
+  "name": "starly",
+  "__v": 0,
+  "displayName": "starly",
+  "rate": 0.0002
+},
+{
+  "_id": {
+    "$oid": "647669caa889ecbbc4046ac0"
+  },
+  "name": "gf",
+  "__v": 0,
+  "displayName": "gf",
+  "rate": 0.4075
+},
+{
+  "_id": {
+    "$oid": "647669caa889ecbbc4046ac3"
+  },
+  "name": "hec",
+  "__v": 0,
+  "displayName": "hec",
+  "rate": 0.01367
+},
+{
+  "_id": {
+    "$oid": "647669caa889ecbbc4046ac5"
+  },
+  "name": "chsb",
+  "__v": 0,
+  "displayName": "chsb",
+  "rate": 0.1952
+},
+{
+  "_id": {
+    "$oid": "647669caa889ecbbc4046ac7"
+  },
+  "name": "pstake",
+  "__v": 0,
+  "displayName": "pstake",
+  "rate": 0.0537
+},
+{
+  "_id": {
+    "$oid": "647669caa889ecbbc4046ac9"
+  },
+  "name": "audio",
+  "__v": 0,
+  "displayName": "audio",
+  "rate": 0.1263
+},
+{
+  "_id": {
+    "$oid": "647669caa889ecbbc4046acb"
+  },
+  "name": "polc",
+  "__v": 0,
+  "displayName": "polc",
+  "rate": 0.006223
+},
+{
+  "_id": {
+    "$oid": "647669caa889ecbbc4046acd"
+  },
+  "name": "revv",
+  "__v": 0,
+  "displayName": "revv",
+  "rate": 0.00425
+},
+{
+  "_id": {
+    "$oid": "647669caa889ecbbc4046acf"
+  },
+  "name": "fet",
+  "__v": 0,
+  "displayName": "fet",
+  "rate": 1.3646
+},
+{
+  "_id": {
+    "$oid": "647669caa889ecbbc4046ad1"
+  },
+  "name": "ranker",
+  "__v": 0,
+  "displayName": "ranker",
+  "rate": 0.000271
+},
+{
+  "_id": {
+    "$oid": "647669caa889ecbbc4046ad2"
+  },
+  "name": "holo",
+  "__v": 0,
+  "displayName": "holo",
+  "rate": 0.001044
+},
+{
+  "_id": {
+    "$oid": "647669e8a889ecbbc4046b05"
+  },
+  "name": "lbp",
+  "__v": 0,
+  "displayName": "lbp",
+  "rate": 0.0001412
+},
+{
+  "_id": {
+    "$oid": "647669e8a889ecbbc4046b06"
+  },
+  "name": "vpad",
+  "__v": 0,
+  "displayName": "vpad",
+  "rate": 0.01122
+},
+{
+  "_id": {
+    "$oid": "647669e8a889ecbbc4046b09"
+  },
+  "name": "floki",
+  "__v": 0,
+  "displayName": "floki",
+  "rate": 0.00012445
+},
+{
+  "_id": {
+    "$oid": "647669e8a889ecbbc4046b0a"
+  },
+  "name": "multi",
+  "__v": 0,
+  "displayName": "multi",
+  "rate": 0.7199
+},
+{
+  "_id": {
+    "$oid": "64766a06a889ecbbc4046b40"
+  },
+  "name": "mbox",
+  "__v": 0,
+  "displayName": "mbox",
+  "rate": 0.1466
+},
+{
+  "_id": {
+    "$oid": "64766a06a889ecbbc4046b41"
+  },
+  "name": "win",
+  "__v": 0,
+  "displayName": "win",
+  "rate": 0.00008873
+},
+{
+  "_id": {
+    "$oid": "64766a06a889ecbbc4046b44"
+  },
+  "name": "wemix",
+  "__v": 0,
+  "displayName": "wemix",
+  "rate": 0.8995
+},
+{
+  "_id": {
+    "$oid": "64766a06a889ecbbc4046b46"
+  },
+  "name": "wpci",
+  "__v": 0,
+  "displayName": "wpci",
+  "rate": 0.0901
+},
+{
+  "_id": {
+    "$oid": "64766a06a889ecbbc4046b48"
+  },
+  "name": "ern",
+  "__v": 0,
+  "displayName": "ern",
+  "rate": 2.0143
+},
+{
+  "_id": {
+    "$oid": "64766a06a889ecbbc4046b4a"
+  },
+  "name": "syn",
+  "__v": 0,
+  "displayName": "syn",
+  "rate": 0.4335
+},
+{
+  "_id": {
+    "$oid": "64766a06a889ecbbc4046b4c"
+  },
+  "name": "aioz",
+  "__v": 0,
+  "displayName": "aioz",
+  "rate": 0.3949
+},
+{
+  "_id": {
+    "$oid": "64766a06a889ecbbc4046b4e"
+  },
+  "name": "kai",
+  "__v": 0,
+  "displayName": "kai",
+  "rate": 0.006827
+},
+{
+  "_id": {
+    "$oid": "64766a06a889ecbbc4046b50"
+  },
+  "name": "bull",
+  "__v": 0,
+  "displayName": "bull",
+  "rate": 0.00203
+},
+{
+  "_id": {
+    "$oid": "64766a06a889ecbbc4046b51"
+  },
+  "name": "gst",
+  "__v": 0,
+  "displayName": "gst",
+  "rate": 0.0148
+},
+{
+  "_id": {
+    "$oid": "64766a24a889ecbbc4046b8b"
+  },
+  "name": "bit",
+  "__v": 0,
+  "displayName": "bit",
+  "rate": 0.4928
+},
+{
+  "_id": {
+    "$oid": "64766a24a889ecbbc4046b8d"
+  },
+  "name": "sd",
+  "__v": 0,
+  "displayName": "sd",
+  "rate": 0.4475
+},
+{
+  "_id": {
+    "$oid": "64766a24a889ecbbc4046b8f"
+  },
+  "name": "ape",
+  "__v": 0,
+  "displayName": "ape",
+  "rate": 0.7452
+},
+{
+  "_id": {
+    "$oid": "64766a24a889ecbbc4046b91"
+  },
+  "name": "tlm",
+  "__v": 0,
+  "displayName": "tlm",
+  "rate": 0.010639
+},
+{
+  "_id": {
+    "$oid": "64766a24a889ecbbc4046b93"
+  },
+  "name": "gmt",
+  "__v": 0,
+  "displayName": "gmt",
+  "rate": 0.1391
+},
+{
+  "_id": {
+    "$oid": "64766a24a889ecbbc4046b95"
+  },
+  "name": "smcw",
+  "__v": 0,
+  "displayName": "smcw",
+  "rate": 0.0005
+},
+{
+  "_id": {
+    "$oid": "64766a24a889ecbbc4046b96"
+  },
+  "name": "xcad",
+  "__v": 0,
+  "displayName": "xcad",
+  "rate": 0.2936
+},
+{
+  "_id": {
+    "$oid": "64766a43a889ecbbc4046bcc"
+  },
+  "name": "qrdo",
+  "__v": 0,
+  "displayName": "qrdo",
+  "rate": 0.06019
+},
+{
+  "_id": {
+    "$oid": "64766a43a889ecbbc4046bce"
+  },
+  "name": "arv",
+  "__v": 0,
+  "displayName": "arv",
+  "rate": 0.00001743
+},
+{
+  "_id": {
+    "$oid": "64766a43a889ecbbc4046bcf"
+  },
+  "name": "onston",
+  "__v": 0,
+  "displayName": "onston",
+  "rate": 0.002387
+},
+{
+  "_id": {
+    "$oid": "64766a43a889ecbbc4046bd2"
+  },
+  "name": "h2o",
+  "__v": 0,
+  "displayName": "h2o",
+  "rate": 0.162602
+},
+{
+  "_id": {
+    "$oid": "64766a43a889ecbbc4046bd4"
+  },
+  "name": "orb",
+  "__v": 0,
+  "displayName": "orb",
+  "rate": 0.018506
+},
+{
+  "_id": {
+    "$oid": "64766a43a889ecbbc4046bd6"
+  },
+  "name": "abbc",
+  "__v": 0,
+  "displayName": "abbc",
+  "rate": 0.0067
+},
+{
+  "_id": {
+    "$oid": "64766a43a889ecbbc4046bd8"
+  },
+  "name": "loka",
+  "__v": 0,
+  "displayName": "loka",
+  "rate": 0.2278
+},
+{
+  "_id": {
+    "$oid": "64766a43a889ecbbc4046bd9"
+  },
+  "name": "crpt",
+  "__v": 0,
+  "displayName": "crpt",
+  "rate": 0.0276
+},
+{
+  "_id": {
+    "$oid": "64766a60a889ecbbc4046c0d"
+  },
+  "name": "anml",
+  "__v": 0,
+  "displayName": "anml",
+  "rate": 0.000096
+},
+{
+  "_id": {
+    "$oid": "64766a60a889ecbbc4046c0f"
+  },
+  "name": "cudos",
+  "__v": 0,
+  "displayName": "cudos",
+  "rate": 0.007911
+},
+{
+  "_id": {
+    "$oid": "64766a60a889ecbbc4046c11"
+  },
+  "name": "vr",
+  "__v": 0,
+  "displayName": "vr",
+  "rate": 0.00614439
+},
+{
+  "_id": {
+    "$oid": "64766a60a889ecbbc4046c13"
+  },
+  "name": "dog",
+  "__v": 0,
+  "displayName": "dog",
+  "rate": 0.000728
+},
+{
+  "_id": {
+    "$oid": "64766a60a889ecbbc4046c15"
+  },
+  "name": "fuse",
+  "__v": 0,
+  "displayName": "fuse",
+  "rate": 0.02567
+},
+{
+  "_id": {
+    "$oid": "64766a60a889ecbbc4046c17"
+  },
+  "name": "xdefi",
+  "__v": 0,
+  "displayName": "xdefi",
+  "rate": 0.051
+},
+{
+  "_id": {
+    "$oid": "64766a60a889ecbbc4046c19"
+  },
+  "name": "gq",
+  "__v": 0,
+  "displayName": "gq",
+  "rate": 0.000307
+},
+{
+  "_id": {
+    "$oid": "64766a60a889ecbbc4046c1a"
+  },
+  "name": "cake",
+  "__v": 0,
+  "displayName": "cake",
+  "rate": 1.7609
+},
+{
+  "_id": {
+    "$oid": "64766a7fa889ecbbc4046c4a"
+  },
+  "name": "t",
+  "__v": 0,
+  "displayName": "t",
+  "rate": 0.0216
+},
+{
+  "_id": {
+    "$oid": "64766a7fa889ecbbc4046c4b"
+  },
+  "name": "onit",
+  "__v": 0,
+  "displayName": "onit",
+  "rate": 0.0539
+},
+{
+  "_id": {
+    "$oid": "64766a7fa889ecbbc4046c4e"
+  },
+  "name": "sprt",
+  "__v": 0,
+  "displayName": "sprt",
+  "rate": 0.000097
+},
+{
+  "_id": {
+    "$oid": "64766a7fa889ecbbc4046c50"
+  },
+  "name": "brwl",
+  "__v": 0,
+  "displayName": "brwl",
+  "rate": 0.001375
+},
+{
+  "_id": {
+    "$oid": "64766a7fa889ecbbc4046c52"
+  },
+  "name": "xcn",
+  "__v": 0,
+  "displayName": "xcn",
+  "rate": 0.00131
+},
+{
+  "_id": {
+    "$oid": "64766a7fa889ecbbc4046c54"
+  },
+  "name": "xcur",
+  "__v": 0,
+  "displayName": "xcur",
+  "rate": 0.00513
+},
+{
+  "_id": {
+    "$oid": "64766a7fa889ecbbc4046c56"
+  },
+  "name": "npt",
+  "__v": 0,
+  "displayName": "npt",
+  "rate": 0.2594
+},
+{
+  "_id": {
+    "$oid": "64766a7fa889ecbbc4046c57"
+  },
+  "name": "noia",
+  "__v": 0,
+  "displayName": "noia",
+  "rate": 0.1181
+},
+{
+  "_id": {
+    "$oid": "64766a9ca889ecbbc4046c8b"
+  },
+  "name": "nym",
+  "__v": 0,
+  "displayName": "nym",
+  "rate": 0.0788
+},
+{
+  "_id": {
+    "$oid": "64766a9ca889ecbbc4046c8d"
+  },
+  "name": "cel",
+  "__v": 0,
+  "displayName": "cel",
+  "rate": 0.2217
+},
+{
+  "_id": {
+    "$oid": "64766a9ca889ecbbc4046c8f"
+  },
+  "name": "vision",
+  "__v": 0,
+  "displayName": "vision",
+  "rate": 0.0023898
+},
+{
+  "_id": {
+    "$oid": "64766a9ca889ecbbc4046c91"
+  },
+  "name": "face",
+  "__v": 0,
+  "displayName": "face",
+  "rate": 8e-10
+},
+{
+  "_id": {
+    "$oid": "64766a9ca889ecbbc4046c93"
+  },
+  "name": "dodo",
+  "__v": 0,
+  "displayName": "dodo",
+  "rate": 0.108
+},
+{
+  "_id": {
+    "$oid": "64766a9ca889ecbbc4046c96"
+  },
+  "name": "vemp",
+  "__v": 0,
+  "displayName": "vemp",
+  "rate": 0.00317
+},
+{
+  "_id": {
+    "$oid": "64766a9ca889ecbbc4046c95"
+  },
+  "name": "caw",
+  "__v": 0,
+  "displayName": "caw",
+  "rate": 4.6871e-8
+},
+{
+  "_id": {
+    "$oid": "64766a9ca889ecbbc4046c99"
+  },
+  "name": "prq",
+  "__v": 0,
+  "displayName": "prq",
+  "rate": 0.0813
+},
+{
+  "_id": {
+    "$oid": "64766a9ca889ecbbc4046c9a"
+  },
+  "name": "stg",
+  "__v": 0,
+  "displayName": "stg",
+  "rate": 0.2906
+},
+{
+  "_id": {
+    "$oid": "64766abba889ecbbc4046cca"
+  },
+  "name": "moov",
+  "__v": 0,
+  "displayName": "moov",
+  "rate": 0.001927
+},
+{
+  "_id": {
+    "$oid": "64766abba889ecbbc4046ccc"
+  },
+  "name": "fitfi",
+  "__v": 0,
+  "displayName": "fitfi",
+  "rate": 0.002908
+},
+{
+  "_id": {
+    "$oid": "64766abba889ecbbc4046cce"
+  },
+  "name": "bbf",
+  "__v": 0,
+  "displayName": "bbf",
+  "rate": 0.0518
+},
+{
+  "_id": {
+    "$oid": "64766abba889ecbbc4046cd0"
+  },
+  "name": "elu",
+  "__v": 0,
+  "displayName": "elu",
+  "rate": 0.003848
+},
+{
+  "_id": {
+    "$oid": "64766abba889ecbbc4046cd2"
+  },
+  "name": "num",
+  "__v": 0,
+  "displayName": "num",
+  "rate": 0.0415
+},
+{
+  "_id": {
+    "$oid": "64766abba889ecbbc4046cd4"
+  },
+  "name": "dose",
+  "__v": 0,
+  "displayName": "dose",
+  "rate": 0.000106
+},
+{
+  "_id": {
+    "$oid": "64766abba889ecbbc4046cd6"
+  },
+  "name": "hunt",
+  "__v": 0,
+  "displayName": "hunt",
+  "rate": 0.2638
+},
+{
+  "_id": {
+    "$oid": "64766abba889ecbbc4046cd8"
+  },
+  "name": "sys",
+  "__v": 0,
+  "displayName": "sys",
+  "rate": 0.1032
+},
+{
+  "_id": {
+    "$oid": "64766abba889ecbbc4046cd9"
+  },
+  "name": "voxel",
+  "__v": 0,
+  "displayName": "voxel",
+  "rate": 0.165
+},
+{
+  "_id": {
+    "$oid": "64766ad8a889ecbbc4046d09"
+  },
+  "name": "strm",
+  "__v": 0,
+  "displayName": "strm",
+  "rate": 0.00116
+},
+{
+  "_id": {
+    "$oid": "64766ad8a889ecbbc4046d0b"
+  },
+  "name": "breed",
+  "__v": 0,
+  "displayName": "breed",
+  "rate": 0.01618
+},
+{
+  "_id": {
+    "$oid": "64766ad8a889ecbbc4046d0d"
+  },
+  "name": "boson",
+  "__v": 0,
+  "displayName": "boson",
+  "rate": 0.2462
+},
+{
+  "_id": {
+    "$oid": "64766ad8a889ecbbc4046d0f"
+  },
+  "name": "primate",
+  "__v": 0,
+  "displayName": "primate",
+  "rate": 0.0045
+},
+{
+  "_id": {
+    "$oid": "64766ad8a889ecbbc4046d11"
+  },
+  "name": "jumbo",
+  "__v": 0,
+  "displayName": "jumbo",
+  "rate": 0.0339
+},
+{
+  "_id": {
+    "$oid": "64766ad8a889ecbbc4046d12"
+  },
+  "name": "ply",
+  "__v": 0,
+  "displayName": "ply",
+  "rate": 0.000266
+},
+{
+  "_id": {
+    "$oid": "64766ad8a889ecbbc4046d15"
+  },
+  "name": "gal",
+  "__v": 0,
+  "displayName": "gal",
+  "rate": 2.572
+},
+{
+  "_id": {
+    "$oid": "64766ad8a889ecbbc4046d16"
+  },
+  "name": "toke",
+  "__v": 0,
+  "displayName": "toke",
+  "rate": 0.8
+},
+{
+  "_id": {
+    "$oid": "64766ad8a889ecbbc4046d18"
+  },
+  "name": "lunr",
+  "__v": 0,
+  "displayName": "lunr",
+  "rate": 0.1
+},
+{
+  "_id": {
+    "$oid": "64766af6a889ecbbc4046e25"
+  },
+  "name": "akt",
+  "__v": 0,
+  "displayName": "akt",
+  "rate": 2.4775
+},
+{
+  "_id": {
+    "$oid": "64766af6a889ecbbc4046e26"
+  },
+  "name": "orbr",
+  "__v": 0,
+  "displayName": "orbr",
+  "rate": 0.3064
+},
+{
+  "_id": {
+    "$oid": "64766af6a889ecbbc4046e29"
+  },
+  "name": "usdd",
+  "__v": 0,
+  "displayName": "usdd",
+  "rate": 0.99938
+},
+{
+  "_id": {
+    "$oid": "64766af6a889ecbbc4046e2b"
+  },
+  "name": "adp",
+  "__v": 0,
+  "displayName": "adp",
+  "rate": 0.00218
+},
+{
+  "_id": {
+    "$oid": "64766af6a889ecbbc4046e2d"
+  },
+  "name": "tinc",
+  "__v": 0,
+  "displayName": "tinc",
+  "rate": 0.0047
+},
+{
+  "_id": {
+    "$oid": "64766af6a889ecbbc4046e2f"
+  },
+  "name": "rei",
+  "__v": 0,
+  "displayName": "rei",
+  "rate": 0.049719
+},
+{
+  "_id": {
+    "$oid": "64766af6a889ecbbc4046e31"
+  },
+  "name": "oct",
+  "__v": 0,
+  "displayName": "oct",
+  "rate": 0.1621
+},
+{
+  "_id": {
+    "$oid": "64766af6a889ecbbc4046e32"
+  },
+  "name": "vlx",
+  "__v": 0,
+  "displayName": "vlx",
+  "rate": 0.004446
+},
+{
+  "_id": {
+    "$oid": "64766b14a889ecbbc4046e66"
+  },
+  "name": "wmt",
+  "__v": 0,
+  "displayName": "wmt",
+  "rate": 0.2021
+},
+{
+  "_id": {
+    "$oid": "64766b14a889ecbbc4046e68"
+  },
+  "name": "sfund",
+  "__v": 0,
+  "displayName": "sfund",
+  "rate": 1.1211
+},
+{
+  "_id": {
+    "$oid": "64766b14a889ecbbc4046e6a"
+  },
+  "name": "tlos",
+  "__v": 0,
+  "displayName": "tlos",
+  "rate": 0.2247
+},
+{
+  "_id": {
+    "$oid": "64766b14a889ecbbc4046e6c"
+  },
+  "name": "pla",
+  "__v": 0,
+  "displayName": "pla",
+  "rate": 0.1223
+},
+{
+  "_id": {
+    "$oid": "64766b14a889ecbbc4046e6e"
+  },
+  "name": "mcontent",
+  "__v": 0,
+  "displayName": "mcontent",
+  "rate": 8.51e-10
+},
+{
+  "_id": {
+    "$oid": "64766b14a889ecbbc4046e70"
+  },
+  "name": "mesa",
+  "__v": 0,
+  "displayName": "mesa",
+  "rate": 0.000069
+},
+{
+  "_id": {
+    "$oid": "64766b14a889ecbbc4046e72"
+  },
+  "name": "gno",
+  "__v": 0,
+  "displayName": "gno",
+  "rate": 148.864
+},
+{
+  "_id": {
+    "$oid": "64766b14a889ecbbc4046e74"
+  },
+  "name": "aqt",
+  "__v": 0,
+  "displayName": "aqt",
+  "rate": 0.8129
+},
+{
+  "_id": {
+    "$oid": "64766b14a889ecbbc4046e75"
+  },
+  "name": "brt",
+  "__v": 0,
+  "displayName": "brt",
+  "rate": 0.0007
+},
+{
+  "_id": {
+    "$oid": "64766b33a889ecbbc4046ea5"
+  },
+  "name": "luna",
+  "__v": 0,
+  "displayName": "luna",
+  "rate": 0.397
+},
+{
+  "_id": {
+    "$oid": "64766b33a889ecbbc4046ea6"
+  },
+  "name": "berry",
+  "__v": 0,
+  "displayName": "berry",
+  "rate": 0.000245
+},
+{
+  "_id": {
+    "$oid": "64766b33a889ecbbc4046ea9"
+  },
+  "name": "bwo",
+  "__v": 0,
+  "displayName": "bwo",
+  "rate": 0.00168
+},
+{
+  "_id": {
+    "$oid": "64766b33a889ecbbc4046eaa"
+  },
+  "name": "wwy",
+  "__v": 0,
+  "displayName": "wwy",
+  "rate": 0.001728
+},
+{
+  "_id": {
+    "$oid": "64766b33a889ecbbc4046ead"
+  },
+  "name": "we",
+  "__v": 0,
+  "displayName": "we",
+  "rate": 0.084
+},
+{
+  "_id": {
+    "$oid": "64766b33a889ecbbc4046eae"
+  },
+  "name": "ever",
+  "__v": 0,
+  "displayName": "ever",
+  "rate": 0.05417
+},
+{
+  "_id": {
+    "$oid": "64766b33a889ecbbc4046eb1"
+  },
+  "name": "cusd",
+  "__v": 0,
+  "displayName": "cusd",
+  "rate": 0.9989
+},
+{
+  "_id": {
+    "$oid": "64766b33a889ecbbc4046eb2"
+  },
+  "name": "bp",
+  "__v": 0,
+  "displayName": "bp",
+  "rate": 0.000655
+},
+{
+  "_id": {
+    "$oid": "64766b33a889ecbbc4046eb4"
+  },
+  "name": "op",
+  "__v": 0,
+  "displayName": "op",
+  "rate": 1.5342
+},
+{
+  "_id": {
+    "$oid": "64766b50a889ecbbc4046ee4"
+  },
+  "name": "route",
+  "__v": 0,
+  "displayName": "route",
+  "rate": 1.3797
+},
+{
+  "_id": {
+    "$oid": "64766b50a889ecbbc4046ee6"
+  },
+  "name": "swap",
+  "__v": 0,
+  "displayName": "swap",
+  "rate": 0.1076
+},
+{
+  "_id": {
+    "$oid": "64766b50a889ecbbc4046ee8"
+  },
+  "name": "oland",
+  "__v": 0,
+  "displayName": "oland",
+  "rate": 0.000129
+},
+{
+  "_id": {
+    "$oid": "64766b50a889ecbbc4046eea"
+  },
+  "name": "joy",
+  "__v": 0,
+  "displayName": "joy",
+  "rate": 0.00212
+},
+{
+  "_id": {
+    "$oid": "64766b50a889ecbbc4046eeb"
+  },
+  "name": "hsf",
+  "__v": 0,
+  "displayName": "hsf",
+  "rate": 0.1263
+},
+{
+  "_id": {
+    "$oid": "64766b50a889ecbbc4046eee"
+  },
+  "name": "egame",
+  "__v": 0,
+  "displayName": "egame",
+  "rate": 0.0000321
+},
+{
+  "_id": {
+    "$oid": "64766b50a889ecbbc4046ef0"
+  },
+  "name": "ldo",
+  "__v": 0,
+  "displayName": "ldo",
+  "rate": 1.0265
+},
+{
+  "_id": {
+    "$oid": "64766b50a889ecbbc4046ef2"
+  },
+  "name": "sign",
+  "__v": 0,
+  "displayName": "sign",
+  "rate": 0.000969
+},
+{
+  "_id": {
+    "$oid": "64766b50a889ecbbc4046ef3"
+  },
+  "name": "revo",
+  "__v": 0,
+  "displayName": "revo",
+  "rate": 0.000077
+},
+{
+  "_id": {
+    "$oid": "64766b6ea889ecbbc4046f23"
+  },
+  "name": "fota",
+  "__v": 0,
+  "displayName": "fota",
+  "rate": 0.000084
+},
+{
+  "_id": {
+    "$oid": "64766b6ea889ecbbc4046f25"
+  },
+  "name": "well",
+  "__v": 0,
+  "displayName": "well",
+  "rate": 0.02575
+},
+{
+  "_id": {
+    "$oid": "64766b6ea889ecbbc4046f27"
+  },
+  "name": "xdc",
+  "__v": 0,
+  "displayName": "xdc",
+  "rate": 0.026438
+},
+{
+  "_id": {
+    "$oid": "64766b6ea889ecbbc4046f29"
+  },
+  "name": "col",
+  "__v": 0,
+  "displayName": "col",
+  "rate": 0.6967
+},
+{
+  "_id": {
+    "$oid": "64766b6ea889ecbbc4046f2b"
+  },
+  "name": "flz",
+  "__v": 0,
+  "displayName": "flz",
+  "rate": 3.1116
+},
+{
+  "_id": {
+    "$oid": "64766b6ea889ecbbc4046f2d"
+  },
+  "name": "medamon",
+  "__v": 0,
+  "displayName": "medamon",
+  "rate": 0.000444
+},
+{
+  "_id": {
+    "$oid": "64766b6ea889ecbbc4046f2e"
+  },
+  "name": "dora",
+  "__v": 0,
+  "displayName": "dora",
+  "rate": 0.0467
+},
+{
+  "_id": {
+    "$oid": "64766b6ea889ecbbc4046f30"
+  },
+  "name": "steth",
+  "__v": 0,
+  "displayName": "steth",
+  "rate": 2335.37
+},
+{
+  "_id": {
+    "$oid": "64766b8ca889ecbbc4046f60"
+  },
+  "name": "eul",
+  "__v": 0,
+  "displayName": "eul",
+  "rate": 4.3706
+},
+{
+  "_id": {
+    "$oid": "64766b8ca889ecbbc4046f61"
+  },
+  "name": "koi",
+  "__v": 0,
+  "displayName": "koi",
+  "rate": 0.000192
+},
+{
+  "_id": {
+    "$oid": "64766b8ca889ecbbc4046f64"
+  },
+  "name": "ctc",
+  "__v": 0,
+  "displayName": "ctc",
+  "rate": 0.4214
+},
+{
+  "_id": {
+    "$oid": "64766b8ca889ecbbc4046f66"
+  },
+  "name": "kube",
+  "__v": 0,
+  "displayName": "kube",
+  "rate": 0.001192
+},
+{
+  "_id": {
+    "$oid": "64766b8ca889ecbbc4046f68"
+  },
+  "name": "crts",
+  "__v": 0,
+  "displayName": "crts",
+  "rate": 0.00048704
+},
+{
+  "_id": {
+    "$oid": "64766b8ca889ecbbc4046f6a"
+  },
+  "name": "qom",
+  "__v": 0,
+  "displayName": "qom",
+  "rate": 3.0221e-8
+},
+{
+  "_id": {
+    "$oid": "64766b8ca889ecbbc4046f6c"
+  },
+  "name": "mbx",
+  "__v": 0,
+  "displayName": "mbx",
+  "rate": 0.3721
+},
+{
+  "_id": {
+    "$oid": "64766b8ca889ecbbc4046f6e"
+  },
+  "name": "dks",
+  "__v": 0,
+  "displayName": "dks",
+  "rate": 0.0000979
+},
+{
+  "_id": {
+    "$oid": "64766b8ca889ecbbc4046f6f"
+  },
+  "name": "aegis",
+  "__v": 0,
+  "displayName": "aegis",
+  "rate": 0.000131
+},
+{
+  "_id": {
+    "$oid": "64766baba889ecbbc4046f9f"
+  },
+  "name": "pando",
+  "__v": 0,
+  "displayName": "pando",
+  "rate": 0.0002
+},
+{
+  "_id": {
+    "$oid": "64766baba889ecbbc4046fa0"
+  },
+  "name": "dep",
+  "__v": 0,
+  "displayName": "dep",
+  "rate": 0.001122
+},
+{
+  "_id": {
+    "$oid": "64766baba889ecbbc4046fa3"
+  },
+  "name": "euroc",
+  "__v": 0,
+  "displayName": "euroc",
+  "rate": 1.117
+},
+{
+  "_id": {
+    "$oid": "64766baba889ecbbc4046fa4"
+  },
+  "name": "sao",
+  "__v": 0,
+  "displayName": "sao",
+  "rate": 0.000556
+},
+{
+  "_id": {
+    "$oid": "64766baba889ecbbc4046fa7"
+  },
+  "name": "evmos",
+  "__v": 0,
+  "displayName": "evmos",
+  "rate": 0.0175
+},
+{
+  "_id": {
+    "$oid": "64766baba889ecbbc4046fa8"
+  },
+  "name": "velo",
+  "__v": 0,
+  "displayName": "velo",
+  "rate": 0.015999
+},
+{
+  "_id": {
+    "$oid": "64766baba889ecbbc4046fab"
+  },
+  "name": "mev",
+  "__v": 0,
+  "displayName": "mev",
+  "rate": 0.004231
+},
+{
+  "_id": {
+    "$oid": "64766baba889ecbbc4046fac"
+  },
+  "name": "like",
+  "__v": 0,
+  "displayName": "like",
+  "rate": 0.029061
+},
+{
+  "_id": {
+    "$oid": "64766baba889ecbbc4046fae"
+  },
+  "name": "srt",
+  "__v": 0,
+  "displayName": "srt",
+  "rate": 0.000013
+},
+{
+  "_id": {
+    "$oid": "64766bc8a889ecbbc4046fe2"
+  },
+  "name": "ogv",
+  "__v": 0,
+  "displayName": "ogv",
+  "rate": 0.007797
+},
+{
+  "_id": {
+    "$oid": "64766bc8a889ecbbc4046fe4"
+  },
+  "name": "movez",
+  "__v": 0,
+  "displayName": "movez",
+  "rate": 0.0000577
+},
+{
+  "_id": {
+    "$oid": "64766bc8a889ecbbc4046fe6"
+  },
+  "name": "lbl",
+  "__v": 0,
+  "displayName": "lbl",
+  "rate": 0.00252
+},
+{
+  "_id": {
+    "$oid": "64766bc8a889ecbbc4046fe8"
+  },
+  "name": "tava",
+  "__v": 0,
+  "displayName": "tava",
+  "rate": 0.02429
+},
+{
+  "_id": {
+    "$oid": "64766bc8a889ecbbc4046fea"
+  },
+  "name": "solo",
+  "__v": 0,
+  "displayName": "solo",
+  "rate": 0.07183
+},
+{
+  "_id": {
+    "$oid": "64766bc8a889ecbbc4046fec"
+  },
+  "name": "mudol2",
+  "__v": 0,
+  "displayName": "mudol2",
+  "rate": 0.00474
+},
+{
+  "_id": {
+    "$oid": "64766bc8a889ecbbc4046fee"
+  },
+  "name": "azero",
+  "__v": 0,
+  "displayName": "azero",
+  "rate": 0.3892
+},
+{
+  "_id": {
+    "$oid": "64766bc8a889ecbbc4046ff0"
+  },
+  "name": "tdx",
+  "__v": 0,
+  "displayName": "tdx",
+  "rate": 0.0198
+},
+{
+  "_id": {
+    "$oid": "64766bc8a889ecbbc4046ff1"
+  },
+  "name": "og",
+  "__v": 0,
+  "displayName": "og",
+  "rate": 2.9978
+},
+{
+  "_id": {
+    "$oid": "64766be6a889ecbbc4047021"
+  },
+  "name": "anv",
+  "__v": 0,
+  "displayName": "anv",
+  "rate": 0.00009
+},
+{
+  "_id": {
+    "$oid": "64766be6a889ecbbc4047022"
+  },
+  "name": "atm",
+  "__v": 0,
+  "displayName": "atm",
+  "rate": 1.8302
+},
+{
+  "_id": {
+    "$oid": "64766be6a889ecbbc4047025"
+  },
+  "name": "toms",
+  "__v": 0,
+  "displayName": "toms",
+  "rate": 0.000088
+},
+{
+  "_id": {
+    "$oid": "64766be6a889ecbbc4047027"
+  },
+  "name": "uos",
+  "__v": 0,
+  "displayName": "uos",
+  "rate": 0.0828
+},
+{
+  "_id": {
+    "$oid": "64766be6a889ecbbc4047029"
+  },
+  "name": "fiu",
+  "__v": 0,
+  "displayName": "fiu",
+  "rate": 0.000446
+},
+{
+  "_id": {
+    "$oid": "64766be6a889ecbbc404702b"
+  },
+  "name": "dfi",
+  "__v": 0,
+  "displayName": "dfi",
+  "rate": 0.0216
+},
+{
+  "_id": {
+    "$oid": "64766be6a889ecbbc404702d"
+  },
+  "name": "xeta",
+  "__v": 0,
+  "displayName": "xeta",
+  "rate": 0.002819
+},
+{
+  "_id": {
+    "$oid": "64766be6a889ecbbc404702e"
+  },
+  "name": "klv",
+  "__v": 0,
+  "displayName": "klv",
+  "rate": 0.001792
+},
+{
+  "_id": {
+    "$oid": "64766c04a889ecbbc404705e"
+  },
+  "name": "fio",
+  "__v": 0,
+  "displayName": "fio",
+  "rate": 0.027322
+},
+{
+  "_id": {
+    "$oid": "64766c04a889ecbbc404705f"
+  },
+  "name": "dyp",
+  "__v": 0,
+  "displayName": "dyp",
+  "rate": 0.0231
+},
+{
+  "_id": {
+    "$oid": "64766c04a889ecbbc4047062"
+  },
+  "name": "mrs",
+  "__v": 0,
+  "displayName": "mrs",
+  "rate": 1.3352
+},
+{
+  "_id": {
+    "$oid": "64766c04a889ecbbc4047064"
+  },
+  "name": "mcg",
+  "__v": 0,
+  "displayName": "mcg",
+  "rate": 0.005
+},
+{
+  "_id": {
+    "$oid": "64766c04a889ecbbc4047066"
+  },
+  "name": "kok",
+  "__v": 0,
+  "displayName": "kok",
+  "rate": 0.00669
+},
+{
+  "_id": {
+    "$oid": "64766c04a889ecbbc4047068"
+  },
+  "name": "prom",
+  "__v": 0,
+  "displayName": "prom",
+  "rate": 5.1799
+},
+{
+  "_id": {
+    "$oid": "64766c04a889ecbbc4047069"
+  },
+  "name": "sps",
+  "__v": 0,
+  "displayName": "sps",
+  "rate": 0.019178
+},
+{
+  "_id": {
+    "$oid": "64766c23a889ecbbc4047172"
+  },
+  "name": "dexe",
+  "__v": 0,
+  "displayName": "dexe",
+  "rate": 7.9542
+},
+{
+  "_id": {
+    "$oid": "64766c23a889ecbbc4047173"
+  },
+  "name": "hype",
+  "__v": 0,
+  "displayName": "hype",
+  "rate": 0.0000054
+},
+{
+  "_id": {
+    "$oid": "64766c23a889ecbbc4047176"
+  },
+  "name": "pbr",
+  "__v": 0,
+  "displayName": "pbr",
+  "rate": 0.0065
+},
+{
+  "_id": {
+    "$oid": "64766c23a889ecbbc4047178"
+  },
+  "name": "spume",
+  "__v": 0,
+  "displayName": "spume",
+  "rate": 0.0008033
+},
+{
+  "_id": {
+    "$oid": "64766c23a889ecbbc404717a"
+  },
+  "name": "orc",
+  "__v": 0,
+  "displayName": "orc",
+  "rate": 0.00419
+},
+{
+  "_id": {
+    "$oid": "64766c23a889ecbbc404717c"
+  },
+  "name": "nodl",
+  "__v": 0,
+  "displayName": "nodl",
+  "rate": 0.002156
+},
+{
+  "_id": {
+    "$oid": "64766c23a889ecbbc404717e"
+  },
+  "name": "ryoma",
+  "__v": 0,
+  "displayName": "ryoma",
+  "rate": 0.001139
+},
+{
+  "_id": {
+    "$oid": "64766c23a889ecbbc404717f"
+  },
+  "name": "ton",
+  "__v": 0,
+  "displayName": "ton",
+  "rate": 5.5843
+},
+{
+  "_id": {
+    "$oid": "64766c23a889ecbbc4047181"
+  },
+  "name": "metis",
+  "__v": 0,
+  "displayName": "metis",
+  "rate": 30.5242
+},
+{
+  "_id": {
+    "$oid": "64766c40a889ecbbc40471b1"
+  },
+  "name": "bld",
+  "__v": 0,
+  "displayName": "bld",
+  "rate": 0.0509
+},
+{
+  "_id": {
+    "$oid": "64766c40a889ecbbc40471b2"
+  },
+  "name": "xpnt",
+  "__v": 0,
+  "displayName": "xpnt",
+  "rate": 0.0037
+},
+{
+  "_id": {
+    "$oid": "64766c40a889ecbbc40471b5"
+  },
+  "name": "zcx",
+  "__v": 0,
+  "displayName": "zcx",
+  "rate": 0.0884
+},
+{
+  "_id": {
+    "$oid": "64766c40a889ecbbc40471b6"
+  },
+  "name": "baby",
+  "__v": 0,
+  "displayName": "baby",
+  "rate": 0.000531
+},
+{
+  "_id": {
+    "$oid": "64766c40a889ecbbc40471b9"
+  },
+  "name": "erg",
+  "__v": 0,
+  "displayName": "erg",
+  "rate": 0.717
+},
+{
+  "_id": {
+    "$oid": "64766c40a889ecbbc40471bb"
+  },
+  "name": "xno",
+  "__v": 0,
+  "displayName": "xno",
+  "rate": 0.00008
+},
+{
+  "_id": {
+    "$oid": "64766c40a889ecbbc40471bd"
+  },
+  "name": "dc",
+  "__v": 0,
+  "displayName": "dc",
+  "rate": 0.000228
+},
+{
+  "_id": {
+    "$oid": "64766c40a889ecbbc40471be"
+  },
+  "name": "mbl",
+  "__v": 0,
+  "displayName": "mbl",
+  "rate": 0.002573
+},
+{
+  "_id": {
+    "$oid": "64766c7da889ecbbc4047226"
+  },
+  "name": "uft",
+  "__v": 0,
+  "displayName": "uft",
+  "rate": 0.2239
+},
+{
+  "_id": {
+    "$oid": "64766cf4a889ecbbc4047301"
+  },
+  "name": "bch",
+  "__v": 0,
+  "displayName": "bch",
+  "rate": 331.31
+},
+{
+  "_id": {
+    "$oid": "64766d4fa889ecbbc4047474"
+  },
+  "name": "knc",
+  "__v": 0,
+  "displayName": "knc",
+  "rate": 0.434
+},
+{
+  "_id": {
+    "$oid": "64766de4a889ecbbc404756b"
+  },
+  "name": "dta",
+  "__v": 0,
+  "displayName": "dta",
+  "rate": 0.00000361
+},
+{
+  "_id": {
+    "$oid": "64766e20a889ecbbc40475cf"
+  },
+  "name": "blz",
+  "__v": 0,
+  "displayName": "blz",
+  "rate": 0.1257
+},
+{
+  "_id": {
+    "$oid": "64766f2ea889ecbbc4047862"
+  },
+  "name": "zen",
+  "__v": 0,
+  "displayName": "zen",
+  "rate": 8.4955
+},
+{
+  "_id": {
+    "$oid": "64766f88a889ecbbc4047905"
+  },
+  "name": "new",
+  "__v": 0,
+  "displayName": "new",
+  "rate": 0.0000392
+},
+{
+  "_id": {
+    "$oid": "64766f88a889ecbbc4047908"
+  },
+  "name": "fsn",
+  "__v": 0,
+  "displayName": "fsn",
+  "rate": 0.1797
+},
+{
+  "_id": {
+    "$oid": "64766fa6a889ecbbc4047a16"
+  },
+  "name": "algo",
+  "__v": 0,
+  "displayName": "algo",
+  "rate": 0.1298
+},
+{
+  "_id": {
+    "$oid": "6476703ca889ecbbc4047b2d"
+  },
+  "name": "dka",
+  "__v": 0,
+  "displayName": "dka",
+  "rate": 0.019529
+},
+{
+  "_id": {
+    "$oid": "64767097a889ecbbc4047bd2"
+  },
+  "name": "lrc",
+  "__v": 0,
+  "displayName": "lrc",
+  "rate": 0.1219
+},
+{
+  "_id": {
+    "$oid": "647671fea889ecbbc4048002"
+  },
+  "name": "agld",
+  "__v": 0,
+  "displayName": "agld",
+  "rate": 0.8017
+},
+{
+  "_id": {
+    "$oid": "6476732aa889ecbbc40482f3"
+  },
+  "name": "roco",
+  "__v": 0,
+  "displayName": "roco",
+  "rate": 0.0653
+},
+{
+  "_id": {
+    "$oid": "6476732aa889ecbbc40482f5"
+  },
+  "name": "gmee",
+  "__v": 0,
+  "displayName": "gmee",
+  "rate": 0.014081
+},
+{
+  "_id": {
+    "$oid": "64767367a889ecbbc4048361"
+  },
+  "name": "hotcross",
+  "__v": 0,
+  "displayName": "hotcross",
+  "rate": 0.00552
+},
+{
+  "_id": {
+    "$oid": "647673a2a889ecbbc40483cc"
+  },
+  "name": "zbc",
+  "__v": 0,
+  "displayName": "zbc",
+  "rate": 0.033004
+},
+{
+  "_id": {
+    "$oid": "647673c1a889ecbbc4048400"
+  },
+  "name": "fx",
+  "__v": 0,
+  "displayName": "fx",
+  "rate": 0.141
+},
+{
+  "_id": {
+    "$oid": "647673dea889ecbbc404843a"
+  },
+  "name": "raca",
+  "__v": 0,
+  "displayName": "raca",
+  "rate": 0.0001669
+},
+{
+  "_id": {
+    "$oid": "647673fda889ecbbc404846d"
+  },
+  "name": "ceek",
+  "__v": 0,
+  "displayName": "ceek",
+  "rate": 0.0322
+},
+{
+  "_id": {
+    "$oid": "64767492a889ecbbc4048654"
+  },
+  "name": "kct",
+  "__v": 0,
+  "displayName": "kct",
+  "rate": 0.001962
+},
+{
+  "_id": {
+    "$oid": "647674eda889ecbbc40486f9"
+  },
+  "name": "wlkn",
+  "__v": 0,
+  "displayName": "wlkn",
+  "rate": 0.001085
+},
+{
+  "_id": {
+    "$oid": "6476750aa889ecbbc404872f"
+  },
+  "name": "tao",
+  "__v": 0,
+  "displayName": "tao",
+  "rate": 0.0015
+},
+{
+  "_id": {
+    "$oid": "64767582a889ecbbc40488e2"
+  },
+  "name": "zed",
+  "__v": 0,
+  "displayName": "zed",
+  "rate": 0.014519
+},
+{
+  "_id": {
+    "$oid": "647675a0a889ecbbc404891a"
+  },
+  "name": "stc",
+  "__v": 0,
+  "displayName": "stc",
+  "rate": 0.0612
+},
+{
+  "_id": {
+    "$oid": "647675bfa889ecbbc4048956"
+  },
+  "name": "unq",
+  "__v": 0,
+  "displayName": "unq",
+  "rate": 0.004106
+},
+{
+  "_id": {
+    "$oid": "64767f00a889ecbbc404a094"
+  },
+  "name": "lovely",
+  "__v": 0,
+  "displayName": "lovely",
+  "rate": 0.00515
+},
+{
+  "_id": {
+    "$oid": "6479daeda889ecbbc40d59b3"
+  },
+  "name": "FTCOMBOUSDT",
+  "__v": 0,
+  "displayName": "FTCOMBOUSDT",
+  "rate": 0.7
+},
+{
+  "_id": {
+    "$oid": "64819dd6a889ecbbc4212491"
+  },
+  "name": "gas",
+  "__v": 0,
+  "displayName": "gas",
+  "rate": 3.3435
+},
+{
+  "_id": {
+    "$oid": "648ad41fa889ecbbc4389f18"
+  },
+  "name": "wan",
+  "__v": 0,
+  "displayName": "wan",
+  "rate": 0.1704
+},
+{
+  "_id": {
+    "$oid": "649438eea889ecbbc451a87d"
+  },
+  "name": "FTNMRUSDT",
+  "__v": 0,
+  "displayName": "FTNMRUSDT",
+  "rate": 13.18
+},
+{
+  "_id": {
+    "$oid": "6497a901a889ecbbc45b1619"
+  },
+  "name": "FTBTCUSDT_230929",
+  "__v": 0,
+  "displayName": "FTBTCUSDT_230929",
+  "rate": 30634.1
+},
+{
+  "_id": {
+    "$oid": "6497a901a889ecbbc45b1639"
+  },
+  "name": "FTETHUSDT_230929",
+  "__v": 0,
+  "displayName": "FTETHUSDT_230929",
+  "rate": 1931.32
+},
+{
+  "_id": {
+    "$oid": "649d736da889ecbbc46a6eb2"
+  },
+  "name": "FTMAVUSDT",
+  "__v": 0,
+  "displayName": "FTMAVUSDT",
+  "rate": 0.3545
+},
+{
+  "_id": {
+    "$oid": "649ec4eda889ecbbc46dd14c"
+  },
+  "name": "FTMDTUSDT",
+  "__v": 0,
+  "displayName": "FTMDTUSDT",
+  "rate": 0.04857
+},
+{
+  "_id": {
+    "$oid": "64a55c6da889ecbbc47ec4e5"
+  },
+  "name": "FTXVGUSDT",
+  "__v": 0,
+  "displayName": "FTXVGUSDT",
+  "rate": 0.006081
+},
+{
+  "_id": {
+    "$oid": "64a7d7b2a889ecbbc48547bd"
+  },
+  "name": "kmd",
+  "__v": 0,
+  "displayName": "kmd",
+  "rate": 0.2383
+},
+{
+  "_id": {
+    "$oid": "64afbda6a889ecbbc49a3c4e"
+  },
+  "name": "lsk",
+  "__v": 0,
+  "displayName": "lsk",
+  "rate": 0.7979
+},
+{
+  "_id": {
+    "$oid": "650d84541b9d3e2418a42498"
+  },
+  "name": "hot",
+  "__v": 0,
+  "displayName": "hot",
+  "rate": 0.001609
+},
+{
+  "_id": {
+    "$oid": "65954736fa69b05a02056529"
+  },
+  "name": "propy",
+  "__v": 0,
+  "displayName": "propy",
+  "rate": 1.0776
+},
+{
+  "_id": {
+    "$oid": "65e9905cbb89ac9bda3653f5"
+  },
+  "name": "portal",
+  "__v": 0,
+  "displayName": "portal",
+  "rate": 0.2666
+},
+{
+  "_id": {
+    "$oid": "65f03665bb89ac9bda42ddad"
+  },
+  "name": "mvl",
+  "__v": 0,
+  "displayName": "mvl",
+  "rate": 0.003494
+},
+{
+  "_id": {
+    "$oid": "6606782abb89ac9bda6b1814"
+  },
+  "name": "ardr",
+  "__v": 0,
+  "displayName": "ardr",
+  "rate": 0.0661
+},
+{
+  "_id": {
+    "$oid": "660680d6bb89ac9bda6b2789"
+  },
+  "name": "dgb",
+  "__v": 0,
+  "displayName": "dgb",
+  "rate": 0.008896
+},
+{
+  "_id": {
+    "$oid": "66696714bb89ac9bda1b2b4f"
+  },
+  "name": "pizza",
+  "__v": 0,
+  "displayName": "pizza",
+  "rate": 3.9156
+},
+{
+  "_id": {
+    "$oid": "666ffe3abb89ac9bda26c0ce"
+  },
+  "name": "powr",
+  "__v": 0,
+  "displayName": "powr",
+  "rate": 0.1943
+}]

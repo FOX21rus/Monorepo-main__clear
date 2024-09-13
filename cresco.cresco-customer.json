@@ -1,0 +1,281 @@
+[{
+  "_id": {
+    "$oid": "647663048a67695162dccdce"
+  },
+  "userUri": "email://info@cresco.capital",
+  "isPassportVerified": false,
+  "crescoTokenBalance": 0,
+  "passportScanFiles": [],
+  "agreementUrl": [],
+  "signedAgreementUrl": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a2963668030cbd440f1e05"
+  },
+  "userUri": "email://yaproshkinas@gmail.com",
+  "isPassportVerified": false,
+  "crescoTokenBalance": 0,
+  "passportScanFiles": [],
+  "agreementUrl": [],
+  "signedAgreementUrl": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a6914e216abcd404e60216"
+  },
+  "userUri": "email://mgogolev1991@gmail.com",
+  "isPassportVerified": true,
+  "crescoTokenBalance": 10000,
+  "passportScanFiles": [],
+  "agreementUrl": [],
+  "signedAgreementUrl": [],
+  "__v": 0,
+  "firstName": "Максим",
+  "middleName": "Олегович",
+  "walletAddress": "uqfhwhvbowvb",
+  "managerFullName": "Сырчин Андрей",
+  "lastName": "Гоголев",
+  "overallUSDTInvestments": 15000.009377705726,
+  "phone": "79778752110"
+},
+{
+  "_id": {
+    "$oid": "64a808f4c3905b5e68887f6d"
+  },
+  "userUri": "email://maxgogolevcap@gmail.com",
+  "isPassportVerified": true,
+  "crescoTokenBalance": 10000,
+  "passportScanFiles": [],
+  "agreementUrl": [],
+  "signedAgreementUrl": [],
+  "__v": 0,
+  "firstName": "Max",
+  "lastName": "Gog",
+  "walletAddress": "141234213412",
+  "overallUSDTInvestments": 11418.371000000001
+},
+{
+  "_id": {
+    "$oid": "64a81414c3905b5e68888af3"
+  },
+  "userUri": "email://k.efizov@crescofinance.ru",
+  "isPassportVerified": true,
+  "crescoTokenBalance": 0,
+  "passportScanFiles": [],
+  "agreementUrl": [],
+  "signedAgreementUrl": [
+    {
+      "name": "Снимок.PNG",
+      "url": "https://cresco.hb.bizmrg.com/%C3%90%C2%A1%C3%90%C2%BD%C3%90%C2%B8%C3%90%C2%BC%C3%90%C2%BE%C3%90%C2%BA.PNG"
+    }
+  ],
+  "__v": 0,
+  "firstName": "ASd",
+  "lastName": "Pup@@@@",
+  "middleName": "Dsa",
+  "phone": "+7514",
+  "walletAddress": "asdasdasdad12315415412asdasdыфвфывфыв",
+  "overallUSDTInvestments": 0
+},
+{
+  "_id": {
+    "$oid": "64a815f3c3905b5e68888dff"
+  },
+  "userUri": "email://i.zakharova@crescofinance.ru",
+  "isPassportVerified": true,
+  "crescoTokenBalance": 40,
+  "passportScanFiles": [],
+  "agreementUrl": [],
+  "signedAgreementUrl": [],
+  "__v": 0,
+  "firstName": "Irina",
+  "lastName": "Zakharova",
+  "phone": "+79039990101",
+  "walletAddress": "Faak12345gg",
+  "overallUSDTInvestments": 45.978852
+},
+{
+  "_id": {
+    "$oid": "64b57b4f71ad4585f31d3d9f"
+  },
+  "userUri": "email://nickerlan0@gmail.com",
+  "isPassportVerified": true,
+  "crescoTokenBalance": 0,
+  "passportScanFiles": [],
+  "agreementUrl": [],
+  "signedAgreementUrl": [],
+  "__v": 0,
+  "firstName": "Test",
+  "lastName": "1",
+  "middleName": "1"
+},
+{
+  "_id": {
+    "$oid": "64b9914e5b29c6cb85f1cf3d"
+  },
+  "userUri": "email://syrand.2023@gmail.com",
+  "isPassportVerified": true,
+  "crescoTokenBalance": 851.0799999999999,
+  "passportScanFiles": [],
+  "agreementUrl": [],
+  "signedAgreementUrl": [],
+  "__v": 0,
+  "firstName": "Андрей",
+  "phone": "+7665",
+  "walletAddress": "465idcikthyui",
+  "overallUSDTInvestments": 333.72827510393836,
+  "lastName": "Сырчин"
+},
+{
+  "_id": {
+    "$oid": "64bd3778b6a8323980b0d455"
+  },
+  "userUri": "email://metroy@mail.ru",
+  "isPassportVerified": true,
+  "crescoTokenBalance": 478.5,
+  "passportScanFiles": [],
+  "agreementUrl": [],
+  "signedAgreementUrl": [],
+  "__v": 0,
+  "walletAddress": "qpihpqurhvadv;ihavlhaevh",
+  "firstName": "Maxim",
+  "lastName": "Gogolev",
+  "middleName": "",
+  "overallUSDTInvestments": 20157.5804506
+},
+{
+  "_id": {
+    "$oid": "64bf7d1db0529fee15e4da98"
+  },
+  "userUri": "email://yaneona88@gmail.com",
+  "isPassportVerified": true,
+  "crescoTokenBalance": 305.5,
+  "passportScanFiles": [],
+  "agreementUrl": [],
+  "signedAgreementUrl": [],
+  "__v": 0,
+  "firstName": "Анна",
+  "lastName": "Иванова",
+  "walletAddress": "7tglfeyu87878",
+  "overallUSDTInvestments": 4289.1944627788735
+},
+{
+  "_id": {
+    "$oid": "651fd2e20f9e904921123a4f"
+  },
+  "userUri": "email://k.efizov@crescofinance.pro",
+  "isPassportVerified": true,
+  "crescoTokenBalance": 0,
+  "passportScanFiles": [],
+  "agreementUrl": [],
+  "signedAgreementUrl": [],
+  "__v": 0,
+  "firstName": "LOLA",
+  "lastName": "COLA",
+  "middleName": "POLA",
+  "walletAddress": "12312312312312541241refef1124312312312"
+},
+{
+  "_id": {
+    "$oid": "654b9a1e4e6af8a2db9e80b5"
+  },
+  "userUri": "email://chevnev58@gmail.com",
+  "isPassportVerified": true,
+  "crescoTokenBalance": 0,
+  "passportScanFiles": [],
+  "agreementUrl": [],
+  "signedAgreementUrl": [],
+  "__v": 0,
+  "firstName": "Andrey",
+  "lastName": "Shavnev",
+  "middleName": "",
+  "agreementNo": "CFI-16 of 15 August 2023 г.",
+  "managerFullName": "Сырчин Андрей"
+},
+{
+  "_id": {
+    "$oid": "654b9b034e6af8a2db9e8121"
+  },
+  "userUri": "email://Smehovaa@mail.ru",
+  "isPassportVerified": true,
+  "crescoTokenBalance": 0,
+  "passportScanFiles": [],
+  "agreementUrl": [],
+  "signedAgreementUrl": [],
+  "__v": 0,
+  "firstName": "Anastasiya",
+  "lastName": "Smekhova",
+  "agreementNo": "CFI-10 of 24 March 2022 ",
+  "managerFullName": "Сырчин Андрей"
+},
+{
+  "_id": {
+    "$oid": "654b9b894e6af8a2db9e8166"
+  },
+  "userUri": "email://Leo-y@yandex.ru",
+  "isPassportVerified": true,
+  "crescoTokenBalance": 0,
+  "passportScanFiles": [],
+  "agreementUrl": [],
+  "signedAgreementUrl": [],
+  "__v": 0,
+  "firstName": "Leonid",
+  "lastName": "Yakobson",
+  "agreementNo": "CFI-12 of 27 May 2022",
+  "managerFullName": "Яшаяев Игорь"
+},
+{
+  "_id": {
+    "$oid": "654b9bf74e6af8a2db9e819a"
+  },
+  "userUri": "email://pavel.a.orlov@gmail.com",
+  "isPassportVerified": true,
+  "crescoTokenBalance": 0,
+  "passportScanFiles": [],
+  "agreementUrl": [],
+  "signedAgreementUrl": [],
+  "__v": 0,
+  "firstName": "Pavel",
+  "lastName": "Orlov",
+  "agreementNo": "CFI-14 of 11 August 2022",
+  "managerFullName": "Кулибабина Елена"
+},
+{
+  "_id": {
+    "$oid": "65d71abf7f9e3605534f291d"
+  },
+  "userUri": "email://test@asdhajsdkjhasd.ru",
+  "isPassportVerified": false,
+  "crescoTokenBalance": 0,
+  "passportScanFiles": [],
+  "agreementUrl": [],
+  "signedAgreementUrl": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dc3b56f07e721be35ccc74"
+  },
+  "userUri": "email://nnstrahov@yandex.ru",
+  "isPassportVerified": false,
+  "crescoTokenBalance": 0,
+  "passportScanFiles": [],
+  "agreementUrl": [],
+  "signedAgreementUrl": [],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dc4e144e815da4f9ee0c8b"
+  },
+  "userUri": "email://tadaaa@lalaaaaa.ru",
+  "isPassportVerified": false,
+  "crescoTokenBalance": 0,
+  "passportScanFiles": [],
+  "agreementUrl": [],
+  "signedAgreementUrl": [],
+  "__v": 0
+}]
