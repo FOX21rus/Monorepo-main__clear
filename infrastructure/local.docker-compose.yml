@@ -1,0 +1,115 @@
+---
+version: "3.8"
+services:
+  backend:
+    image: "dr.metafora.dev/protos/core/backend/local:latest"
+    pull_policy: build
+    build:
+      context: "../"
+      dockerfile: "./infrastructure/backend/local.Dockerfile"
+    labels:
+      - "traefik.http.routers.protos-core-backend.tls=false"
+      - "traefik.http.routers.protos-core-backend.rule=Host(`backend.protos.dev.metafora.dev.docker.localhost`)||(Host(`protos.dev.metafora.dev.docker.localhost`)&&PathPrefix(`/graphql`))"
+      - "traefik.http.routers.protos-core-backend.entrypoints=web"
+    deploy:
+      labels:
+        - "traefik.http.routers.protos-core-backend.tls=false"
+        - "traefik.http.routers.protos-core-backend.rule=Host(`backend.protos.dev.metafora.dev.docker.localhost`)||(Host(`protos.dev.metafora.dev.docker.localhost`)&&PathPrefix(`/graphql`))"
+        - "traefik.http.routers.protos-core-backend.entrypoints=web"
+    networks:
+      metafora:
+        aliases:
+          - protos-core-backend
+    # volumes:
+      # - type: bind
+      #   source: "../"
+      #   target: "/opt/protos/core/backend/"
+      #   read_only: true
+      #   volume:
+      #     nocopy: true
+      # - type: volume
+      #   source: backend_node_modules
+      #   target: "/opt/protos/core/backend/node_modules/"
+      #   read_only: false
+      #   volume:
+      #     nocopy: false
+
+      # - type: volume
+      #   source: backend_dist
+      #   target: "/opt/protos/core/backend/apps/backend/dist"
+      #   read_only: false
+      #   volume:
+      #     nocopy: false
+  frontend:
+    image: "dr.metafora.dev/protos/core/frontend/local:latest"
+    pull_policy: build
+    build:
+      context: "../"
+      dockerfile: "./infrastructure/frontend/local.Dockerfile"
+    labels:
+      - "traefik.http.routers.protos-core-frontend.tls=false"
+      - "traefik.http.routers.protos-core-frontend.rule=Host(`protos.dev.metafora.dev.docker.localhost`)||Host(`frontend.protos.dev.metafora.dev.docker.localhost`)"
+      - "traefik.http.routers.protos-core-frontend.entrypoints=web"
+    deploy:
+      labels:
+        - "traefik.http.routers.protos-core-frontend.tls=false"
+        - "traefik.http.routers.protos-core-frontend.rule=Host(`protos.dev.metafora.dev.docker.localhost`)||Host(`frontend.protos.dev.metafora.dev.docker.localhost`)"
+        - "traefik.http.routers.protos-core-frontend.entrypoints=web"
+    networks:
+      metafora:
+        aliases:
+          - protos-core-frontend
+
+  queue:
+    volumes:
+      - type: volume
+        source: queue_data
+        target: /data
+        read_only: false
+
+  queue-ui:
+    image: "rediscommander/redis-commander:latest"
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.protos-core-queue-ui.tls=false"
+      - "traefik.http.services.protos-core-queue-ui.loadbalancer.server.port=8081"
+      - "traefik.http.routers.protos-core-queue-ui.service=protos-core-queue-ui"
+      - "traefik.http.routers.protos-core-queue-ui.rule=Host(`queue-ui.protos.dev.metafora.dev.docker.localhost`)"
+      - "traefik.http.routers.protos-core-queue-ui.entrypoints=web"
+    deploy:
+      labels:
+        - "traefik.enable=true"
+        - "traefik.http.routers.protos-core-queue-ui.tls=false"
+        - "traefik.http.services.protos-core-queue-ui.loadbalancer.server.port=8081"
+        - "traefik.http.routers.protos-core-queue-ui.service=protos-core-queue-ui"
+        - "traefik.http.routers.protos-core-queue-ui.rule=Host(`queue-ui.protos.dev.metafora.dev.docker.localhost`)"
+        - "traefik.http.routers.protos-core-queue-ui.entrypoints=web"
+    environment:
+      - "REDIS_HOST=protos-core-queue"
+    networks:
+      protos:
+        aliases:
+          - protos-core-queue-ui
+      protos-core:
+        aliases:
+          - protos-core-queue-ui
+      metafora:
+        aliases:
+          - protos-core-queue-ui
+
+networks:
+  metafora:
+    external: true
+    name: metafora
+
+volumes:
+  backend_node_modules:
+    external:
+      name: protos-core-backend_node_modules
+  backend_dist:
+    external:
+      name: protos-core-backend_dist
+  queue_data:
+      external:
+        name: protos-core-queue_data
+...

@@ -1,0 +1,7 @@
+query crescoGetExternalCoinsRates{
+    crescoGetExternalCoinsRates{
+        displayName
+        name
+        rate
+    }
+}

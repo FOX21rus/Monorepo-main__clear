@@ -1,0 +1,7 @@
+query crescoGetCrescoTokenRateHistory($forPeriod: CrescoTokenRatesPeriod){
+    crescoGetCrescoTokenRateHistory(forPeriod: $forPeriod){
+        crescoTokensAmount
+        rateUSDT
+        ts
+    }
+}

@@ -1,0 +1,3 @@
+query crescoGetDepositInfoByAgreementNumber($agreementNo: String!){
+    crescoGetDepositInfoByAgreementNumber(agreementNo: $agreementNo)
+}

@@ -1,0 +1,3 @@
+mutation crescoAdminTransactionSetStatus($status: CrescoTransactionStatus, $transactionId: String){
+    crescoAdminTransactionSetStatus(status: $status, transactionId: $transactionId)
+}

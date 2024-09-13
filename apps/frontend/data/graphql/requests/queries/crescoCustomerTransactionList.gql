@@ -1,0 +1,13 @@
+query crescoCustomerTransactionList{
+    crescoCustomerTransactionList{
+        _id
+        amountCrescoTokens
+        amountUSDT
+        createdAt
+        fromWallet
+        status
+        toWallet
+        transactionType
+        userUri
+    }
+}

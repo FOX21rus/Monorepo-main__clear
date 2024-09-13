@@ -1,0 +1,27 @@
+deploy-production:
+  image: lotygerodistribution/docker-compose
+  stage: deploy
+  tags:
+    - docker
+  environment:
+    name: production-deploy
+    url: https://cresco.production.metafora.dev
+  variables:
+    COMPOSE_TEMP_PATH: ".tmp"
+
+    DOCKER_SWARM_HOST: "${DOCKER_SWARM_HOST}"
+
+    CRESCO_DB_MONGO_CONNECTION_STRING: "${CRESCO_DB_MONGO_CONNECTION_STRING}"
+    CRESCO_STORAGE_S3_BUCKET_ENDPOINT: "${CRESCO_STORAGE_S3_BUCKET_ENDPOINT}"
+    CRESCO_STORAGE_S3_BUCKET_NAME: "${CRESCO_STORAGE_S3_BUCKET_NAME}"
+    CRESCO_STORAGE_S3_BUCKET_ACCESS_KEY_ID: "${CRESCO_STORAGE_S3_BUCKET_ACCESS_KEY_ID}"
+    CRESCO_STORAGE_S3_BUCKET_SECRET_KEY: "${CRESCO_STORAGE_S3_BUCKET_SECRET_KEY}"
+    CRESCO_JWT_SECRET_KEY: "${CRESCO_JWT_SECRET_KEY}"
+    CRESCO_SENDER_SMTP_PASSWORD: "${CRESCO_SENDER_SMTP_PASSWORD}"
+
+  script:
+    - "./bin/docker-compose-render.sh"
+    - "./bin/docker-registry-login.sh"
+    - "./bin/docker-compose-pull.sh"
+    - "./bin/docker-swarm-networks.sh"
+    - "./bin/docker-swarm-deploy.sh"

@@ -1,0 +1,7 @@
+mutation signInViaPhoneAndOTP($otp: String!, $phone: String!){
+    signInViaPhoneAndOTP(otp: $otp, phone: $phone){
+        classicUserMode
+        signature
+        token
+    }
+}

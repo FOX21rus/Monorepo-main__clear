@@ -1,0 +1,3 @@
+mutation recoverRequestVerificationCodeByEmail($email: String!){
+    recoverRequestVerificationCodeByEmail(email: $email)
+}

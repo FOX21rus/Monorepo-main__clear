@@ -1,0 +1,9 @@
+query crescoAdminGetLastPortfolioState{
+    crescoAdminGetLastPortfolioState{
+        _id
+        createdAt
+        createdByUserUri
+        crescoTokensOverallAmount
+        currenciesAmountsHashmap
+    }
+}

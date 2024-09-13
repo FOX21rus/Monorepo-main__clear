@@ -1,0 +1,3 @@
+mutation crescoCustomerTransactionCreate($amountCrescoTokens: Float!, $customerWallet: String!, $transactionType: CrescoTransactionTypeEnum!){
+    crescoCustomerTransactionCreate(amountCrescoTokens: $amountCrescoTokens, customerWallet: $customerWallet, transactionType: $transactionType)
+}

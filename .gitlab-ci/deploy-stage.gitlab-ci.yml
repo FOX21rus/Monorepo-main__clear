@@ -1,0 +1,25 @@
+deploy-stage:
+  image: lotygerodistribution/docker-compose
+  stage: deploy
+  tags:
+    - docker
+  environment:
+    name: stage-deploy
+    url: https://misc.stage.dev.metafora.dev
+  variables:
+    COMPOSE_TEMP_PATH: ".tmp"
+    DOCKER_SWARM_HOST: "${DOCKER_SWARM_HOST}"
+
+#    PROTOS_DB_MONGO_CONNECTION_STRING: "${PROTOS_DB_MONGO_CONNECTION_STRING}"
+#    PROTOS_STEP_COUNTER_BOT_TELEGRAM_BOT_KEY: "${PROTOS_STEP_COUNTER_BOT_TELEGRAM_BOT_KEY}"
+#
+#    PROTOS_JWT_SECRET_KEY: "${PROTOS_JWT_SECRET_KEY}"
+#
+#    PROTOS_STORAGE_S3_BUCKET_ACCESS_KEY_ID: "${PROTOS_STORAGE_S3_BUCKET_ACCESS_KEY_ID}"
+#    PROTOS_STORAGE_S3_BUCKET_SECRET_KEY: "${PROTOS_STORAGE_S3_BUCKET_SECRET_KEY}"
+  script:
+    - "./bin/docker-compose-render.sh"
+    - "./bin/docker-registry-login.sh"
+    - "./bin/docker-compose-pull.sh"
+    - "./bin/docker-swarm-networks.sh"
+    - "./bin/docker-swarm-deploy.sh"

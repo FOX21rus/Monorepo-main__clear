@@ -1,0 +1,3 @@
+mutation crescoCustomerClassicRequestFullReport($agreementNo: String!){
+    crescoCustomerClassicRequestFullReport(agreementNo: $agreementNo)
+}

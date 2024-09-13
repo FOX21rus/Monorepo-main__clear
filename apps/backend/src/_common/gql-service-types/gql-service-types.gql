@@ -1,0 +1,11 @@
+#FixMe bundle with generator
+
+directive @entity on OBJECT
+
+directive @child(postfix:String) repeatable on FIELD_DEFINITION
+scalar Date
+scalar JSON
+enum MutationStatus {
+    OK
+    ERROR
+}

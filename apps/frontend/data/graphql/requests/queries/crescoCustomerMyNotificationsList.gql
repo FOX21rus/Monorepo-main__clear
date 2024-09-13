@@ -1,0 +1,12 @@
+query crescoCustomerMyNotificationsList{
+    crescoCustomerMyNotificationsList{
+        createdAt
+        cta
+        ctaUrl
+        emotion
+        isRead
+        text
+        title
+        userUri
+    }
+}

@@ -1,0 +1,3 @@
+mutation crescoAdminSetAdminRoles($roles: [String!]!, $userUri: String!){
+    crescoAdminSetAdminRoles(roles: $roles, userUri: $userUri)
+}

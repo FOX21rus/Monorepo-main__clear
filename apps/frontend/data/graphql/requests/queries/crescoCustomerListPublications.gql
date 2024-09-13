@@ -1,0 +1,12 @@
+query crescoCustomerListPublications{
+    crescoCustomerListPublications{
+        createdAt
+        id
+        imageUrl{
+            name
+            url
+        }
+        text
+        title
+    }
+}

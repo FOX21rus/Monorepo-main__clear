@@ -1,0 +1,333 @@
+directive @acl(create: [String], ownUserUri: Boolean, read: [String], write: [String]) repeatable on FIELD_DEFINITION | OBJECT
+
+directive @child(postfix: String) repeatable on FIELD_DEFINITION
+
+directive @comment(text: String!) on FIELD_DEFINITION | OBJECT
+
+directive @default(string: String) on FIELD_DEFINITION
+
+directive @entity on OBJECT
+
+directive @example(floatValue: Float, intValue: Int, random: RandomizerEnum, stringValue: String) on FIELD_DEFINITION
+
+directive @examples on OBJECT
+
+directive @externalId on FIELD_DEFINITION
+
+directive @field(description: String, displayTitle: String, fieldType: FieldTypeEnum, options: [String!], queryResolverName: String, title: String!) repeatable on FIELD_DEFINITION | INPUT_FIELD_DEFINITION
+
+directive @fieldset on INPUT_OBJECT | OBJECT
+
+directive @future(version: String) on FIELD_DEFINITION
+
+directive @input on OBJECT
+
+directive @mongoose on OBJECT
+
+directive @populate on FIELD_DEFINITION
+
+directive @resolver(name: String!) repeatable on OBJECT
+
+directive @resolvers on OBJECT
+
+type AuthResultDto {
+  classicUserMode: Boolean
+  signature: String
+  token: String!
+}
+
+type CrescoCustomer {
+  agreementNo: String
+  agreementUrl: [FileUrl!]
+  crescoTokenBalance: Float
+  firstName: String
+  isPassportVerified: Boolean
+  isPrepared: Boolean
+  lastName: String
+  managerFullName: String
+  middleName: String
+  overallUSDTInvestments: Float
+  passportScanFiles: [FileUrl!]
+  phone: String
+  signedAgreementUrl: [FileUrl!]
+  userUri: String
+  walletAddress: String
+}
+
+input CrescoCustomerAdminInput {
+  agreementNo: String
+  agreementUrl: [FileUrlInput!]
+  crescoTokenBalance: Float
+  isPassportVerified: Boolean
+  managerFullName: String
+  overallUSDTInvestments: Float
+  userUri: String
+}
+
+input CrescoCustomerCustomerInput {
+  firstName: String
+  lastName: String
+  middleName: String
+  passportScanFiles: [FileUrlInput!]
+  phone: String
+  signedAgreementUrl: [FileUrlInput!]
+  walletAddress: String
+}
+
+type CrescoDeposit {
+  depositNo: String
+  finishDate: Date
+  percentRate: Float
+  startDate: Date
+}
+
+input CrescoDepositInput {
+  depositNo: String!
+  finishDate: String!
+  percentRate: Float!
+  startDate: String!
+}
+
+type CrescoDeposits {
+  name: String
+  payload: JSON
+}
+
+type CrescoExternalCoinRate {
+  displayName: String
+  name: String
+  rate: Float
+}
+
+type CrescoExternalCoinRateHistory {
+  createdAt: Date
+  displayName: String
+  name: String
+  rate: Float
+}
+
+type CrescoNotification {
+  createdAt: Date
+  cta: String
+  ctaUrl: String
+  emotion: Int
+  isRead: Boolean
+  text: String!
+  title: String
+  userUri: String!
+}
+
+input CrescoNotificationInput {
+  cta: String
+  ctaUrl: String
+  emotion: Int
+  text: String!
+  title: String
+  userUri: String!
+}
+
+type CrescoPortfolioState {
+  _id: ID
+  createdAt: Date
+  createdByUserUri: String
+  crescoTokensOverallAmount: Float
+  currenciesAmountsHashmap: JSON
+}
+
+type CrescoPublication {
+  createdAt: Date
+  id: String!
+  imageUrl: [FileUrl!]
+  text: String!
+  title: String!
+}
+
+input CrescoPublicationInput {
+  id: String
+  imageUrl: [FileUrlInput!]
+  text: String!
+  title: String!
+}
+
+type CrescoReportFile {
+  fileUrl: String
+}
+
+type CrescoTokenRate {
+  crescoTokensAmount: Float!
+  rateUSDT: Float!
+  ts: Date!
+}
+
+enum CrescoTokenRatesPeriod {
+  ALL
+  DAY
+  INSTANT
+  MONTH
+  MONTH3
+  WEEK
+  YEAR
+}
+
+type CrescoTransaction {
+  _id: ID
+  amountCrescoTokens: Float!
+  amountUSDT: Float!
+  createdAt: Date!
+  fromWallet: String!
+  status: CrescoTransactionStatus
+  toWallet: String!
+  transactionType: CrescoTransactionTypeEnum
+  userUri: String
+}
+
+input CrescoTransactionInput {
+  amountUSDT: Float!
+  transactionType: CrescoTransactionTypeEnum
+  userUri: String
+}
+
+enum CrescoTransactionStatus {
+  APPROVED
+  FAILED
+  PENDING
+  PRE_APPROVED
+  ROBOT_APPROVED
+}
+
+enum CrescoTransactionTypeEnum {
+  CLIENT_BUY_TOKENS
+  CLIENT_SELL_TOKENS
+}
+
+enum CrescoUserRoles {
+  admin
+  admin_customers
+  all
+  customer
+  dismissed
+  service_token
+  super_admin
+}
+
+scalar Date
+
+enum FieldTypeEnum {
+  CrescoManagerSelector
+  DICTIONARY
+  EXTERNAL_OBJECT
+  FILE_URL
+  FILE_URLS
+  MANAGER_SELECTOR
+  MARKDOWN
+  MARKDOWN_LINE
+}
+
+type FileUrl {
+  name: String!
+  url: String!
+}
+
+input FileUrlInput {
+  name: String!
+  url: String!
+}
+
+scalar JSON
+
+type Mutation {
+  createOrFindUserViaTelegramInitData(telegramInitData: String!): String!
+  crescoAdminCreateNewPortfolioState(coinBalances: JSON!, crescoTokensOverallAmount: Float!): String!
+  crescoAdminSendNotification(input: CrescoNotificationInput, isBroadcast: Boolean): String!
+  crescoAdminSetAdminRoles(roles: [String!]!, userUri: String!): String!
+  crescoAdminTransactionSetStatus(status: CrescoTransactionStatus, transactionId: String): String
+  crescoAdminUpsertCustomerProfile(input: CrescoCustomerAdminInput): String!
+  crescoAdminUpsertPublication(input: CrescoPublicationInput): String!
+  crescoCustomerClassicRequestFullReport(agreementNo: String!): String!
+  crescoCustomerClassicRequestUSDTDeposit(agreementNo: String!, amount: Float!, walletAddress: String!): String!
+  crescoCustomerClassicRequestWithdrawal(agreementNo: String!): String!
+  crescoCustomerTransactionCreate(amountCrescoTokens: Float!, customerWallet: String!, transactionType: CrescoTransactionTypeEnum!): String
+  crescoCustomerUpsertMyProfile(input: CrescoCustomerCustomerInput): String!
+  crescoTestInitData: String
+  recoverRequestVerificationCodeByEmail(email: String!): String!
+  recoverViaEmailAndCode(code: String!, email: String!): String!
+  signInViaEmailAndPassword(email: String!, password: String!): AuthResultDto!
+  signInViaPhoneAndOTP(otp: String!, phone: String!): AuthResultDto!
+  signInViaPhoneRequestOTP(phone: String!): String!
+  signUpViaEmailAndPassword(email: String!, isAdmin: Boolean, password: String!): String!
+  signUpViaEmailPhoneAndPassword(email: String!, isAdmin: Boolean, password: String!, phone: String!): String!
+}
+
+enum MutationStatus {
+  ERROR
+  OK
+}
+
+type Query {
+  crescoAdminGetAdminList: [User!]!
+  crescoAdminGetCustomerList(userUri: String): [CrescoCustomer!]!
+  crescoAdminGetCustomerProfile(userUri: String): CrescoCustomer!
+  crescoAdminGetLastPortfolioState: CrescoPortfolioState!
+  crescoAdminTransactionCheckInEth(transactionId: String): String
+  crescoAdminTransactionList(status: CrescoTransactionStatus): [CrescoTransaction!]!
+  crescoCheckUserClassicByAgreementNoAndLastName(agreementNo: String!, lastName: String!): Boolean!
+  crescoCustomerGetCalculatedBalance: Float!
+  crescoCustomerGetMyProfile: CrescoCustomer!
+  crescoCustomerGetProfitability: Float!
+  crescoCustomerHasUnreadNotifications: Boolean!
+  crescoCustomerListPublications: [CrescoPublication!]!
+  crescoCustomerMyNotificationsList: [CrescoNotification!]!
+  crescoCustomerTransactionList: [CrescoTransaction!]!
+  crescoGetCrescoTokenRateHistory(forPeriod: CrescoTokenRatesPeriod): [CrescoTokenRate!]!
+  crescoGetCurrentCrescoTokenRate: CrescoTokenRate!
+  crescoGetDepositInfoByAgreementNumber(agreementNo: String!): JSON
+  crescoGetExternalCoinsRates: [CrescoExternalCoinRate!]!
+  crescoGetExternalCoinsRatesHistory(limit: Int!): [CrescoExternalCoinRateHistory!]!
+  crescoGetMyDepositInfo: JSON
+  getMe(token: String): UserJWTPayload!
+  huobiGetData: String
+  userCreate(email: String!, password: String!): String
+}
+
+enum RandomizerEnum {
+  USER_ID
+}
+
+type ServiceFunctions {
+  crescoRobotCheckEthScanTransaction: String
+  crescoUpdateCustomerBalance: String
+  crescoUpdateRates: String
+}
+
+type TelegramMessage {
+  _id: ID
+  rawData: JSON
+  telegramBotName: String
+  telegramChatId: Int
+}
+
+type User {
+  agreementName: String
+  agreementNames: [String!]
+  displayName: String
+  email: String
+  emails: [String!]
+  otp: String
+  otpExpiresAt: Date
+  passwordHash: String
+  phone: String
+  phones: [String!]
+  roles: [String!]
+  rolesJwt: [String!]
+  scope: String
+  signature: String
+  telegramId: String
+  telegramIds: String
+}
+
+type UserJWTPayload {
+  displayName: String
+  email: String
+  rolesJWT: [String!]
+  userUri: String!
+}

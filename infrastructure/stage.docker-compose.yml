@@ -1,0 +1,118 @@
+---
+version: "3.8"
+
+#protos.stage.dev.metafora.dev
+
+services:
+  backend:
+    image: "dr.metafora.dev/protos/core/backend/stage:latest"
+    labels:
+      - "traefik.http.routers.protos-core-backend.rule=Host(`backend.protos.stage.dev.metafora.dev`)||(Host(`protos.stage.dev.metafora.dev`)&&(PathPrefix(`/graphql`)||PathPrefix(`/api`)))"
+      - "traefik.http.routers.protos-core-backend.entrypoints=web,websecure"
+
+      - "traefik.http.routers.protos-core-backend.tls=true"
+      - "traefik.http.routers.protos-core-backend.tls.certresolver=http-cert"
+      - "traefik.http.routers.protos-core-backend.tls.domains[0].main=protos.stage.dev.metafora.dev"
+      - "traefik.http.routers.protos-core-backend.tls.domains[0].sans=backend.protos.stage.dev.metafora.dev"
+
+
+      - "traefik.http.routers.protos-core-backend-misc.service=protos-core-backend"
+
+      - "traefik.http.routers.protos-core-backend-misc.rule=Host(`backend.misc.stage.dev.metafora.dev`)||(Host(`protos.misc.dev.metafora.dev`)&&(PathPrefix(`/graphql`)||PathPrefix(`/api`)))"
+      - "traefik.http.routers.protos-core-backend-misc.entrypoints=web,websecure"
+
+      - "traefik.http.routers.protos-core-backend-misc.tls=true"
+      - "traefik.http.routers.protos-core-backend-misc.tls.certresolver=http-cert"
+      - "traefik.http.routers.protos-core-backend-misc.tls.domains[0].main=misc.stage.dev.metafora.dev"
+      - "traefik.http.routers.protos-core-backend-misc.tls.domains[0].sans=backend.misc.stage.dev.metafora.dev"
+
+    deploy:
+      labels:
+        - "traefik.http.routers.protos-core-backend.rule=Host(`backend.protos.stage.dev.metafora.dev`)||(Host(`protos.stage.dev.metafora.dev`)&&(PathPrefix(`/graphql`)||PathPrefix(`/api`)))"
+        - "traefik.http.routers.protos-core-backend.entrypoints=web,websecure"
+
+        - "traefik.http.routers.protos-core-backend.tls=true"
+        - "traefik.http.routers.protos-core-backend.tls.certresolver=http-cert"
+        - "traefik.http.routers.protos-core-backend.tls.domains[0].main=protos.stage.dev.metafora.dev"
+        - "traefik.http.routers.protos-core-backend.tls.domains[0].sans=backend.protos.stage.dev.metafora.dev"
+
+
+        - "traefik.http.routers.protos-core-backend-misc.service=protos-core-backend"
+
+        - "traefik.http.routers.protos-core-backend-misc.rule=Host(`backend.misc.stage.dev.metafora.dev`)||(Host(`protos.misc.dev.metafora.dev`)&&(PathPrefix(`/graphql`)||PathPrefix(`/api`)))"
+        - "traefik.http.routers.protos-core-backend-misc.entrypoints=web,websecure"
+
+        - "traefik.http.routers.protos-core-backend-misc.tls=true"
+        - "traefik.http.routers.protos-core-backend-misc.tls.certresolver=http-cert"
+        - "traefik.http.routers.protos-core-backend-misc.tls.domains[0].main=misc.stage.dev.metafora.dev"
+        - "traefik.http.routers.protos-core-backend-misc.tls.domains[0].sans=backend.misc.stage.dev.metafora.dev"
+    environment:
+      - "STEP_COUNTER_BOT_TELEGRAM_NAME=metaforest_step_counter_test_bot"
+      - "STEP_COUNTER_BOT_TELEGRAM_WEBHOOK_URL=https://protos.stage.dev.metafora.dev/api/metaforest/step-counter/webhook"
+      #
+      - "WEBAPP_URL=https://web-app.meta-forest.stage.dev.metafora.dev"
+      #
+      - "STEP_COUNTER_BOT_TELEGRAM_BOT_KEY=${PROTOS_STEP_COUNTER_BOT_TELEGRAM_BOT_KEY}"
+      #
+      - "PROTOS_STORAGE_S3_BUCKET_ENDPOINT=https://hb.bizmrg.com"
+      - "PROTOS_STORAGE_S3_BUCKET_NAME=protos-stage"
+      - "PROTOS_STORAGE_S3_BUCKET_ACCESS_KEY_ID=${PROTOS_STORAGE_S3_BUCKET_ACCESS_KEY_ID}"
+      - "PROTOS_STORAGE_S3_BUCKET_SECRET_KEY=${PROTOS_STORAGE_S3_BUCKET_SECRET_KEY}"
+    networks:
+      metafora:
+        aliases:
+          - protos-core-backend
+
+  frontend:
+    image: "dr.metafora.dev/protos/core/frontend/stage:latest"
+    labels:
+      - "traefik.http.routers.protos-core-frontend.rule=Host(`protos.stage.dev.metafora.dev`)||Host(`frontend.protos.stage.dev.metafora.dev`)"
+      - "traefik.http.routers.protos-core-frontend.entrypoints=web,websecure"
+
+      - "traefik.http.routers.protos-core-frontend.tls=true"
+      - "traefik.http.routers.protos-core-frontend.tls.certresolver=http-cert"
+      - "traefik.http.routers.protos-core-frontend.tls.domains[0].main=protos.stage.dev.metafora.dev"
+      - "traefik.http.routers.protos-core-frontend.tls.domains[0].sans=frontend.protos.stage.dev.metafora.dev"
+
+
+      - "traefik.http.routers.protos-core-frontend-misc.service=protos-core-frontend"
+
+      - "traefik.http.routers.protos-core-frontend-misc.rule=Host(`misc.stage.dev.metafora.dev`)||Host(`frontend.misc.stage.dev.metafora.dev`)"
+      - "traefik.http.routers.protos-core-frontend-misc.entrypoints=web,websecure"
+
+      - "traefik.http.routers.protos-core-frontend-misc.tls=true"
+      - "traefik.http.routers.protos-core-frontend-misc.tls.certresolver=http-cert"
+      - "traefik.http.routers.protos-core-frontend-misc.tls.domains[0].main=misc.stage.dev.metafora.dev"
+      - "traefik.http.routers.protos-core-frontend-misc.tls.domains[0].sans=frontend.misc.stage.dev.metafora.dev"
+
+    deploy:
+      labels:
+        - "traefik.http.routers.protos-core-frontend.rule=Host(`protos.stage.dev.metafora.dev`)||Host(`frontend.protos.stage.dev.metafora.dev`)"
+        - "traefik.http.routers.protos-core-frontend.entrypoints=web,websecure"
+
+        - "traefik.http.routers.protos-core-frontend.tls=true"
+        - "traefik.http.routers.protos-core-frontend.tls.certresolver=http-cert"
+        - "traefik.http.routers.protos-core-frontend.tls.domains[0].main=protos.stage.dev.metafora.dev"
+        - "traefik.http.routers.protos-core-frontend.tls.domains[0].sans=frontend.protos.stage.dev.metafora.dev"
+
+        - "traefik.http.routers.protos-core-frontend-misc.service=protos-core-frontend"
+
+        - "traefik.http.routers.protos-core-frontend-misc.rule=Host(`misc.stage.dev.metafora.dev`)||Host(`frontend.misc.stage.dev.metafora.dev`)"
+        - "traefik.http.routers.protos-core-frontend-misc.entrypoints=web,websecure"
+
+        - "traefik.http.routers.protos-core-frontend-misc.tls=true"
+        - "traefik.http.routers.protos-core-frontend-misc.tls.certresolver=http-cert"
+        - "traefik.http.routers.protos-core-frontend-misc.tls.domains[0].main=misc.stage.dev.metafora.dev"
+        - "traefik.http.routers.protos-core-frontend-misc.tls.domains[0].sans=frontend.misc.stage.dev.metafora.dev"
+
+    networks:
+      metafora:
+        aliases:
+          - protos-core-frontend
+
+
+networks:
+  metafora:
+    external: true
+    name: metafora
+...

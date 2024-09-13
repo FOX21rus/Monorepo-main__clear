@@ -1,0 +1,26 @@
+const fs = require('fs');
+const path = require('path');
+
+module.exports.crescoAdminGetAdminList = fs.readFileSync(path.join(__dirname, 'crescoAdminGetAdminList.gql'), 'utf8');
+module.exports.crescoAdminGetCustomerList = fs.readFileSync(path.join(__dirname, 'crescoAdminGetCustomerList.gql'), 'utf8');
+module.exports.crescoAdminGetCustomerProfile = fs.readFileSync(path.join(__dirname, 'crescoAdminGetCustomerProfile.gql'), 'utf8');
+module.exports.crescoAdminGetLastPortfolioState = fs.readFileSync(path.join(__dirname, 'crescoAdminGetLastPortfolioState.gql'), 'utf8');
+module.exports.crescoAdminTransactionCheckInEth = fs.readFileSync(path.join(__dirname, 'crescoAdminTransactionCheckInEth.gql'), 'utf8');
+module.exports.crescoAdminTransactionList = fs.readFileSync(path.join(__dirname, 'crescoAdminTransactionList.gql'), 'utf8');
+module.exports.crescoCheckUserClassicByAgreementNoAndLastName = fs.readFileSync(path.join(__dirname, 'crescoCheckUserClassicByAgreementNoAndLastName.gql'), 'utf8');
+module.exports.crescoCustomerGetCalculatedBalance = fs.readFileSync(path.join(__dirname, 'crescoCustomerGetCalculatedBalance.gql'), 'utf8');
+module.exports.crescoCustomerGetMyProfile = fs.readFileSync(path.join(__dirname, 'crescoCustomerGetMyProfile.gql'), 'utf8');
+module.exports.crescoCustomerGetProfitability = fs.readFileSync(path.join(__dirname, 'crescoCustomerGetProfitability.gql'), 'utf8');
+module.exports.crescoCustomerHasUnreadNotifications = fs.readFileSync(path.join(__dirname, 'crescoCustomerHasUnreadNotifications.gql'), 'utf8');
+module.exports.crescoCustomerListPublications = fs.readFileSync(path.join(__dirname, 'crescoCustomerListPublications.gql'), 'utf8');
+module.exports.crescoCustomerMyNotificationsList = fs.readFileSync(path.join(__dirname, 'crescoCustomerMyNotificationsList.gql'), 'utf8');
+module.exports.crescoCustomerTransactionList = fs.readFileSync(path.join(__dirname, 'crescoCustomerTransactionList.gql'), 'utf8');
+module.exports.crescoGetCrescoTokenRateHistory = fs.readFileSync(path.join(__dirname, 'crescoGetCrescoTokenRateHistory.gql'), 'utf8');
+module.exports.crescoGetCurrentCrescoTokenRate = fs.readFileSync(path.join(__dirname, 'crescoGetCurrentCrescoTokenRate.gql'), 'utf8');
+module.exports.crescoGetDepositInfoByAgreementNumber = fs.readFileSync(path.join(__dirname, 'crescoGetDepositInfoByAgreementNumber.gql'), 'utf8');
+module.exports.crescoGetExternalCoinsRates = fs.readFileSync(path.join(__dirname, 'crescoGetExternalCoinsRates.gql'), 'utf8');
+module.exports.crescoGetExternalCoinsRatesHistory = fs.readFileSync(path.join(__dirname, 'crescoGetExternalCoinsRatesHistory.gql'), 'utf8');
+module.exports.crescoGetMyDepositInfo = fs.readFileSync(path.join(__dirname, 'crescoGetMyDepositInfo.gql'), 'utf8');
+module.exports.getMe = fs.readFileSync(path.join(__dirname, 'getMe.gql'), 'utf8');
+module.exports.huobiGetData = fs.readFileSync(path.join(__dirname, 'huobiGetData.gql'), 'utf8');
+module.exports.userCreate = fs.readFileSync(path.join(__dirname, 'userCreate.gql'), 'utf8');

@@ -1,0 +1,9 @@
+[submodule "apps/backend/src/common"]
+	url = ../../protos/libs/common/common-nestjs.git
+	path = apps/backend/src/common
+[submodule "apps/frontend/common"]
+	url = ../../protos/libs/common/common-next.git
+	path = apps/frontend/common
+[submodule "common/utils"]
+	url = ../../protos/libs/common/common-utils.git
+	path = common/utils

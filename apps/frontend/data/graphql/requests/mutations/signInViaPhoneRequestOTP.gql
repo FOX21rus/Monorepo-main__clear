@@ -1,0 +1,3 @@
+mutation signInViaPhoneRequestOTP($phone: String!){
+    signInViaPhoneRequestOTP(phone: $phone)
+}

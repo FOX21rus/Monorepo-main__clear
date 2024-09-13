@@ -1,0 +1,8 @@
+query crescoGetExternalCoinsRatesHistory($limit: Int!){
+    crescoGetExternalCoinsRatesHistory(limit: $limit){
+        createdAt
+        displayName
+        name
+        rate
+    }
+}

@@ -1,0 +1,23 @@
+const fs = require('fs');
+const path = require('path');
+
+module.exports.createOrFindUserViaTelegramInitData = fs.readFileSync(path.join(__dirname, 'createOrFindUserViaTelegramInitData.gql'), 'utf8');
+module.exports.crescoAdminCreateNewPortfolioState = fs.readFileSync(path.join(__dirname, 'crescoAdminCreateNewPortfolioState.gql'), 'utf8');
+module.exports.crescoAdminSendNotification = fs.readFileSync(path.join(__dirname, 'crescoAdminSendNotification.gql'), 'utf8');
+module.exports.crescoAdminSetAdminRoles = fs.readFileSync(path.join(__dirname, 'crescoAdminSetAdminRoles.gql'), 'utf8');
+module.exports.crescoAdminTransactionSetStatus = fs.readFileSync(path.join(__dirname, 'crescoAdminTransactionSetStatus.gql'), 'utf8');
+module.exports.crescoAdminUpsertCustomerProfile = fs.readFileSync(path.join(__dirname, 'crescoAdminUpsertCustomerProfile.gql'), 'utf8');
+module.exports.crescoAdminUpsertPublication = fs.readFileSync(path.join(__dirname, 'crescoAdminUpsertPublication.gql'), 'utf8');
+module.exports.crescoCustomerClassicRequestFullReport = fs.readFileSync(path.join(__dirname, 'crescoCustomerClassicRequestFullReport.gql'), 'utf8');
+module.exports.crescoCustomerClassicRequestUSDTDeposit = fs.readFileSync(path.join(__dirname, 'crescoCustomerClassicRequestUSDTDeposit.gql'), 'utf8');
+module.exports.crescoCustomerClassicRequestWithdrawal = fs.readFileSync(path.join(__dirname, 'crescoCustomerClassicRequestWithdrawal.gql'), 'utf8');
+module.exports.crescoCustomerTransactionCreate = fs.readFileSync(path.join(__dirname, 'crescoCustomerTransactionCreate.gql'), 'utf8');
+module.exports.crescoCustomerUpsertMyProfile = fs.readFileSync(path.join(__dirname, 'crescoCustomerUpsertMyProfile.gql'), 'utf8');
+module.exports.crescoTestInitData = fs.readFileSync(path.join(__dirname, 'crescoTestInitData.gql'), 'utf8');
+module.exports.recoverRequestVerificationCodeByEmail = fs.readFileSync(path.join(__dirname, 'recoverRequestVerificationCodeByEmail.gql'), 'utf8');
+module.exports.recoverViaEmailAndCode = fs.readFileSync(path.join(__dirname, 'recoverViaEmailAndCode.gql'), 'utf8');
+module.exports.signInViaEmailAndPassword = fs.readFileSync(path.join(__dirname, 'signInViaEmailAndPassword.gql'), 'utf8');
+module.exports.signInViaPhoneAndOTP = fs.readFileSync(path.join(__dirname, 'signInViaPhoneAndOTP.gql'), 'utf8');
+module.exports.signInViaPhoneRequestOTP = fs.readFileSync(path.join(__dirname, 'signInViaPhoneRequestOTP.gql'), 'utf8');
+module.exports.signUpViaEmailAndPassword = fs.readFileSync(path.join(__dirname, 'signUpViaEmailAndPassword.gql'), 'utf8');
+module.exports.signUpViaEmailPhoneAndPassword = fs.readFileSync(path.join(__dirname, 'signUpViaEmailPhoneAndPassword.gql'), 'utf8');

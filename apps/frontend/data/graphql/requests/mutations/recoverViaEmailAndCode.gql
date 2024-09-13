@@ -1,0 +1,3 @@
+mutation recoverViaEmailAndCode($code: String!, $email: String!){
+    recoverViaEmailAndCode(code: $code, email: $email)
+}

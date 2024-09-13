@@ -1,0 +1,17 @@
+build-frontend-production:
+  image: docker:dind
+  stage: build
+  tags:
+    - docker
+  environment:
+    name: production-build-frontend
+    url: https://cresco.production.metafora.dev
+  services:
+    - docker:dind
+  variables:
+    SERVICE: "frontend"
+  script:
+    - "./bin/docker-registry-login.sh"
+    - "./bin/docker-image-build.sh"
+    - "./bin/docker-image-push.sh"
+    - "./bin/docker-image-clean.sh"

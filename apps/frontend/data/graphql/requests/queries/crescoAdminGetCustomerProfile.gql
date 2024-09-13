@@ -1,0 +1,28 @@
+query crescoAdminGetCustomerProfile($userUri: String){
+    crescoAdminGetCustomerProfile(userUri: $userUri){
+        agreementNo
+        agreementUrl{
+            name
+            url
+        }
+        crescoTokenBalance
+        firstName
+        isPassportVerified
+        isPrepared
+        lastName
+        managerFullName
+        middleName
+        overallUSDTInvestments
+        passportScanFiles{
+            name
+            url
+        }
+        phone
+        signedAgreementUrl{
+            name
+            url
+        }
+        userUri
+        walletAddress
+    }
+}
